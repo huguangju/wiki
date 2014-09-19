@@ -1,9 +1,8 @@
-wiki
+wiki - Github 流行库资源列表 
 ====
 
 see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ "A curated list of awesome lists")
 
-### Github 流行库资源列表 
 
 ##Python
 >[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python) ( Python资源集合 )
