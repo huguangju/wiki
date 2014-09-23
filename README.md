@@ -3,9 +3,6 @@ wiki - Github 流行库资源列表
 
 see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ "A curated list of awesome lists")
 
-##FrontEnd
->[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)(Github上最火的前端开源项目列表)
-
 ##Java
 >[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
 
@@ -20,7 +17,7 @@ see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ 
 --
 
 ##Javascript
->[underscore](https://github.com/jashkenas/underscore) (JavaScript工具库,提供了常用的功能函数(each,map,reduce, filter...)而不继承任何JavaScript内置对象)
+>[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
 >[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
 
@@ -87,6 +84,8 @@ see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ 
 --
 
 ##Comprehensive
+>[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)(Github上最火的前端开源项目列表)
+
 >[awesome](https://github.com/sindresorhus/awesome)(各种主流语言的优秀项目集合)
 
 >[github_star.md](https://github.com/Tairy/Social-Networking-Analysis/blob/master/github/github_star.md)(同上)
