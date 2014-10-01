@@ -99,6 +99,13 @@ wiki - Github 流行库资源列表
 
 >[docopt](https://github.com/docopt/docopt) (如其名，用doc来指明你的 python脚本的cli用法。简洁明了，令人耳目一新 )
 
+>[django](https://github.com/django/django) (The Web framework for perfectionists with deadlines.)
+
+>[fabric](https://github.com/fabric/fabric) (Simple, Pythonic remote execution and deployment.)
+
+>[webpy](https://github.com/webpy/webpy) ( web framework for python that is as simple as it is powerful.)
+
+
 --
 
 ##Ohter
