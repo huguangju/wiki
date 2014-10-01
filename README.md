@@ -8,6 +8,8 @@ wiki - Github 流行库资源列表
 
 >[webmagic](https://github.com/code4craft/webmagic)(Java垂直爬虫框架,目标是简化爬虫的开发流程,让开发者专注于逻辑功能的开发)
 
+>[ansj_seg](https://github.com/ansjsun/ansj_seg) (ansj分词.ict的真正java实现.中文分词,人名识别,词性标注,用户自定义词典)
+
 >[generator-jhipster](https://github.com/jhipster/generator-jhipster) (用Yeoman + Maven + Spring + AngularJS搭建java项目的脚手架生成器)
 
 >[javaee7-samples](https://github.com/javaee-samples/javaee7-samples) (Java EE 7 Samples)
@@ -16,7 +18,7 @@ wiki - Github 流行库资源列表
 
 >[tutorials](https://github.com/eugenp/tutorials) (小而精的java教程集合)
 
->[ansj_seg](https://github.com/ansjsun/ansj_seg) (ansj分词.ict的真正java实现.中文分词,人名识别,词性标注,用户自定义词典)
+>[maven-framework-project](https://github.com/v5developer/maven-framework-project) (java各种相关技术的示例汇总)
 
 --
 
