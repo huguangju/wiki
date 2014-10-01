@@ -68,6 +68,8 @@ wiki - Github 流行库资源列表
 
 >[switchery](https://github.com/abpetkov/switchery) (IOS7风格的checkbox)
 
+>[animate.css](https://github.com/daneden/animate.css) (简单的、跨浏览器的CSS动画库)
+
 --
 
 ##Nodejs
