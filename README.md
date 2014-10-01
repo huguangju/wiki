@@ -22,7 +22,9 @@ wiki - Github 流行库资源列表
 
 >[wro4j](https://github.com/alexo/wro4j) (A tool for analysis and optimization of web resources for java)
 
-[imgscalr](https://github.com/thebuzzmedia/imgscalr) (java 图片缩放库)
+>[imgscalr](https://github.com/thebuzzmedia/imgscalr) (java 图片缩放库)
+
+>[elasticsearch](https://github.com/elasticsearch/elasticsearch) (分布式可扩展的实时搜索和分析引擎)
 
 --
 
