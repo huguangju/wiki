@@ -20,6 +20,10 @@ wiki - Github 流行库资源列表
 
 >[maven-framework-project](https://github.com/v5developer/maven-framework-project) (java各种相关技术的示例汇总)
 
+>[wro4j](https://github.com/alexo/wro4j) (A tool for analysis and optimization of web resources for java)
+
+[imgscalr](https://github.com/thebuzzmedia/imgscalr) (java 图片缩放库)
+
 --
 
 ##Javascript
@@ -75,6 +79,8 @@ wiki - Github 流行库资源列表
 
 ##Andorid
 >[afinal](https://github.com/yangfuhai/afinal) (android的ioc，orm框架)
+
+>[android-demos](https://github.com/novoda/android-demos) (Examples of Android applications)
 
 --
 
