@@ -1,8 +1,6 @@
 wiki - Github 流行库资源列表 
 ====
 
-see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ "A curated list of awesome lists")
-
 ##Java
 >[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
 
@@ -12,7 +10,13 @@ see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ 
 
 >[generator-jhipster](https://github.com/jhipster/generator-jhipster) (用Yeoman + Maven + Spring + AngularJS搭建java项目的脚手架生成器)
 
+>[javaee7-samples](https://github.com/javaee-samples/javaee7-samples) (Java EE 7 Samples)
+
 >[java8-tutorial](https://github.com/winterbe/java8-tutorial) (Java8 教程)
+
+>[tutorials](https://github.com/eugenp/tutorials) (小而精的java教程集合)
+
+>[ansj_seg](https://github.com/ansjsun/ansj_seg) (ansj分词.ict的真正java实现.中文分词,人名识别,词性标注,用户自定义词典)
 
 --
 
@@ -61,6 +65,15 @@ see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ 
 ##Nodejs
 >[pomelo](https://github.com/NetEase/pomelo) (快速、可扩展、分布式的Node.js游戏服务框架)
 
+>[meteor](https://github.com/meteor/meteor) (an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework)
+
+>[express](https://github.com/strongloop/express) (Fast, unopinionated, minimalist web framework for node.)
+
+--
+
+##Andorid
+>[afinal](https://github.com/yangfuhai/afinal) (android的ioc，orm框架)
+
 --
 
 ##Python
@@ -79,7 +92,9 @@ see details [http://huguangju.github.io/wiki/](http://huguangju.github.io/wiki/ 
 --
 
 ##Ohter
->[docker](https://github.com/docker/docker) (the open-source application container engine)
+>[docker](https://github.com/docker/docker) (开源的应用程序容器引擎)
+
+>[html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) (一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站)
 
 --
 
