@@ -1,5 +1,61 @@
-wiki - Github 流行库资源列表 
-====
+##Github java、javascript、css、python等资源列表 
+
+*目录*
++ [Awesome JavaScript](#awesome-javascript)
+  + [包管理器](#包管理器)
+  + [加载器](#加载器)
+  + [测试框架](#测试框架)
+  + [QA工具](#QA工具)
+  + [MVC框架](#MVC框架)
+  + [非MVC框架](#非MVC框架)
+  + [模板引擎](#模板引擎)
+  + [数据可视化](#数据可视化)
+    + [时间轴](#时间轴)
+  + [编辑器](#编辑器)
+  + [实用工具](#实用工具)
+    + [文件](#文件)
+    + [函数式编程](#函数式编程)
+    + [响应式编程](#响应式编程)
+    + [数据结构](#数据结构)
+    + [时间](#时间)
+    + [字符串](#字符串)
+    + [数字](#数字)
+    + [存储](#存储)
+    + [颜色](#颜色)
+    + [国际化和本地化](#国际化和本地化)
+    + [类](#类)
+    + [流程控制](#流程控制)
+    + [路由](#路由)
+    + [安全](#安全)
+    + [日志](#日志)
+    + [正则表达式](#正则表达式)
+    + [多媒体](#多媒体)
+    + [语音指令](#语音指令)
+    + [API](#api)
+    + [视觉检测](#视觉检测)
+  + UI
+    + [代码高亮](#code-highlighting)
+    + [加载状态](#loading-status)
+    + [数据验证](#validation)
+    + [Keyboard Wrappers](#keyboard-wrappers)
+    + [Tours And Guides](#tours-and-guides)
+    + [通知](#notifications)
+    + [滑块](#sliders)
+    + [范围滑块](#range-sliders)
+    + [表单组件](#form-widgets)
+    + [Tips](#tips)
+    + [模态框和弹出窗](#modals-and-popups)
+    + [滚动](#scroll)
+    + [菜单](#menu)
+    + [表格/网格](#tablegrid)
+  + 移动端
+    + [手势](#gesture)
+  + [地图](#maps)
+  + [动画](#animations)
++ [Other Awesome Lists](#other-awesome-lists)
+
+
+===
 
 ##Java
 >[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
