@@ -48,6 +48,7 @@
     + [滚动 (Scroll)](#scroll)
     + [菜单 (Menu)](#menu)
     + [表格/网格 (Table/Grid)](#tablegrid)
+    + [图表 (Chart)](#chart)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -128,37 +129,38 @@
 
 >[elasticsearch](https://github.com/elasticsearch/elasticsearch) (分布式可扩展的实时搜索和分析引擎)
 
---
+----
 
-##Javascript
-  + 实用工具
-    + Utility
-    
-      > [underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
+## Javascript
+### Utility
+> [underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
   
-  + UI
-    + Validation
-      
-      >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (流行jQuery表单验证插件)
-   
-    + 模态框和弹出窗
-    
-      >[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
+### Validation
+> [jquery-validation](https://github.com/jzaefferer/jquery-validation) (流行jQuery表单验证插件)
+
+### Form Widgets
+> [select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
+
+> [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
+
+> [visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
+
+### Modals and Popups
+> [jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
+  
+### Tablegrid
+> [jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
+
+### Chart
+> [echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
+
+
+----
 
 
 >[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
 
->[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) (兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
-
->[select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
-
->[visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
-
 >[amazeui](https://github.com/allmobilize/amazeui) (中国首个开源 HTML5 跨屏前端框架)
-
->[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
-
->[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
 
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
 
