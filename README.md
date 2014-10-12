@@ -1,6 +1,6 @@
 ##java、javascript、css、python等资源列表 
 
-+ [Awesome JavaScript](#awesome-javascript)
++ [JavaScript](#awesome-javascript)
   + [包管理器 (Package Managers)](#package-managers)
   + [加载器 (Loaders)](#loaders)
   + [测试框架 (Testing Frameworks)](#testing-frameworks)
@@ -12,6 +12,7 @@
     + [时间轴 (Timeline)](#timeline)
   + [编辑器 (Editors)](#editors)
   + 实用工具
+    + [工具类 (Utility)](utility)
     + [文件 (Files)](#files)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
@@ -55,7 +56,7 @@
 
 ====
 
-+ [Awesome Java](#awesome-java)
++ [Java](#awesome-java)
     + [构建工具 (Build Tool)](#build-tool)
     + [字节码操作 (Bytecode Manipulation)](#bytecode-manipulation)
     + [代码分析 (Code Analysis)](#code-analysis)
@@ -100,8 +101,7 @@
     + [博客 (Podcast)](#podcasts)
     + [网站 (Websites)](#websites)
 
-
-----
+--
 
 ##Java
 >[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
@@ -131,17 +131,26 @@
 --
 
 ##Javascript
->[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
+  + 实用工具
+    + Utility
+    
+      > [underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
+  
+  + UI
+    + Validation
+      
+      >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (流行jQuery表单验证插件)
+   
+    + 模态框和弹出窗
+    
+      >[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
+
 
 >[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
-
->[jquery-validation](https://github.com/jzaefferer/jquery-validation) (流行jQuery表单验证插件)
 
 >[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) (兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
 
 >[select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
-
->[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
 
 >[visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
 
