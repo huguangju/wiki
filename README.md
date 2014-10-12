@@ -1,6 +1,6 @@
 ##java、javascript、css、python等资源列表 
 
-+ [JavaScript](#awesome-javascript)
++ [JavaScript](#javascript)
   + [包管理器 (Package Managers)](#package-managers)
   + [加载器 (Loaders)](#loaders)
   + [测试框架 (Testing Frameworks)](#testing-frameworks)
@@ -12,7 +12,7 @@
     + [时间轴 (Timeline)](#timeline)
   + [编辑器 (Editors)](#editors)
   + 实用工具
-    + [工具类 (Utility)](#utility)
+    + [工具 (Utility)](#utility)
     + [文件 (Files)](#files)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
@@ -132,45 +132,45 @@
 ----
 
 ## Javascript
+### MVC Frameworks and Libraries
+>[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
+
+### Templating Engines 
+>[handlebars.js](https://github.com/wycats/handlebars.js)(JavaScript语义模板库，通过对view和data的分离来快速构建Web模板)
+
 ### Utility
-> [underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
+>[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
+
+### Routing
+>[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
   
 ### Validation
-> [jquery-validation](https://github.com/jzaefferer/jquery-validation) (流行jQuery表单验证插件)
+>[jquery-validation](https://github.com/jzaefferer/jquery-validation) (流行jQuery表单验证插件)
 
 ### Form Widgets
-> [select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
+>[select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
 
-> [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
+>[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
 
-> [visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
+>[visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
 
 ### Modals and Popups
-> [jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
+>[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
+
+### Scroll
+>[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
   
+>[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
+
 ### Tablegrid
-> [jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
+>[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
 
 ### Chart
-> [echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
+>[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
 
 
 ----
 
-
->[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
-
->[amazeui](https://github.com/allmobilize/amazeui) (中国首个开源 HTML5 跨屏前端框架)
-
->[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
-
->[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
-
->[jquery-address](https://github.com/asual/jquery-address) (https://github.com/asual/jquery-address)
-
->[handlebars.js](https://github.com/wycats/handlebars.js)(JavaScript语义模板库，通过对view和data的分离来快速构建Web模板)
-
---
 
 ##CSS
 >[bootstrap](https://github.com/twbs/bootstrap) (简洁、直观、强悍的前端开发框架，让web开发更迅速、简单:thumbsup:)
@@ -178,6 +178,8 @@
 >[uikit](https://github.com/uikit/uikit) (轻量级和模块化的前端框架,快速开发web程序)
 
 >[Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)(语义化设计的前端框架，为攻城师而制作的可复用的开源前端框架)
+
+>[amazeui](https://github.com/allmobilize/amazeui) (中国首个开源 HTML5 跨屏前端框架)
 
 >[switchery](https://github.com/abpetkov/switchery) (IOS7风格的checkbox)
 
@@ -240,5 +242,4 @@
 >[awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) (系统管理员资源集合)
 
 >[lists](https://github.com/jnv/lists) (资源集合的集合)
-
 
