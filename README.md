@@ -12,7 +12,7 @@
     + [时间轴 (Timeline)](#timeline)
   + [编辑器 (Editors)](#editors)
   + 实用工具
-    + [工具类 (Utility)](utility)
+    + [工具类 (Utility)](#utility)
     + [文件 (Files)](#files)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
