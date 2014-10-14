@@ -1,5 +1,7 @@
 ##java、javascript、css、python等资源列表 
 
+## ```目录```
+
 + [JavaScript](#javascript)
   + [包管理器 (Package Managers)](#package-managers)
   + [加载器 (Loaders)](#loaders)
@@ -49,6 +51,8 @@
     + [菜单 (Menu)](#menu)
     + [表格/网格 (Table/Grid)](#tablegrid)
     + [图表 (Chart)](#chart)
+    + [WebGL](#wbebgl)
+    + [背景 (Background)](#background)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -103,9 +107,59 @@
     + [博客 (Podcast)](#podcasts)
     + [网站 (Websites)](#websites)
 
---
 
-##Java
+====
+
+
+## ```Javascript```
+### MVC Frameworks and Libraries
+>[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
+
+### Templating Engines 
+>[handlebars.js](https://github.com/wycats/handlebars.js)(JavaScript语义模板库，通过对view和data的分离来快速构建Web模板)
+
+### Utility
+>[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
+
+### Routing
+>[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
+>[js-url](https://github.com/websanova/js-url)(简单、轻量级的url解析器)
+  
+### Validation
+>[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
+
+
+### Form Widgets
+>[select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
+
+>[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
+
+>[visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
+
+### Modals and Popups
+>[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
+
+### Scroll
+>[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
+  
+>[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
+
+
+### Tablegrid
+>[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
+
+### Chart
+>[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
+
+### WebGL
+>[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
+
+### Background
+>[Vide](https://github.com/VodkaBears/Vide)(视频背景效果Jquery插件)
+
+====
+
+## ```Java```
 
 ### Distributed Applications
 >[elasticsearch](https://github.com/elasticsearch/elasticsearch) (分布式可扩展的实时搜索和分析引擎)
@@ -142,48 +196,7 @@
 
 ----
 
-## Javascript
-### MVC Frameworks and Libraries
->[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
-
-### Templating Engines 
->[handlebars.js](https://github.com/wycats/handlebars.js)(JavaScript语义模板库，通过对view和data的分离来快速构建Web模板)
-
-### Utility
->[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
-
-### Routing
->[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
-  
-### Validation
->[jquery-validation](https://github.com/jzaefferer/jquery-validation) (流行jQuery表单验证插件)
-
-### Form Widgets
->[select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
-
->[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
-
->[visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
-
-### Modals and Popups
->[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
-
-### Scroll
->[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
-  
->[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
-
-### Tablegrid
->[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
-
-### Chart
->[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
-
-
-----
-
-
-##CSS
+## ```CSS```
 >[bootstrap](https://github.com/twbs/bootstrap) (简洁、直观、强悍的前端开发框架，让web开发更迅速、简单:thumbsup:)
 
 >[uikit](https://github.com/uikit/uikit) (轻量级和模块化的前端框架,快速开发web程序)
@@ -196,25 +209,25 @@
 
 >[animate.css](https://github.com/daneden/animate.css) (简单的、跨浏览器的CSS动画库)
 
---
+====
 
-##Nodejs
+## ```Nodejs```
 >[pomelo](https://github.com/NetEase/pomelo) (快速、可扩展、分布式的Node.js游戏服务框架)
 
 >[meteor](https://github.com/meteor/meteor) (an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework)
 
 >[express](https://github.com/strongloop/express) (Fast, unopinionated, minimalist web framework for node.)
 
---
+====
 
-##Andorid
+## ```Andorid```
 >[afinal](https://github.com/yangfuhai/afinal) (android的ioc，orm框架)
 
 >[android-demos](https://github.com/novoda/android-demos) (Examples of Android applications)
 
---
+====
 
-##Python
+## ```Python```
 >[awesome-python](https://github.com/vinta/awesome-python) ( Python资源集合 )
 
 >[python-guide](https://github.com/kennethreitz/python-guide)（Python 最佳实践手册）
@@ -234,16 +247,16 @@
 >[webpy](https://github.com/webpy/webpy) ( web framework for python that is as simple as it is powerful.)
 
 
---
+====
 
-##Ohter
+## ```Ohter```
 >[docker](https://github.com/docker/docker) (开源的应用程序容器引擎)
 
 >[html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) (一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站)
 
---
+====
 
-##Comprehensive
+## ```Miscellaneous```
 >[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)(Github上最火的前端开源项目列表)
 
 >[awesome](https://github.com/sindresorhus/awesome)(各种主流语言的优秀项目集合)
