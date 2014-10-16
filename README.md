@@ -10,8 +10,10 @@
   + [MVC框架 (MVC Frameworks and Libraries)](#mvc-frameworks-and-libraries)
   + [非MVC框架 (Non-MVC Frameworks)](#non-mvc-frameworks)
   + [模板引擎 (Templating Engines)](#templating-engines)
+  + [数据绑定 (Data Binding)](#data-binding)
   + [数据可视化 (Data Visualization)](#data-visualization)
     + [时间轴 (Timeline)](#timeline)
+  + [文件上传 (File Upload)](#file-upload)
   + [编辑器 (Editors)](#editors)
   + 实用工具
     + [工具 (Utility)](#utility)
@@ -53,6 +55,7 @@
     + [图表 (Chart)](#chart)
     + [WebGL](#wbebgl)
     + [背景 (Background)](#background)
+    + [特效组件 (Effects Widgets)](#effects-widgets)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -112,38 +115,55 @@
 
 
 ## ```Javascript```
-### MVC Frameworks and Libraries
+### Non-MVC Frameworks
+>[ember.js](https://github.com/emberjs/ember.js)(A JavaScript framework for creating ambitious web applications)
+
+### Data Binding
 >[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
+
+>[bindonce](https://github.com/Pasvaz/bindonce)（Zero watches binding for AngularJs）
 
 ### Templating Engines 
 >[handlebars.js](https://github.com/wycats/handlebars.js)(JavaScript语义模板库，通过对view和data的分离来快速构建Web模板)
+
+### Editors
+>[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
+
+### File Upload
+>[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)(功能强大的文件上传组件，你值得拥有)
 
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
 ### Routing
 >[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
+
 >[js-url](https://github.com/websanova/js-url)(简单、轻量级的url解析器)
   
 ### Validation
 >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
 
+### Sliders
+>[unslider](https://github.com/idiot/unslider)（最简单的jQuery滑块插件）
 
 ### Form Widgets
->[select2](https://github.com/ivaynberg/select2) (同上,支持搜索、远程数据访问、无限下拉滚动:ok_hand:)
+>[select2](https://github.com/ivaynberg/select2) (支持搜索、远程数据访问、无限下拉滚动 :ok_hand:)
 
 >[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
 
+>[multi-select](https://github.com/lou/multi-select)(一个替换标准选择框的、用户友好的多属性添加与移除选择框）
+
 >[visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
+
+>[jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)(表单字段和页面元素掩码jQuery插件) 
+
+>[jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask)(jQuery Input Mask plugin)
 
 ### Modals and Popups
 >[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
 
 ### Scroll
->[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
-  
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
-
 
 ### Tablegrid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
@@ -154,8 +174,22 @@
 ### WebGL
 >[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
 
+### Menu
+>[jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)(用于电商网站的多级商品菜单)
+
+>[jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu) (The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.)
+
 ### Background
 >[Vide](https://github.com/VodkaBears/Vide)(视频背景效果Jquery插件)
+
+>[jquery-backstretch](https://github.com/srobbin/jquery-backstretch) (动态伸缩页面元素、幻灯片式轮播背景图片)
+
+### Effects Widgets
+>[jquery.pin](https://github.com/webpop/jquery.pin)（将任意页面元素“钉”在某个容器顶部，而且在尺寸小的屏幕上能够自动禁用这种效果）
+
+>[stickUp](https://github.com/LiranCohen/stickUp)（让页面目标元素 “固定” 在浏览器窗口的顶部）
+
+>[headroom.js](https://github.com/WickyNilliams/headroom.js)（为页面顶部多留些空间。在不需要页头时将其隐藏）
 
 ====
 
