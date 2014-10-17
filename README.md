@@ -24,7 +24,7 @@
     + [时间 (Date)](#date)
     + [字符串 (String)](#string)
     + [数字 (Number)](#number)
-    + [存储 (storage)](#storage)
+    + [存储 (Storage)](#storage)
     + [颜色 (Color)](#color)
     + [国际化和本地化 (I18n And L10n)](#i18n-and-l10n)
     + [类 (Class)](#class)
@@ -135,6 +135,9 @@
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
+### Storage
+>[jquery-cookie](https://github.com/carhartl/jquery-cookie)(简单、轻量级的cookie操作的jQuery插件)
+
 ### Routing
 >[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
 
@@ -164,6 +167,14 @@
 
 ### Scroll
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
+
+>[skrollr](https://github.com/Prinzhorn/skrollr)(Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love))
+
+>[parallax](https://github.com/wagerfield/parallax)(Parallax Engine that reacts to the orientation of a smart device)
+
+>[jQuery-Parallax](https://github.com/IanLunn/jQuery-Parallax)(Used to recreate the Nike Better World parallax effect)
+
+>[Parallaxjs](https://github.com/stolksdorf/Parallaxjs)(A Library for Javascript that allows easy page parallaxing)
 
 ### Tablegrid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
