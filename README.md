@@ -56,6 +56,8 @@
     + [WebGL](#wbebgl)
     + [背景 (Background)](#background)
     + [特效组件 (Effects Widgets)](#effects-widgets)
+    + [导航 (Navigation)](#navigation)
+    + [响应式 (Responsive)](#responsive)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -110,13 +112,14 @@
     + [博客 (Podcast)](#podcasts)
     + [网站 (Websites)](#websites)
 
-
 ====
 
 
 ## ```Javascript```
 ### Non-MVC Frameworks
 >[ember.js](https://github.com/emberjs/ember.js)(A JavaScript framework for creating ambitious web applications)
+
+>[ionic](https://github.com/driftyco/ionic)(Advanced HTML5 Mobile App Framework. A beautiful front-end framework for developing hybrid mobile apps in HTML5. Best friends with AngularJS.)
 
 ### Data Binding
 >[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
@@ -143,11 +146,18 @@
 
 >[js-url](https://github.com/websanova/js-url)(简单、轻量级的url解析器)
   
+### Loading Status
+>[nprogress](https://github.com/rstacruz/nprogress)(For slim progress bars like on YouTube, Medium, etc)
+
 ### Validation
 >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
 
 ### Sliders
->[unslider](https://github.com/idiot/unslider)（最简单的jQuery滑块插件）
+>[unslider](https://github.com/idiot/unslider)(最简单的jQuery滑块插件)
+
+>[slick](https://github.com/kenwheeler/slick)(the last carousel you'll ever need)
+
+>[Ideal-Image-Slider](https://github.com/gilbitron/Ideal-Image-Slider)(Quite simply the ideal Image Slider in vanilla JS.)
 
 ### Form Widgets
 >[select2](https://github.com/ivaynberg/select2) (支持搜索、远程数据访问、无限下拉滚动 :ok_hand:)
@@ -161,6 +171,8 @@
 >[jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)(表单字段和页面元素掩码jQuery插件) 
 
 >[jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask)(jQuery Input Mask plugin)
+
+>[typeahead.js](https://github.com/twitter/typeahead.js)(is a fast and fully-featured autocomplete library)
 
 ### Modals and Popups
 >[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
@@ -201,6 +213,12 @@
 >[stickUp](https://github.com/LiranCohen/stickUp)（让页面目标元素 “固定” 在浏览器窗口的顶部）
 
 >[headroom.js](https://github.com/WickyNilliams/headroom.js)（为页面顶部多留些空间。在不需要页头时将其隐藏）
+
+### Navigation
+>[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
+
+### Responsive
+>[Respond](https://github.com/scottjehl/Respond)(A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more))
 
 ====
 
