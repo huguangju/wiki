@@ -20,7 +20,7 @@
     + [文件 (Files)](#files)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
-    + [Ppromise)](#promise)
+    + [Promise)](#promise)
     + [数据结构 (Data Structure)](#data-structure)
     + [时间 (Date)](#date)
     + [字符串 (String)](#string)
@@ -150,7 +150,7 @@
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
-### Ppromise
+### Promise
 >[q](https://github.com/kriskowal/q)(A tool for making and composing asynchronous promises in JavaScript)
 
 ### Storage
