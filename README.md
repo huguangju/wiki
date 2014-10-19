@@ -20,6 +20,7 @@
     + [文件 (Files)](#files)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
+    + [Ppromise)](#promise)
     + [数据结构 (Data Structure)](#data-structure)
     + [时间 (Date)](#date)
     + [字符串 (String)](#string)
@@ -54,6 +55,7 @@
     + [表格/网格 (Table/Grid)](#tablegrid)
     + [图表 (Chart)](#chart)
     + [WebGL](#wbebgl)
+    + [图形库 (Graphics Library）](#graphics-library)
     + [背景 (Background)](#background)
     + [特效组件 (Effects Widgets)](#effects-widgets)
     + [导航 (Navigation)](#navigation)
@@ -116,6 +118,9 @@
 
 
 ## ```Javascript```
+### Testing Frameworks
+>[jasmine](https://github.com/pivotal/jasmine)(DOM-less simple JavaScript testing framework)
+
 ### Non-MVC Frameworks
 >[ember.js](https://github.com/emberjs/ember.js)(A JavaScript framework for creating ambitious web applications)
 
@@ -129,6 +134,13 @@
 ### Templating Engines 
 >[handlebars.js](https://github.com/wycats/handlebars.js)(JavaScript语义模板库，通过对view和data的分离来快速构建Web模板)
 
+>[mustache.js](https://github.com/janl/mustache.js)(Minimal templating with {{mustaches}} in JavaScript) 
+
+>[artTemplate](https://github.com/aui/artTemplate)(性能卓越的 js 模板引擎)
+
+### Timeline
+>[TimelineJS](https://github.com/NUKnightLab/TimelineJS)(A Storytelling Timeline built in JavaScript)    
+
 ### Editors
 >[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
 
@@ -138,16 +150,26 @@
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
+### Ppromise
+>[q](https://github.com/kriskowal/q)(A tool for making and composing asynchronous promises in JavaScript)
+
 ### Storage
 >[jquery-cookie](https://github.com/carhartl/jquery-cookie)(简单、轻量级的cookie操作的jQuery插件)
 
 ### Routing
 >[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
 
+>[history.js](https://github.com/browserstate/history.js)(gracefully supports the HTML5 History/State APIs)(pushState, replaceState, onPopState) in all browsers)
+
 >[js-url](https://github.com/websanova/js-url)(简单、轻量级的url解析器)
   
+### Media
+>[video.js](https://github.com/videojs/video.js)(open source HTML5 & Flash video player)
+
 ### Loading Status
 >[nprogress](https://github.com/rstacruz/nprogress)(For slim progress bars like on YouTube, Medium, etc)
+
+>[spin.js](https://github.com/fgnass/spin.js)(A spinning activity indicator)
 
 ### Validation
 >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
@@ -197,6 +219,9 @@
 ### WebGL
 >[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
 
+### Graphics Library
+>[raphael](https://github.com/DmitryBaranovskiy/raphael)(JavaScript Vector Library)
+
 ### Menu
 >[jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)(用于电商网站的多级商品菜单)
 
@@ -219,6 +244,9 @@
 
 ### Responsive
 >[Respond](https://github.com/scottjehl/Respond)(A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more))
+
+### Other Awesome Lists
+>[idiomatic.js](https://github.com/rwaldron/idiomatic.js) (书写具备一致风格、通俗易懂 JavaScript 的原则)
 
 ====
 
