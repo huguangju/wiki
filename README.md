@@ -20,7 +20,7 @@
     + [文件 (Files)](#files)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
-    + [Promise)](#promise)
+    + [Promise](#promise)
     + [数据结构 (Data Structure)](#data-structure)
     + [时间 (Date)](#date)
     + [字符串 (String)](#string)
