@@ -265,6 +265,7 @@
 >[idiomatic.js](https://github.com/rwaldron/idiomatic.js) (书写具备一致风格、通俗易懂 JavaScript 的原则)
 
 >[javascript-patterns](https://github.com/shichuan/javascript-patterns)
+
 ====
 
 ## ```Java```
