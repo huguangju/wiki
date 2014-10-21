@@ -60,6 +60,7 @@
     + [特效组件 (Effects Widgets)](#effects-widgets)
     + [导航 (Navigation)](#navigation)
     + [响应式 (Responsive)](#responsive)
+    + [拖放 (Drag/Drop)](#drag-drop)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -147,6 +148,12 @@
 ### File Upload
 >[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)(功能强大的文件上传组件，你值得拥有)
 
+>[plupload](https://github.com/moxiecode/plupload)(Plupload is a JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash. )
+
+>[webuploader](https://github.com/fex-team/webuploader)(It's a new file uploader solution!)
+
+>[angular-file-upload](https://github.com/danialfarid/angular-file-upload)(An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers)
+
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
@@ -210,8 +217,12 @@
 
 >[Parallaxjs](https://github.com/stolksdorf/Parallaxjs)(A Library for Javascript that allows easy page parallaxing)
 
-### Tablegrid
+>[onepage-scroll](https://github.com/peachananr/onepage-scroll)(Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin)
+
+### Table/Grid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
+
+>[grid](https://github.com/uberVU/grid)(Drag and drop library for two-dimensional, resizable and responsive lists)
 
 ### Chart
 >[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
@@ -239,15 +250,21 @@
 
 >[headroom.js](https://github.com/WickyNilliams/headroom.js)（为页面顶部多留些空间。在不需要页头时将其隐藏）
 
+>[fullPage.js](https://github.com/alvarotrigo/fullPage.js) (fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple)
+
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
 
 ### Responsive
 >[Respond](https://github.com/scottjehl/Respond)(A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more))
 
+### Drag Drop
+>[dropzone](https://github.com/enyo/dropzone)(简单地拖放库，支持图片预览，有好看的进度条。)
+
 ### Other Awesome Lists
 >[idiomatic.js](https://github.com/rwaldron/idiomatic.js) (书写具备一致风格、通俗易懂 JavaScript 的原则)
 
+>[javascript-patterns](https://github.com/shichuan/javascript-patterns)
 ====
 
 ## ```Java```
