@@ -41,6 +41,7 @@
   + UI
     + [代码高亮 (Code Highlighting)](#code-highlighting)
     + [加载状态 (Loading Status)](#loading-status)
+    + [延迟加载 (Lazy Load)](#lazy-load)
     + [数据验证 (Validation)](#validation)
     + [Keyboard Wrappers](#keyboard-wrappers)
     + [Tours And Guides](#tours-and-guides)
@@ -55,12 +56,13 @@
     + [表格/网格 (Table/Grid)](#tablegrid)
     + [图表 (Chart)](#chart)
     + [WebGL](#wbebgl)
-    + [图形库 (Graphics Library）](#graphics-library)
+    + [图形库 (Graphics Library)](#graphics-library)
     + [背景 (Background)](#background)
     + [特效组件 (Effects Widgets)](#effects-widgets)
     + [导航 (Navigation)](#navigation)
     + [响应式 (Responsive)](#responsive)
     + [拖放 (Drag/Drop)](#drag-drop)
+    + [相册 (Gallery)](#gallery)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -157,6 +159,10 @@
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
+>[underscore.string](https://github.com/epeli/underscore.string)(String manipulation extensions for Underscore.js javascript library. )
+
+>[jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel)(A jQuery plugin that adds cross-browser mouse wheel support.)
+
 ### Promise
 >[q](https://github.com/kriskowal/q)(A tool for making and composing asynchronous promises in JavaScript)
 
@@ -170,6 +176,11 @@
 
 >[js-url](https://github.com/websanova/js-url)(简单、轻量级的url解析器)
   
+### Log
+>[log](https://github.com/adamschwartz/log)(Console.log with style)
+
+>[console.image](https://github.com/adriancooney/console.image)(The one thing Chrome Dev Tools didn't need.)
+
 ### Media
 >[video.js](https://github.com/videojs/video.js)(open source HTML5 & Flash video player)
 
@@ -177,6 +188,9 @@
 >[nprogress](https://github.com/rstacruz/nprogress)(For slim progress bars like on YouTube, Medium, etc)
 
 >[spin.js](https://github.com/fgnass/spin.js)(A spinning activity indicator)
+
+### Lazy Load
+>[echo](https://github.com/toddmotto/echo)(Lazy-loading images with data-* attributes)
 
 ### Validation
 >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
@@ -204,7 +218,9 @@
 >[typeahead.js](https://github.com/twitter/typeahead.js)(is a fast and fully-featured autocomplete library)
 
 ### Modals and Popups
->[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件:clap:)
+>[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件 :clap:)
+
+>[toolbar](https://github.com/paulkinzett/toolbar)(A tooltip style toolbar jQuery plugin :+1:)
 
 ### Scroll
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
@@ -252,6 +268,12 @@
 
 >[fullPage.js](https://github.com/alvarotrigo/fullPage.js) (fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple)
 
+>[jquery-focuspoint](https://github.com/jonom/jquery-focuspoint)(jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.)
+
+>[shine.js](https://github.com/bigspaceship/shine.js)(A library for pretty shadows.)
+
+>[real-shadow](https://github.com/Indamix/real-shadow)(Module that casts photorealistic shadows)
+
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
 
@@ -260,6 +282,10 @@
 
 ### Drag Drop
 >[dropzone](https://github.com/enyo/dropzone)(简单地拖放库，支持图片预览，有好看的进度条。)
+
+### Gallery
+>[Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)( Code Pull Requests 0 Pulse Graphs HTTPS clone URL You can clone with HTTPS, SSH, or Subversion. Clone in Desktop  Download ZIP
+Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, responsive and customizable image and video gallery. It displays images and videos in the modal dialog of the Bootstrap framework, features swipe, mouse and keyboard navigation, transition effects, fullscreen support and on-demand content loading and can be extended to …)
 
 ### Other Awesome Lists
 >[idiomatic.js](https://github.com/rwaldron/idiomatic.js) (书写具备一致风格、通俗易懂 JavaScript 的原则)
