@@ -1,7 +1,5 @@
 ##java、javascript、css、python等资源列表 
 
-## ```目录```
-
 + [JavaScript](#javascript)
   + [包管理器 (Package Managers)](#package-managers)
   + [加载器 (Loaders)](#loaders)
@@ -70,55 +68,6 @@
 + [Other Awesome Lists](#other-awesome-lists)
 
 ====
-
-+ [Java](#awesome-java)
-    + [构建工具 (Build Tool)](#build-tool)
-    + [字节码操作 (Bytecode Manipulation)](#bytecode-manipulation)
-    + [代码分析 (Code Analysis)](#code-analysis)
-    + [编译程序的编译程序 (Compiler-compiler)](#compiler-compiler)
-    + [持续集成 (Continuous Integration)](#continuous-integration)
-    + [数据库 (Database)](#database)
-    + [日期时间 (Date and Time)](#date-and-time)
-    + [依赖注入 (Dependency Injection)](#dependency-injection)
-    + [分布式应用 (Distributed Applications)](#distributed-applications)
-    + [分布式 (Distribution)](#distribution)
-    + [文档处理 (Document Processing)](#document-processing)
-    + [游戏开发 (Game Development)](#game-development)
-    + [GUI](#gui)
-    + [高性能 (High Performance)](#high-performance)
-    + [IDE](#ide)
-    + [图像处理 (Imagery)](#imagery)
-    + [JSON](#json)
-    + [JVM and JDK](#jvm-and-jdk)
-    + [日志 (Logging)](#logging)
-    + [机器学习 (Machine Learning)](#machine-learning)
-    + [消息 (Messaging)](#messaging)
-    + [综合 (Miscellaneous)](#miscellaneous)
-    + [自然语言处理 (Natural Language Processing)](#natural-language-processing)
-    + [网络 (Networking)](#networking)
-    + [ORM](#orm)
-    + [PDF](#pdf)
-    + [BPM](#bpm)
-    + [REST Frameworks](#rest-frameworks)
-    + [科学 (Science)](#science)
-    + [搜索 (Search)](#search)
-    + [安全 (Security)](#security)
-    + [序列化 (Serialization)](#serialization)
-    + [服务器 (Server)](#server)
-    + [模板引擎 (Template Engine)](#template-engine)
-    + [测试 (Testing)](#testing)
-    + [工具 (Utility)](#utility)
-    + [网络爬虫 (Web Crawling)](#web-crawling)
-    + [Web框架 (Web Frameworks)](#web-frameworks)
-    + [教程 (Tutorial)](#tutorial)
-+ [资源 (Resources)](#resources)
-    + [社区 (Communities)](#communities)
-    + [好书 (Influential Books)](#influential-books)
-    + [博客 (Podcast)](#podcasts)
-    + [网站 (Websites)](#websites)
-
-====
-
 
 ## ```Javascript```
 ### Testing Frameworks
@@ -292,113 +241,5 @@ Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, res
 
 >[javascript-patterns](https://github.com/shichuan/javascript-patterns)
 
-====
-
-## ```Java```
-
-### Distributed Applications
->[elasticsearch](https://github.com/elasticsearch/elasticsearch) (分布式可扩展的实时搜索和分析引擎)
-
-### Imagery
->[imgscalr](https://github.com/thebuzzmedia/imgscalr) (java 图片缩放库)
-
->[xultimate-resource](https://github.com/daniellitoc/xultimate-resource)(采用Spring MVC，用于在FastDFS分布式文件系统中完成资源管理(上传、删除、下载)的ShowCase。图片类资源的支持实时缩略图功能。缩放、剪裁、水印等功能通过已封装好AWT和im4java进行处理，即支持GraphicsMagick。)
-
-### BPM
->[Activiti](https://github.com/Activiti/Activiti) (light-weight workflow and Business Process Management (BPM) Platform)
-
-### Utility
->[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
-
->[generator-jhipster](https://github.com/jhipster/generator-jhipster) (用Yeoman + Maven + Spring + AngularJS搭建java项目的脚手架生成器)
-
->[wro4j](https://github.com/alexo/wro4j) (A tool for analysis and optimization of web resources for java)
-
-### Search
->[ansj_seg](https://github.com/ansjsun/ansj_seg) (ansj分词.ict的真正java实现.中文分词,人名识别,词性标注,用户自定义词典)
-
-### Web Crawling
->[webmagic](https://github.com/code4craft/webmagic)(Java垂直爬虫框架,目标是简化爬虫的开发流程,让开发者专注于逻辑功能的开发)
-
-### Tutorial
->[javaee7-samples](https://github.com/javaee-samples/javaee7-samples) (Java EE 7 Samples)
-
->[java8-tutorial](https://github.com/winterbe/java8-tutorial) (Java8 教程)
-
->[tutorials](https://github.com/eugenp/tutorials) (小而精的java教程集合)
-
->[maven-framework-project](https://github.com/v5developer/maven-framework-project) (java各种相关技术的示例汇总)
-
-----
-
-## ```CSS```
->[bootstrap](https://github.com/twbs/bootstrap) (简洁、直观、强悍的前端开发框架，让web开发更迅速、简单:thumbsup:)
-
->[uikit](https://github.com/uikit/uikit) (轻量级和模块化的前端框架,快速开发web程序)
-
->[Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)(语义化设计的前端框架，为攻城师而制作的可复用的开源前端框架)
-
->[amazeui](https://github.com/allmobilize/amazeui) (中国首个开源 HTML5 跨屏前端框架)
-
->[switchery](https://github.com/abpetkov/switchery) (IOS7风格的checkbox)
-
->[animate.css](https://github.com/daneden/animate.css) (简单的、跨浏览器的CSS动画库)
-
-====
-
-## ```Nodejs```
->[pomelo](https://github.com/NetEase/pomelo) (快速、可扩展、分布式的Node.js游戏服务框架)
-
->[meteor](https://github.com/meteor/meteor) (an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework)
-
->[express](https://github.com/strongloop/express) (Fast, unopinionated, minimalist web framework for node.)
-
-====
-
-## ```Andorid```
->[afinal](https://github.com/yangfuhai/afinal) (android的ioc，orm框架)
-
->[android-demos](https://github.com/novoda/android-demos) (Examples of Android applications)
-
-====
-
-## ```Python```
->[awesome-python](https://github.com/vinta/awesome-python) ( Python资源集合 )
-
->[python-guide](https://github.com/kennethreitz/python-guide)（Python 最佳实践手册）
-
->[flask](https://github.com/mitsuhiko/flask) （无需多说，Flask是Python中优美的web框架）
-
->[requests](https://github.com/kennethreitz/requests) (Python的HTTP请求操作库，for humans ! )
-
->[jinja2](https://github.com/mitsuhiko/jinja2) (模板引擎.优美,优美,欲罢不能 )
-
->[docopt](https://github.com/docopt/docopt) (如其名，用doc来指明你的 python脚本的cli用法。简洁明了，令人耳目一新 )
-
->[django](https://github.com/django/django) (The Web framework for perfectionists with deadlines.)
-
->[fabric](https://github.com/fabric/fabric) (Simple, Pythonic remote execution and deployment.)
-
->[webpy](https://github.com/webpy/webpy) ( web framework for python that is as simple as it is powerful.)
-
-
-====
-
-## ```Ohter```
->[docker](https://github.com/docker/docker) (开源的应用程序容器引擎)
-
 >[html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) (一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站)
-
-====
-
-## ```Miscellaneous```
->[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)(Github上最火的前端开源项目列表)
-
->[awesome](https://github.com/sindresorhus/awesome)(各种主流语言的优秀项目集合)
-
->[github_star.md](https://github.com/Tairy/Social-Networking-Analysis/blob/master/github/github_star.md)(同上)
-
->[awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) (系统管理员资源集合)
-
->[lists](https://github.com/jnv/lists) (资源集合的集合)
 
