@@ -1,4 +1,4 @@
-##java、javascript、css、python等资源列表 
+## JavaScript, [Java](bookmark-java.md), [Andorid](bookmark-andorid.md), [CSS](bookmark-css.md), [Python](bookmark-pyton.md), [etc](bookmark-miscellaneous.md).
 
 + [JavaScript](#javascript)
   + [包管理器 (Package Managers)](#package-managers)
