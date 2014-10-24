@@ -52,6 +52,7 @@
     + [滚动 (Scroll)](#scroll)
     + [菜单 (Menu)](#menu)
     + [表格/网格 (Table/Grid)](#tablegrid)
+    + [排序 (Sortable)](#sortable)
     + [图表 (Chart)](#chart)
     + [WebGL](#wbebgl)
     + [图形库 (Graphics Library)](#graphics-library)
@@ -61,6 +62,7 @@
     + [响应式 (Responsive)](#responsive)
     + [拖放 (Drag/Drop)](#drag-drop)
     + [相册 (Gallery)](#gallery)
+    + [动画 (Animation)](#animation)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -138,6 +140,8 @@
 
 >[spin.js](https://github.com/fgnass/spin.js)(A spinning activity indicator)
 
+>[progress.js](https://github.com/usablica/progress.js)(ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.)
+
 ### Lazy Load
 >[echo](https://github.com/toddmotto/echo)(Lazy-loading images with data-* attributes)
 
@@ -150,6 +154,8 @@
 >[slick](https://github.com/kenwheeler/slick)(the last carousel you'll ever need)
 
 >[Ideal-Image-Slider](https://github.com/gilbitron/Ideal-Image-Slider)(Quite simply the ideal Image Slider in vanilla JS.)
+
+>[jquery.smoothState.js](https://github.com/weblinc/jquery.smoothState.js)(A jQuery plugin to stop the jank of page loads.)
 
 ### Form Widgets
 >[select2](https://github.com/ivaynberg/select2) (支持搜索、远程数据访问、无限下拉滚动 :ok_hand:)
@@ -174,6 +180,10 @@
 ### Scroll
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
 
+>[jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
+
+>[jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll)(类似iphone/ipad的滚动条)
+
 >[skrollr](https://github.com/Prinzhorn/skrollr)(Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love))
 
 >[parallax](https://github.com/wagerfield/parallax)(Parallax Engine that reacts to the orientation of a smart device)
@@ -188,6 +198,9 @@
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
 
 >[grid](https://github.com/uberVU/grid)(Drag and drop library for two-dimensional, resizable and responsive lists)
+
+### Sortable
+>[html5sortable](https://github.com/farhadi/html5sortable)(Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.)
 
 ### Chart
 >[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
@@ -223,6 +236,8 @@
 
 >[real-shadow](https://github.com/Indamix/real-shadow)(Module that casts photorealistic shadows)
 
+>[gif.js](https://github.com/jnordberg/gif.js)(JavaScript GIF encoding library)
+
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
 
@@ -236,10 +251,12 @@
 >[Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)( Code Pull Requests 0 Pulse Graphs HTTPS clone URL You can clone with HTTPS, SSH, or Subversion. Clone in Desktop  Download ZIP
 Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, responsive and customizable image and video gallery. It displays images and videos in the modal dialog of the Bootstrap framework, features swipe, mouse and keyboard navigation, transition effects, fullscreen support and on-demand content loading and can be extended to …)
 
+### Animation
+[jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)(Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.)
+
 ### Other Awesome Lists
 >[idiomatic.js](https://github.com/rwaldron/idiomatic.js) (书写具备一致风格、通俗易懂 JavaScript 的原则)
 
 >[javascript-patterns](https://github.com/shichuan/javascript-patterns)
 
 >[html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) (一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站)
-
