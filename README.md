@@ -80,6 +80,8 @@
 
 >[ionic](https://github.com/driftyco/ionic)(Advanced HTML5 Mobile App Framework. A beautiful front-end framework for developing hybrid mobile apps in HTML5. Best friends with AngularJS.)
 
+>[aralejs](https://github.com/aralejs/aralejs.org)(开放、简单、易用的前端基础类库)
+
 ### Data Binding
 >[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
 
@@ -113,6 +115,9 @@
 >[underscore.string](https://github.com/epeli/underscore.string)(String manipulation extensions for Underscore.js javascript library. )
 
 >[jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel)(A jQuery plugin that adds cross-browser mouse wheel support.)
+
+### String
+>[string.js](https://github.com/jprichardson/string.js)(Extra JavaScript string methods.)
 
 ### Promise
 >[q](https://github.com/kriskowal/q)(A tool for making and composing asynchronous promises in JavaScript)
@@ -148,6 +153,9 @@
 ### Validation
 >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
 
+### Keyboard Wrappers
+>[jquery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)(jquery.hotkeys plugin lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination. It takes one line of code to bind/unbind a hot key combination)
+
 ### Sliders
 >[unslider](https://github.com/idiot/unslider)(最简单的jQuery滑块插件)
 
@@ -177,12 +185,16 @@
 
 >[toolbar](https://github.com/paulkinzett/toolbar)(A tooltip style toolbar jQuery plugin :+1:)
 
+>[tooltipster](https://github.com/iamceege/tooltipster)(A jQuery tooltip plugin)
+
 ### Scroll
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
 
 >[jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
 
 >[jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll)(类似iphone/ipad的滚动条)
+
+>[antiscroll](https://github.com/LearnBoost/antiscroll)(OS X Lion style cross-browser native scrolling on the web that gets out of the way.)
 
 >[skrollr](https://github.com/Prinzhorn/skrollr)(Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love))
 
@@ -211,10 +223,14 @@
 ### Graphics Library
 >[raphael](https://github.com/DmitryBaranovskiy/raphael)(JavaScript Vector Library)
 
+>[AlloyImage](https://github.com/AlloyTeam/AlloyImage)(基于HTML5的专业级图像处理开源引擎)
+
 ### Menu
 >[jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)(用于电商网站的多级商品菜单)
 
 >[jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu) (The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.)
+
+>[jQuery-contextMenu](https://github.com/medialize/jQuery-contextMenu)(contextMenu manager)
 
 ### Background
 >[Vide](https://github.com/VodkaBears/Vide)(视频背景效果Jquery插件)
@@ -238,6 +254,12 @@
 
 >[gif.js](https://github.com/jnordberg/gif.js)(JavaScript GIF encoding library)
 
+>[jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus)(Create an image gallery like Google+ Albums)
+
+>[zoom.js](https://github.com/hakimel/zoom.js)(zoom in on any element in the DOM)
+
+>[Blur.js](https://github.com/jakiestfu/Blur.js)(blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.)
+
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
 
@@ -247,12 +269,18 @@
 ### Drag Drop
 >[dropzone](https://github.com/enyo/dropzone)(简单地拖放库，支持图片预览，有好看的进度条。)
 
+>[jquery.pep.js](https://github.com/briangonzalez/jquery.pep.js)(Pep, a lightweight plugin for kinetic drag on mobile/desktop)
+
+>[jquery-filedrop](https://github.com/weixiyen/jquery-filedrop)(drag and drop desktop files and POST to a URL to handle files.)
+
 ### Gallery
 >[Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)( Code Pull Requests 0 Pulse Graphs HTTPS clone URL You can clone with HTTPS, SSH, or Subversion. Clone in Desktop  Download ZIP
 Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, responsive and customizable image and video gallery. It displays images and videos in the modal dialog of the Bootstrap framework, features swipe, mouse and keyboard navigation, transition effects, fullscreen support and on-demand content loading and can be extended to …)
 
 ### Animation
-[jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)(Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.)
+>[jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)(Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.)
+
+>[sprite.js](https://github.com/batiste/sprite.js)(An efficient javascript sprite animation framework)
 
 ### Other Awesome Lists
 >[idiomatic.js](https://github.com/rwaldron/idiomatic.js) (书写具备一致风格、通俗易懂 JavaScript 的原则)
