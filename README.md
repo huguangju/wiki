@@ -11,6 +11,8 @@
   + [数据绑定 (Data Binding)](#data-binding)
   + [数据可视化 (Data Visualization)](#data-visualization)
     + [时间轴 (Timeline)](#timeline)
+    + [甘特图 (Gantt)](#gantt)
+    + [脑图 (Mind Map)](mind-map)
   + [文件上传 (File Upload)](#file-upload)
   + [编辑器 (Editors)](#editors)
   + 实用工具
@@ -52,6 +54,7 @@
     + [滚动 (Scroll)](#scroll)
     + [菜单 (Menu)](#menu)
     + [表格/网格 (Table/Grid)](#tablegrid)
+    + [可编辑的 (Editable)](#editable)
     + [排序 (Sortable)](#sortable)
     + [图表 (Chart)](#chart)
     + [WebGL](#wbebgl)
@@ -75,6 +78,8 @@
 ### Testing Frameworks
 >[jasmine](https://github.com/pivotal/jasmine)(DOM-less simple JavaScript testing framework)
 
+>[jquery-mockjax](https://github.com/jakerella/jquery-mockjax)(The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses)
+
 ### Non-MVC Frameworks
 >[ember.js](https://github.com/emberjs/ember.js)(A JavaScript framework for creating ambitious web applications)
 
@@ -83,7 +88,7 @@
 >[aralejs](https://github.com/aralejs/aralejs.org)(开放、简单、易用的前端基础类库)
 
 ### Data Binding
->[way.js](https://github.com/gwendall/way.js) (简单、轻量级、稳定的双向数据绑定库)
+>[way.js](https://github.com/gwendall/way.js)(简单、轻量级、稳定的双向数据绑定库)
 
 >[bindonce](https://github.com/Pasvaz/bindonce)（Zero watches binding for AngularJs）
 
@@ -96,6 +101,14 @@
 
 ### Timeline
 >[TimelineJS](https://github.com/NUKnightLab/TimelineJS)(A Storytelling Timeline built in JavaScript)    
+
+### Gantt
+>[jQueryGantt](https://github.com/robicch/jQueryGantt)(jQuery Gantt editor)
+
+### Mind Map
+>[treed](https://github.com/jaredly/treed)(Powerful Tree Editor)
+
+>[springy](https://github.com/dhotson/springy)(A force directed graph layout algorithm in JavaScript)
 
 ### Editors
 >[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
@@ -116,6 +129,10 @@
 
 >[jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel)(A jQuery plugin that adds cross-browser mouse wheel support.)
 
+>[jsqrcode](https://github.com/LazarSoft/jsqrcode)(Javascript QRCode scanner)
+
+>[ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus)(Chrome探测器，可以探测正在使用的开源软件或者js类库)
+
 ### String
 >[string.js](https://github.com/jprichardson/string.js)(Extra JavaScript string methods.)
 
@@ -124,6 +141,11 @@
 
 ### Storage
 >[jquery-cookie](https://github.com/carhartl/jquery-cookie)(简单、轻量级的cookie操作的jQuery插件)
+
+### Color
+>[jquery-minicolors](https://github.com/claviska/jquery-minicolors)(jQuery MiniColors Plugin :+1:)
+
+>[TinyColor](https://github.com/bgrins/TinyColor)(Fast, small color manipulation and conversion for JavaScript)
 
 ### Routing
 >[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
@@ -140,8 +162,10 @@
 ### Media
 >[video.js](https://github.com/videojs/video.js)(open source HTML5 & Flash video player)
 
+>[muplayer](https://github.com/Baidu-Music-FE/muplayer)(An open source web audio player from Baidu Music, support HTML5 and Flash engine on different platforms(百度音乐播放内核))
+
 ### API
->[jscapture](https://github.com/mgechev/jscapture)()
+>[jscapture](https://github.com/mgechev/jscapture)(Screen recording and capturing with pure client-side JavaScript.)
 
 ### Loading Status
 >[nprogress](https://github.com/rstacruz/nprogress)(For slim progress bars like on YouTube, Medium, etc)
@@ -183,6 +207,8 @@
 
 >[typeahead.js](https://github.com/twitter/typeahead.js)(is a fast and fully-featured autocomplete library)
 
+>[floatlabels.js](https://github.com/clubdesign/floatlabels.js)(Follows the famous Float Label Pattern. Built on jQuery.)
+
 ### Modals and Popups
 >[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件 :clap:)
 
@@ -209,16 +235,21 @@
 
 >[onepage-scroll](https://github.com/peachananr/onepage-scroll)(Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin)
 
+>[smooth-scroll](https://github.com/cferdinandi/smooth-scroll)(A simple vanilla JS script to animate scrolling to anchor links.)
+
 ### Table/Grid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
 
 >[grid](https://github.com/uberVU/grid)(Drag and drop library for two-dimensional, resizable and responsive lists)
 
+### Editable
+>[x-editable](https://github.com/vitalets/x-editable)(In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery :thumbsup:)
+
 ### Sortable
 >[html5sortable](https://github.com/farhadi/html5sortable)(Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.)
 
 ### Chart
->[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库:thumbsup:)
+>[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库 :thumbsup:)
 
 ### WebGL
 >[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
