@@ -140,6 +140,9 @@
 ### Media
 >[video.js](https://github.com/videojs/video.js)(open source HTML5 & Flash video player)
 
+### API
+>[jscapture](https://github.com/mgechev/jscapture)()
+
 ### Loading Status
 >[nprogress](https://github.com/rstacruz/nprogress)(For slim progress bars like on YouTube, Medium, etc)
 
