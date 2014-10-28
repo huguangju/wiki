@@ -177,6 +177,8 @@
 ### Lazy Load
 >[echo](https://github.com/toddmotto/echo)(Lazy-loading images with data-* attributes)
 
+>[lazysizes](https://github.com/aFarkas/lazysizes)(High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.)
+
 ### Validation
 >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
 
@@ -216,6 +218,9 @@
 
 >[tooltipster](https://github.com/iamceege/tooltipster)(A jQuery tooltip plugin)
 
+>[sweetalert](https://github.com/t4t5/sweetalert)(A beautiful replacement for JavaScript's "alert")
+>>[bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert)(Bootstrap implementation)
+
 ### Scroll
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
 
@@ -236,6 +241,8 @@
 >[onepage-scroll](https://github.com/peachananr/onepage-scroll)(Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin)
 
 >[smooth-scroll](https://github.com/cferdinandi/smooth-scroll)(A simple vanilla JS script to animate scrolling to anchor links.)
+
+>[reveal.js](https://github.com/hakimel/reveal.js)(The HTML Presentation Framework)
 
 ### Table/Grid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
@@ -258,6 +265,8 @@
 >[raphael](https://github.com/DmitryBaranovskiy/raphael)(JavaScript Vector Library)
 
 >[AlloyImage](https://github.com/AlloyTeam/AlloyImage)(基于HTML5的专业级图像处理开源引擎)
+
+>[d3](https://github.com/mbostock/d3)(A JavaScript visualization library for HTML and SVG.)
 
 ### Menu
 >[jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)(用于电商网站的多级商品菜单)
@@ -321,4 +330,6 @@ Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, res
 
 >[javascript-patterns](https://github.com/shichuan/javascript-patterns)
 
->[html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) (一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站)
+>[html5-boilerplate] (https://github.com/h5bp/html5-boilerplate)(一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站)
+
+>[angularjs-book](https://github.com/shyamseshadri/angularjs-book)(Examples and Code snippets from the AngularJS O'Reilly book)
