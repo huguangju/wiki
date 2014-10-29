@@ -99,6 +99,9 @@
 
 >[artTemplate](https://github.com/aui/artTemplate)(性能卓越的 js 模板引擎)
 
+### Data Binding
+>[swarm](https://github.com/gritzko/swarm)(JavaScript replicated model (M of MVC) library)
+
 ### Timeline
 >[TimelineJS](https://github.com/NUKnightLab/TimelineJS)(A Storytelling Timeline built in JavaScript)    
 
@@ -174,6 +177,8 @@
 
 >[progress.js](https://github.com/usablica/progress.js)(ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.)
 
+>[progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js)(Beautiful and responsive progress bars)
+
 ### Lazy Load
 >[echo](https://github.com/toddmotto/echo)(Lazy-loading images with data-* attributes)
 
@@ -210,6 +215,13 @@
 >[typeahead.js](https://github.com/twitter/typeahead.js)(is a fast and fully-featured autocomplete library)
 
 >[floatlabels.js](https://github.com/clubdesign/floatlabels.js)(Follows the famous Float Label Pattern. Built on jQuery.)
+
+>[Ladda](https://github.com/hakimel/Ladda)(Buttons with built-in loading indicators.)
+
+### Tips
+>[qTip2](https://github.com/qTip2/qTip2)(Pretty powerful tooltips)
+
+>[tipsy](https://github.com/jaz303/tipsy)(Facebook-style tooltips plugin for jQuery)
 
 ### Modals and Popups
 >[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件 :clap:)
@@ -302,6 +314,8 @@
 >[zoom.js](https://github.com/hakimel/zoom.js)(zoom in on any element in the DOM)
 
 >[Blur.js](https://github.com/jakiestfu/Blur.js)(blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.)
+
+>[tip_cards](https://github.com/peachananr/tip_cards)(Create a card layout that let your user flip through it like you see on Google Tips)
 
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
