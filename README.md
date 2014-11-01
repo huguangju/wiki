@@ -87,6 +87,8 @@
 
 >[aralejs](https://github.com/aralejs/aralejs.org)(开放、简单、易用的前端基础类库)
 
+>[todomvc](https://github.com/tastejs/todomvc)(Backbone.js, Ember.js, AngularJS及更多框架版本的TODO应用)
+
 ### Data Binding
 >[way.js](https://github.com/gwendall/way.js)(简单、轻量级、稳定的双向数据绑定库)
 
@@ -190,6 +192,9 @@
 ### Keyboard Wrappers
 >[jquery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)(jquery.hotkeys plugin lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination. It takes one line of code to bind/unbind a hot key combination)
 
+### Tours And Guides
+>[bootstrap-tour](https://github.com/sorich87/bootstrap-tour)(Quick and easy product tours with Twitter Bootstrap Popovers)
+
 ### Sliders
 >[unslider](https://github.com/idiot/unslider)(最简单的jQuery滑块插件)
 
@@ -233,6 +238,8 @@
 >[sweetalert](https://github.com/t4t5/sweetalert)(A beautiful replacement for JavaScript's "alert")
 >>[bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert)(Bootstrap implementation)
 
+>[noty](https://github.com/needim/noty)(noty is a jQuery plugin that makes it easy to create alert - success - error - warning - information - b messages as an alternative the standard alert dialog. Each notification is added to a queue.)
+
 ### Scroll
 >[scrollup](https://github.com/markgoodyear/scrollup) (创建自定义“回到顶部”的jQuery插件)
 
@@ -255,6 +262,8 @@
 >[smooth-scroll](https://github.com/cferdinandi/smooth-scroll)(A simple vanilla JS script to animate scrolling to anchor links.)
 
 >[reveal.js](https://github.com/hakimel/reveal.js)(The HTML Presentation Framework)
+
+>[scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)(Easily reveal elements as they enter the viewport.)
 
 ### Table/Grid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
@@ -323,12 +332,18 @@
 ### Responsive
 >[Respond](https://github.com/scottjehl/Respond)(A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more))
 
+>[responsive-nav.js](https://github.com/viljamis/responsive-nav.js)(Responsive navigation plugin without library dependencies and with fast touch screen support.)
+
 ### Drag Drop
 >[dropzone](https://github.com/enyo/dropzone)(简单地拖放库，支持图片预览，有好看的进度条。)
 
 >[jquery.pep.js](https://github.com/briangonzalez/jquery.pep.js)(Pep, a lightweight plugin for kinetic drag on mobile/desktop)
 
 >[jquery-filedrop](https://github.com/weixiyen/jquery-filedrop)(drag and drop desktop files and POST to a URL to handle files.)
+
+>[Bootstrap-Form-Builder](https://github.com/minikomi/Bootstrap-Form-Builder)(Web app for drag drop building bootstrap forms.)
+
+>[dragdealer](https://github.com/skidding/dragdealer)(Drag-based JavaScript component, embracing endless UI solutions.)
 
 ### Gallery
 >[Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)( Code Pull Requests 0 Pulse Graphs HTTPS clone URL You can clone with HTTPS, SSH, or Subversion. Clone in Desktop  Download ZIP
