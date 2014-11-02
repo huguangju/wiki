@@ -65,7 +65,7 @@
     + [响应式 (Responsive)](#responsive)
     + [拖放 (Drag/Drop)](#drag-drop)
     + [相册 (Gallery)](#gallery)
-    + [动画 (Animation)](#animation)
+    + [Material](#material)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -115,6 +115,8 @@
 
 >[springy](https://github.com/dhotson/springy)(A force directed graph layout algorithm in JavaScript)
 
+>[arbor](https://github.com/samizdatco/arbor)(a graph visualization library using web workers and jQuery)
+
 ### Editors
 >[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
 
@@ -130,16 +132,18 @@
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
 
->[underscore.string](https://github.com/epeli/underscore.string)(String manipulation extensions for Underscore.js javascript library. )
-
 >[jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel)(A jQuery plugin that adds cross-browser mouse wheel support.)
 
 >[jsqrcode](https://github.com/LazarSoft/jsqrcode)(Javascript QRCode scanner)
 
 >[ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus)(Chrome探测器，可以探测正在使用的开源软件或者js类库)
 
+>[zeroclipboard](https://github.com/zeroclipboard/zeroclipboard)(The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.)   
+
 ### String
 >[string.js](https://github.com/jprichardson/string.js)(Extra JavaScript string methods.)
+
+>[underscore.string](https://github.com/epeli/underscore.string)(String manipulation extensions for Underscore.js javascript library. )
 
 ### Promise
 >[q](https://github.com/kriskowal/q)(A tool for making and composing asynchronous promises in JavaScript)
@@ -279,6 +283,8 @@
 ### Chart
 >[echarts](https://github.com/ecomfe/echarts) (来自百度的直观，生动，可交互，可个性化定制的数据可视化图表库 :thumbsup:)
 
+>[peity](http://benpickles.github.io/peity/)(Progressive <svg> pie, donut, bar and line charts)
+
 ### WebGL
 >[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
 
@@ -349,7 +355,10 @@
 >[Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)( Code Pull Requests 0 Pulse Graphs HTTPS clone URL You can clone with HTTPS, SSH, or Subversion. Clone in Desktop  Download ZIP
 Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, responsive and customizable image and video gallery. It displays images and videos in the modal dialog of the Bootstrap framework, features swipe, mouse and keyboard navigation, transition effects, fullscreen support and on-demand content loading and can be extended to …)
 
-### Animation
+### Material
+>[material](https://github.com/angular/material)(Material design for Angular)
+
+### Animations
 >[jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)(Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.)
 
 >[sprite.js](https://github.com/batiste/sprite.js)(An efficient javascript sprite animation framework)
