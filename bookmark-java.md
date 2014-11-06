@@ -25,7 +25,7 @@
     + [综合 (Miscellaneous)](#miscellaneous)
     + [自然语言处理 (Natural Language Processing)](#natural-language-processing)
     + [网络 (Networking)](#networking)
-    + [ORM](#orm)
+    + [ORM](#orm)imgscalr
     + [PDF](#pdf)
     + [BPM](#bpm)
     + [REST Frameworks](#rest-frameworks)
@@ -38,7 +38,7 @@
     + [测试 (Testing)](#testing)
     + [工具 (Utility)](#utility)
     + [网络爬虫 (Web Crawling)](#web-crawling)
-    + [Web框架 (Web Frameworks)](#web-frameworks)
+    + [Web框架 (Web Frameworks)](#web-frameworks)   
     + [教程 (Tutorial)](#tutorial)
 + [资源 (Resources)](#resources)
     + [社区 (Communities)](#communities)
@@ -53,6 +53,9 @@
 ### Distributed Applications
 >[elasticsearch](https://github.com/elasticsearch/elasticsearch) (分布式可扩展的实时搜索和分析引擎)
 
+### High Performance
+>[jna](https://github.com/twall/jna)(Java Native Access)
+
 ### Imagery
 >[imgscalr](https://github.com/thebuzzmedia/imgscalr) (java 图片缩放库)
 
@@ -61,6 +64,9 @@
 ### BPM
 >[Activiti](https://github.com/Activiti/Activiti) (light-weight workflow and Business Process Management (BPM) Platform)
 
+###Template Engine
+>[sitemesh3](https://github.com/sitemesh/sitemesh3)(网页布局和修饰的框架，基于Servlet中的Filter，类似于ASP.NET中的'母版页')
+
 ### Utility
 >[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
 
@@ -68,11 +74,16 @@
 
 >[wro4j](https://github.com/alexo/wro4j) (A tool for analysis and optimization of web resources for java)
 
+>[gs-collections](https://github.com/goldmansachs/gs-collections)(A supplement or replacement for the Java Collections Framework.)
+
 ### Search
 >[ansj_seg](https://github.com/ansjsun/ansj_seg) (ansj分词.ict的真正java实现.中文分词,人名识别,词性标注,用户自定义词典)
 
 ### Web Crawling
 >[webmagic](https://github.com/code4craft/webmagic)(Java垂直爬虫框架,目标是简化爬虫的开发流程,让开发者专注于逻辑功能的开发)
+
+### Web Frameworks
+>[ServiceFramework)](https://github.com/allwefantasy/ServiceFramework)(一个敏捷，快速，富领域模型的Java MVC 框架，专为 移动应用后端量身定做)
 
 ### Tutorial
 >[javaee7-samples](https://github.com/javaee-samples/javaee7-samples) (Java EE 7 Samples)
@@ -82,3 +93,5 @@
 >[tutorials](https://github.com/eugenp/tutorials) (小而精的java教程集合)
 
 >[maven-framework-project](https://github.com/v5developer/maven-framework-project) (java各种相关技术的示例汇总)
+
+>[netty-learning](https://github.com/code4craft/netty-learning)(Netty源码解析)
