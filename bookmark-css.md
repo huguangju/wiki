@@ -26,5 +26,12 @@
 
 >[SubtlePatterns](https://github.com/subtlepatterns/SubtlePatterns#subtlepatterns)(All the patterns)
 
+>[colors](https://github.com/mrmrs/colors)(Smarter defaults for colors on the web. )
 
+>[ratchet](https://github.com/twbs/ratchet)(Build mobile apps with simple HTML, CSS, and JS components. )
 
+>[colour-schemes](https://github.com/daylerees/colour-schemes)(Colour schemes for a variety of editors created by Dayle Rees. )
+
+>[bootswatch](https://github.com/thomaspark/bootswatch)(Themes for Bootstrap)
+
+>[ionicons](https://github.com/driftyco/ionicons)(The premium icon font for Ionic Framework)
