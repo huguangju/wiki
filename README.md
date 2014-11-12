@@ -12,7 +12,8 @@
   + [数据可视化 (Data Visualization)](#data-visualization)
     + [时间轴 (Timeline)](#timeline)
     + [甘特图 (Gantt)](#gantt)
-    + [脑图 (Mind Map)](mind-map)
+    + [脑图 (Mind Map)](#mind-map)
+    + [PPT](#ppt)
   + [文件上传 (File Upload)](#file-upload)
   + [编辑器 (Editors)](#editors)
   + 实用工具
@@ -66,6 +67,7 @@
     + [拖放 (Drag/Drop)](#drag-drop)
     + [相册 (Gallery)](#gallery)
     + [Material](#material)
+    + [SVG手绘动画](#hand-drawing-animation)
   + 移动端
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
@@ -117,8 +119,13 @@
 
 >[arbor](https://github.com/samizdatco/arbor)(a graph visualization library using web workers and jQuery)
 
+### PPT
+>[nodePPT](https://github.com/ksky521/nodePPT)(这可能是迄今为止最好的网页版PPT)
+
 ### Editors
 >[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
+
+>[CodeMirror](https://github.com/codemirror/CodeMirror)
 
 ### File Upload
 >[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)(功能强大的文件上传组件，你值得拥有)
@@ -139,6 +146,14 @@
 >[ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus)(Chrome探测器，可以探测正在使用的开源软件或者js类库)
 
 >[zeroclipboard](https://github.com/zeroclipboard/zeroclipboard)(The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.)   
+
+### Data Structure
+>[immutable-js](https://github.com/facebook/immutable-js)(Immutable Persistent Data Collections for Javascript)
+
+>[seamless-immutable](https://github.com/rtfeldman/seamless-immutable)(Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.)
+
+### Date
+>[moment](https://github.com/moment/moment)(Parse, validate, manipulate, and display dates in javascript.)
 
 ### String
 >[string.js](https://github.com/jprichardson/string.js)(Extra JavaScript string methods.)
@@ -175,6 +190,9 @@
 
 ### API
 >[jscapture](https://github.com/mgechev/jscapture)(Screen recording and capturing with pure client-side JavaScript.)
+
+### Code Highlighting
+>[CodeMirror](https://github.com/codemirror/CodeMirror)(In-browser code editor)
 
 ### Loading Status
 >[nprogress](https://github.com/rstacruz/nprogress)(For slim progress bars like on YouTube, Medium, etc)
@@ -227,6 +245,8 @@
 
 >[Ladda](https://github.com/hakimel/Ladda)(Buttons with built-in loading indicators.)
 
+>[intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input)(A jQuery plugin for entering and validating international telephone numbers)
+
 ### Tips
 >[qTip2](https://github.com/qTip2/qTip2)(Pretty powerful tooltips)
 
@@ -268,6 +288,8 @@
 >[reveal.js](https://github.com/hakimel/reveal.js)(The HTML Presentation Framework)
 
 >[scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)(Easily reveal elements as they enter the viewport.)
+
+>
 
 ### Table/Grid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
@@ -357,6 +379,11 @@ Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, res
 
 ### Material
 >[material](https://github.com/angular/material)(Material design for Angular)
+
+### Hand-drawing Animation
+>[vivus](https://github.com/maxwellito/vivus)(JavaScript library to make drawing animation on SVG)
+
+>[walkway](https://github.com/ConnorAtherton/walkway)(An easy way to animate simple SVG elements.)
 
 ### Animations
 >[jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)(Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.)
