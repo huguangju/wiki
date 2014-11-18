@@ -7,6 +7,7 @@
   + [QA工具 (QA Tools)](#qa-tools)
   + [MVC框架 (MVC Frameworks and Libraries)](#mvc-frameworks-and-libraries)
   + [非MVC框架 (Non-MVC Frameworks)](#non-mvc-frameworks)
+  + [UI 框架 (UI Frameworks)](#ui-frameworks)
   + [模板引擎 (Templating Engines)](#templating-engines)
   + [数据绑定 (Data Binding)](#data-binding)
   + [数据可视化 (Data Visualization)](#data-visualization)
@@ -91,6 +92,9 @@
 
 >[todomvc](https://github.com/tastejs/todomvc)(Backbone.js, Ember.js, AngularJS及更多框架版本的TODO应用)
 
+### UI Frameworks
+>[fuelux](https://github.com/ExactTarget/fuelux)(Extends Twitter Bootstrap with additional lightweight JavaScript controls.)
+
 ### Data Binding
 >[way.js](https://github.com/gwendall/way.js)(简单、轻量级、稳定的双向数据绑定库)
 
@@ -171,6 +175,8 @@
 
 >[TinyColor](https://github.com/bgrins/TinyColor)(Fast, small color manipulation and conversion for JavaScript)
 
+>[jquery-simplecolorpicker](https://github.com/tkrotoff/jquery-simplecolorpicker)(Very simple jQuery color picker)
+
 ### Routing
 >[jquery-address](https://github.com/asual/jquery-address) (jQuery Address - Deep linking for the masses)
 
@@ -203,6 +209,8 @@
 
 >[progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js)(Beautiful and responsive progress bars)
 
+>[bootstrap-progressbar](https://github.com/minddust/bootstrap-progressbar)(progressbar interactions for twitter bootstrap 2 & 3 :+1:)
+
 ### Lazy Load
 >[echo](https://github.com/toddmotto/echo)(Lazy-loading images with data-* attributes)
 
@@ -210,6 +218,8 @@
 
 ### Validation
 >[jquery-validation](https://github.com/jzaefferer/jquery-validation) (成熟的jQuery表单验证插件)
+
+>[Parsley.js](https://github.com/guillaumepotier/Parsley.js)(Validate your forms, frontend, without writing a single line of javascript)
 
 ### Keyboard Wrappers
 >[jquery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)(jquery.hotkeys plugin lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination. It takes one line of code to bind/unbind a hot key combination)
@@ -226,12 +236,16 @@
 
 >[jquery.smoothState.js](https://github.com/weblinc/jquery.smoothState.js)(A jQuery plugin to stop the jank of page loads.)
 
+>[jQRangeSlider](https://github.com/ghusse/jQRangeSlider)(A jquery UI range selection slider that supports dates)
+
 ### Form Widgets
 >[select2](https://github.com/ivaynberg/select2) (支持搜索、远程数据访问、无限下拉滚动 :ok_hand:)
 
 >[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
 
 >[multi-select](https://github.com/lou/multi-select)(一个替换标准选择框的、用户友好的多属性添加与移除选择框）
+
+>[bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect)
 
 >[visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
 
@@ -356,6 +370,12 @@
 
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
+
+>[navgoco](https://github.com/tefra/navgoco)(Multi-level slide navigation with session storage and accordion effect for JQuery)
+
+>[TinyNav.js](https://github.com/viljamis/TinyNav.js)(Responsive navigation plugin that weighs just 443 bytes)
+
+>[flexnav](https://github.com/indyplanets/flexnav)(A jQuery plugin for responsive menus)
 
 ### Responsive
 >[Respond](https://github.com/scottjehl/Respond)(A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more))
