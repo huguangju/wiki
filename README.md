@@ -83,6 +83,8 @@
 
 >[jquery-mockjax](https://github.com/jakerella/jquery-mockjax)(The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses)
 
+>[jquery-mockjax](https://github.com/jakerella/jquery-mockjax) (模拟ajax请求和响应)
+
 ### Non-MVC Frameworks
 >[ember.js](https://github.com/emberjs/ember.js)(A JavaScript framework for creating ambitious web applications)
 
@@ -221,6 +223,8 @@
 
 >[Parsley.js](https://github.com/guillaumepotier/Parsley.js)(Validate your forms, frontend, without writing a single line of javascript)
 
+>[bootstrapvalidator](https://github.com/nghuuphuoc/bootstrapvalidator) (基于Twitter Bootstrap的表单验证)
+
 ### Keyboard Wrappers
 >[jquery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)(jquery.hotkeys plugin lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination. It takes one line of code to bind/unbind a hot key combination)
 
@@ -238,12 +242,17 @@
 
 >[jQRangeSlider](https://github.com/ghusse/jQRangeSlider)(A jquery UI range selection slider that supports dates)
 
+### Range Sliders
+>[bootstrap-slider](https://github.com/seiyria/bootstrap-slider) (bootstrap范围滑块)
+
 ### Form Widgets
 >[select2](https://github.com/ivaynberg/select2) (支持搜索、远程数据访问、无限下拉滚动 :ok_hand:)
 
 >[jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
 
 >[multi-select](https://github.com/lou/multi-select)(一个替换标准选择框的、用户友好的多属性添加与移除选择框）
+
+>[bootstrap-select](https://github.com/silviomoreto/bootstrap-select) (基于Twitter Bootstrap的下拉选择框)
 
 >[bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect)
 
@@ -260,6 +269,8 @@
 >[Ladda](https://github.com/hakimel/Ladda)(Buttons with built-in loading indicators.)
 
 >[intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input)(A jQuery plugin for entering and validating international telephone numbers)
+
+>[bootstrap-tagsinput](https://github.com/TimSchlechter/bootstrap-tagsinput) (基于Twitter Bootstrap的可编辑标签jQuery插件)
 
 ### Tips
 >[qTip2](https://github.com/qTip2/qTip2)(Pretty powerful tooltips)
@@ -284,6 +295,8 @@
 >[jquery.scrollTo](https://github.com/flesler/jquery.scrollTo)
 
 >[jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll)(类似iphone/ipad的滚动条)
+
+>[jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll) (可以把任何Div转换成带漂亮滚动条的可滚动区域)
 
 >[antiscroll](https://github.com/LearnBoost/antiscroll)(OS X Lion style cross-browser native scrolling on the web that gets out of the way.)
 
