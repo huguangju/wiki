@@ -35,3 +35,11 @@
 >[bootswatch](https://github.com/thomaspark/bootswatch)(Themes for Bootstrap)
 
 >[ionicons](https://github.com/driftyco/ionicons)(The premium icon font for Ionic Framework)
+
+>[bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design)(Material design theme for Bootstrap 3)
+
+>[HoverEffectIdeas](https://github.com/codrops/HoverEffectIdeas)(Some inspiration and modern ideas for subtle hover effects.)
+
+>[dashboards](https://github.com/keen/dashboards)(Responsive dashboard templates for Bootstrap)
+
+>[flipboard-layout](https://github.com/botelho/flipboard-layout)(An experimental page layout that let's you navigate pages by swiping or dragging as in a booklet, inspired by Flipboard.)
