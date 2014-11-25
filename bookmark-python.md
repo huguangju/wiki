@@ -18,3 +18,9 @@
 >[fabric](https://github.com/fabric/fabric) (Simple, Pythonic remote execution and deployment.)
 
 >[webpy](https://github.com/webpy/webpy) ( web framework for python that is as simple as it is powerful.)
+
+>[tengine-website](https://github.com/alibaba/tengine-website) (在Nginx的基础上的Web服务器项目，针对大访问量网站的需求，添加了很多高级功能和特性)
+
+>[pyspider](https://github.com/binux/pyspider) (Web爬虫)
+
+>[nightrain](https://github.com/naetech/nightrain) (桌面应用程序)
