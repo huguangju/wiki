@@ -64,7 +64,10 @@
 ### BPM
 >[Activiti](https://github.com/Activiti/Activiti) (light-weight workflow and Business Process Management (BPM) Platform)
 
-###Template Engine
+### Security
+>[scribe-java](https://github.com/fernandezpablo85/scribe-java)(Simple OAuth library for Java)
+
+### Template Engine
 >[sitemesh3](https://github.com/sitemesh/sitemesh3)(网页布局和修饰的框架，基于Servlet中的Filter，类似于ASP.NET中的'母版页')
 
 ### Utility
@@ -85,6 +88,8 @@
 ### Web Frameworks
 >[ServiceFramework)](https://github.com/allwefantasy/ServiceFramework)(一个敏捷，快速，富领域模型的Java MVC 框架，专为 移动应用后端量身定做)
 
+>[spark](https://github.com/perwendel/spark)(A Sinatra inspired framework for java)
+
 ### Tutorial
 >[javaee7-samples](https://github.com/javaee-samples/javaee7-samples) (Java EE 7 Samples)
 
@@ -95,3 +100,7 @@
 >[maven-framework-project](https://github.com/v5developer/maven-framework-project) (java各种相关技术的示例汇总)
 
 >[netty-learning](https://github.com/code4craft/netty-learning)(Netty源码解析)
+
+>[search-demo](https://github.com/ysc/search-demo)(演示如何通过Java调用百度搜索和谷歌搜索以及数据采集)
+
+>[Java8InAction](https://github.com/java8/Java8InAction)(java8 实战)
