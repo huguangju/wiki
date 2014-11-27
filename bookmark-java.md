@@ -22,10 +22,9 @@
     + [日志 (Logging)](#logging)
     + [机器学习 (Machine Learning)](#machine-learning)
     + [消息 (Messaging)](#messaging)
-    + [综合 (Miscellaneous)](#miscellaneous)
     + [自然语言处理 (Natural Language Processing)](#natural-language-processing)
     + [网络 (Networking)](#networking)
-    + [ORM](#orm)imgscalr
+    + [ORM](#orm)
     + [PDF](#pdf)
     + [BPM](#bpm)
     + [REST Frameworks](#rest-frameworks)
@@ -40,6 +39,7 @@
     + [网络爬虫 (Web Crawling)](#web-crawling)
     + [Web框架 (Web Frameworks)](#web-frameworks)   
     + [教程 (Tutorial)](#tutorial)
+    + [综合 (Miscellaneous)](#miscellaneous)
 + [资源 (Resources)](#resources)
     + [社区 (Communities)](#communities)
     + [好书 (Influential Books)](#influential-books)
@@ -60,6 +60,9 @@
 >[imgscalr](https://github.com/thebuzzmedia/imgscalr) (java 图片缩放库)
 
 >[xultimate-resource](https://github.com/daniellitoc/xultimate-resource)(采用Spring MVC，用于在FastDFS分布式文件系统中完成资源管理(上传、删除、下载)的ShowCase。图片类资源的支持实时缩略图功能。缩放、剪裁、水印等功能通过已封装好AWT和im4java进行处理，即支持GraphicsMagick。)
+
+### Machine Learning
+>[QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem)(Java实现的人机问答系统，能够自动分析问题并给出候选答案)
 
 ### BPM
 >[Activiti](https://github.com/Activiti/Activiti) (light-weight workflow and Business Process Management (BPM) Platform)
@@ -89,6 +92,11 @@
 >[ServiceFramework)](https://github.com/allwefantasy/ServiceFramework)(一个敏捷，快速，富领域模型的Java MVC 框架，专为 移动应用后端量身定做)
 
 >[spark](https://github.com/perwendel/spark)(A Sinatra inspired framework for java)
+
+>[springmvc-router](https://github.com/resthub/springmvc-router)(Adds route mapping capacity to any "Spring MVC based" webapp. Uses playframework.org Router implementation.)
+
+### Miscellaneous
+>[grunt-maven-plugin](https://github.com/allegro/grunt-maven-plugin)(Grunt + Maven integration done right)
 
 ### Tutorial
 >[javaee7-samples](https://github.com/javaee-samples/javaee7-samples) (Java EE 7 Samples)
