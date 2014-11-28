@@ -95,8 +95,7 @@
 
 >[springmvc-router](https://github.com/resthub/springmvc-router)(Adds route mapping capacity to any "Spring MVC based" webapp. Uses playframework.org Router implementation.)
 
-### Miscellaneous
->[grunt-maven-plugin](https://github.com/allegro/grunt-maven-plugin)(Grunt + Maven integration done right)
+>[base-framework](https://github.com/dactiv/base-framework)(base-framework是对常用的java web开发封装实用功能来提高开发效率。base-framework基于Spring、Hibernate框架来做项目核心三层和MVC的管理。使用到的新功能有spring缓存工厂、apeche shiro安全框架、spring mvc 等主要技术)
 
 ### Tutorial
 >[javaee7-samples](https://github.com/javaee-samples/javaee7-samples) (Java EE 7 Samples)
@@ -112,3 +111,10 @@
 >[search-demo](https://github.com/ysc/search-demo)(演示如何通过Java调用百度搜索和谷歌搜索以及数据采集)
 
 >[Java8InAction](https://github.com/java8/Java8InAction)(java8 实战)
+
+>[H2-Research](https://github.com/codefollower/H2-Research)(H2数据库源代码学习研究(包括代码注释、文档、用于代码分析的测试用例))
+
+### Miscellaneous
+>[grunt-maven-plugin](https://github.com/allegro/grunt-maven-plugin)(Grunt + Maven integration done right)
+
+>[webqq-core](https://github.com/im-qq/webqq-core)(一个基于WebQQ协议开发的库，您可以基于这个库让您的程序集成QQ相关的功能)
