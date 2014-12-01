@@ -56,6 +56,7 @@
     + [滚动 (Scroll)](#scroll)
     + [菜单 (Menu)](#menu)
     + [表格/网格 (Table/Grid)](#tablegrid)
+    + [分页 (Pagination)](#pagination)
     + [可编辑的 (Editable)](#editable)
     + [排序 (Sortable)](#sortable)
     + [图表 (Chart)](#chart)
@@ -186,6 +187,8 @@
 
 >[js-url](https://github.com/websanova/js-url)(简单、轻量级的url解析器)
   
+>[ui-router](https://github.com/angular-ui/ui-router)(The de-facto solution to flexible routing with nested views)
+
 ### Log
 >[log](https://github.com/adamschwartz/log)(Console.log with style)
 
@@ -316,12 +319,13 @@
 
 >[scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)(Easily reveal elements as they enter the viewport.)
 
->
-
 ### Table/Grid
 >[jquery-dynatable](https://github.com/alfajango/jquery-dynatable) (A more-fun, semantic, alternative to datatables:thumbsup:)
 
 >[grid](https://github.com/uberVU/grid)(Drag and drop library for two-dimensional, resizable and responsive lists)
+
+### Pagination
+>[jquery-bootpag](https://github.com/botmonster/jquery-bootpag)(boostrap dynamic pagination jQuery plugin)
 
 ### Editable
 >[x-editable](https://github.com/vitalets/x-editable)(In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery :thumbsup:)
@@ -350,6 +354,8 @@
 >[jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu) (The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.)
 
 >[jQuery-contextMenu](https://github.com/medialize/jQuery-contextMenu)(contextMenu manager)
+
+>[metisMenu](https://github.com/onokumus/metisMenu)(Easy menu jQuery plugin for Twitter Bootstrap 3)
 
 ### Background
 >[Vide](https://github.com/VodkaBears/Vide)(视频背景效果Jquery插件)
@@ -389,6 +395,8 @@
 >[TinyNav.js](https://github.com/viljamis/TinyNav.js)(Responsive navigation plugin that weighs just 443 bytes)
 
 >[flexnav](https://github.com/indyplanets/flexnav)(A jQuery plugin for responsive menus)
+
+>[jquery-steps](https://github.com/rstaib/jquery-steps)(A powerful jQuery wizard plugin that supports accessibility and HTML5.)
 
 ### Responsive
 >[Respond](https://github.com/scottjehl/Respond)(A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more))
