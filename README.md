@@ -129,6 +129,8 @@
 ### PPT
 >[nodePPT](https://github.com/ksky521/nodePPT)(这可能是迄今为止最好的网页版PPT)
 
+>[impress.js](https://github.com/bartaz/impress.js)(It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.)
+
 ### Editors
 >[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
 
@@ -153,6 +155,10 @@
 >[ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus)(Chrome探测器，可以探测正在使用的开源软件或者js类库)
 
 >[zeroclipboard](https://github.com/zeroclipboard/zeroclipboard)(The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.)   
+
+>[jsdoc](https://github.com/jsdoc3/jsdoc)(An API documentation generator for JavaScript. )
+
+>[FeHelper](https://github.com/zxlie/FeHelper)(Web前端助手--FeHelper（Chrome扩展）)
 
 ### Data Structure
 >[immutable-js](https://github.com/facebook/immutable-js)(Immutable Persistent Data Collections for Javascript)
@@ -348,6 +354,8 @@
 
 >[d3](https://github.com/mbostock/d3)(A JavaScript visualization library for HTML and SVG.)
 
+>[lazy-line-painter](https://github.com/camoconnell/lazy-line-painter)(A JQUERY PLUGIN FOR SVG PATH ANIMATION)
+
 ### Menu
 >[jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)(用于电商网站的多级商品菜单)
 
@@ -386,6 +394,8 @@
 >[Blur.js](https://github.com/jakiestfu/Blur.js)(blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.)
 
 >[tip_cards](https://github.com/peachananr/tip_cards)(Create a card layout that let your user flip through it like you see on Google Tips)
+
+>[purplecoat.js](https://github.com/ellekasai/purplecoat.js)(Simple Labeled Overlays)
 
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
