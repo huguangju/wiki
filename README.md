@@ -344,6 +344,8 @@
 
 >[peity](http://benpickles.github.io/peity/)(Progressive <svg> pie, donut, bar and line charts)
 
+>[morris.js](https://github.com/morrisjs/morris.js)(Pretty time-series line graphs)
+
 ### WebGL
 >[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
 
@@ -364,6 +366,8 @@
 >[jQuery-contextMenu](https://github.com/medialize/jQuery-contextMenu)(contextMenu manager)
 
 >[metisMenu](https://github.com/onokumus/metisMenu)(Easy menu jQuery plugin for Twitter Bootstrap 3)
+
+>[toc](https://github.com/jgallen23/toc)(jQuery Table of Contents Plugin)
 
 ### Background
 >[Vide](https://github.com/VodkaBears/Vide)(视频背景效果Jquery插件)
@@ -396,6 +400,8 @@
 >[tip_cards](https://github.com/peachananr/tip_cards)(Create a card layout that let your user flip through it like you see on Google Tips)
 
 >[purplecoat.js](https://github.com/ellekasai/purplecoat.js)(Simple Labeled Overlays)
+
+>[textillate](https://github.com/jschr/textillate)(A simple plugin for CSS3 text animations :+1:)
 
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
