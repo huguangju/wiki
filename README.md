@@ -281,6 +281,8 @@
 
 >[bootstrap-tagsinput](https://github.com/TimSchlechter/bootstrap-tagsinput) (基于Twitter Bootstrap的可编辑标签jQuery插件)
 
+>[tagmanager](https://github.com/max-favilli/tagmanager)(A jQuery plugin (working nicely with twitter bootstrap))
+
 ### Tips
 >[qTip2](https://github.com/qTip2/qTip2)(Pretty powerful tooltips)
 
@@ -345,6 +347,8 @@
 >[peity](http://benpickles.github.io/peity/)(Progressive <svg> pie, donut, bar and line charts)
 
 >[morris.js](https://github.com/morrisjs/morris.js)(Pretty time-series line graphs)
+
+>[jquery.sparkline](https://github.com/gwatts/jquery.sparkline)(A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser)
 
 ### WebGL
 >[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
