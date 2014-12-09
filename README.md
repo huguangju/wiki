@@ -20,6 +20,7 @@
   + 实用工具
     + [工具 (Utility)](#utility)
     + [文件 (Files)](#files)
+    + [格式化 (Code Formatting)](#code-formattiing)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
     + [Promise](#promise)
@@ -159,6 +160,9 @@
 >[jsdoc](https://github.com/jsdoc3/jsdoc)(An API documentation generator for JavaScript. )
 
 >[FeHelper](https://github.com/zxlie/FeHelper)(Web前端助手--FeHelper（Chrome扩展）)
+
+### Code Formattring 
+>[js-beautify](https://github.com/beautify-web/js-beautify)(javascript 代码格式化)
 
 ### Data Structure
 >[immutable-js](https://github.com/facebook/immutable-js)(Immutable Persistent Data Collections for Javascript)
@@ -309,6 +313,8 @@
 
 >[jQuery-slimScroll](https://github.com/rochal/jQuery-slimScroll) (可以把任何Div转换成带漂亮滚动条的可滚动区域)
 
+>[nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS)(同上)
+
 >[antiscroll](https://github.com/LearnBoost/antiscroll)(OS X Lion style cross-browser native scrolling on the web that gets out of the way.)
 
 >[skrollr](https://github.com/Prinzhorn/skrollr)(Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love))
@@ -349,6 +355,8 @@
 >[morris.js](https://github.com/morrisjs/morris.js)(Pretty time-series line graphs)
 
 >[jquery.sparkline](https://github.com/gwatts/jquery.sparkline)(A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser)
+
+>[morris.js](https://github.com/morrisjs/morris.js)(漂亮、简单的折线图)
 
 ### WebGL
 >[MathBox.js](https://github.com/unconed/MathBox.js)(WebGL数学图形库)
@@ -418,6 +426,8 @@
 
 >[jquery-steps](https://github.com/rstaib/jquery-steps)(A powerful jQuery wizard plugin that supports accessibility and HTML5.)
 
+>[intro.js](https://github.com/usablica/intro.js)(以一种更好的方式展示新特性，非常适合用于在你的网站或项目上一步一步引导用户)
+
 ### Responsive
 >[Respond](https://github.com/scottjehl/Respond)(A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more))
 
@@ -433,6 +443,8 @@
 >[Bootstrap-Form-Builder](https://github.com/minikomi/Bootstrap-Form-Builder)(Web app for drag drop building bootstrap forms.)
 
 >[dragdealer](https://github.com/skidding/dragdealer)(Drag-based JavaScript component, embracing endless UI solutions.)
+
+>[Nestable](https://github.com/dbushell/Nestable)(可拖拽的层级列表，兼容移动端touch的jQuery插件)
 
 ### Gallery
 >[Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)( Code Pull Requests 0 Pulse Graphs HTTPS clone URL You can clone with HTTPS, SSH, or Subversion. Clone in Desktop  Download ZIP
