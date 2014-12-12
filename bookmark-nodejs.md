@@ -11,3 +11,9 @@
 >[learnyounode](https://github.com/rvagg/learnyounode)(一步一步学Nodejs)
 
 >[weixin-robot](https://github.com/node-webot/weixin-robot)(微信公共帐号自动回复机器人)
+
+>[douban.fm](https://github.com/turingou/douban.fm)(简洁优雅的豆瓣电台命令行版，基于 Node.js)
+
+>[rssSpider](https://github.com/shanelau/rssSpider)(Rss spider by nodejs , rss 爬虫，正文抓取)
+
+>[pageres](https://github.com/sindresorhus/pageres)(Responsive website screenshots)
