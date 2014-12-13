@@ -151,6 +151,8 @@
 
 >[jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel)(A jQuery plugin that adds cross-browser mouse wheel support.)
 
+>[101](https://github.com/tjmehta/101)(A modern JS utility library)
+
 >[jsqrcode](https://github.com/LazarSoft/jsqrcode)(Javascript QRCode scanner)
 
 >[ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus)(Chrome探测器，可以探测正在使用的开源软件或者js类库)
@@ -370,6 +372,8 @@
 
 >[lazy-line-painter](https://github.com/camoconnell/lazy-line-painter)(A JQUERY PLUGIN FOR SVG PATH ANIMATION)
 
+>[SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus)(实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果 :+1:)
+
 ### Menu
 >[jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)(用于电商网站的多级商品菜单)
 
@@ -379,7 +383,9 @@
 
 >[metisMenu](https://github.com/onokumus/metisMenu)(Easy menu jQuery plugin for Twitter Bootstrap 3)
 
->[toc](https://github.com/jgallen23/toc)(jQuery Table of Contents Plugin)
+>[toc](https://github.com/jgallen23/toc)(根据页面内容生成目录的jQuery插件)
+
+>[jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js)(Bootstrap风格的目录jQuery插件)
 
 ### Background
 >[Vide](https://github.com/VodkaBears/Vide)(视频背景效果Jquery插件)
