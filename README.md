@@ -1,4 +1,7 @@
-## JavaScript, [Java](bookmark-java.md), [Andorid](bookmark-andorid.md), [CSS](bookmark-css.md), [Python](bookmark-pyton.md), [etc](bookmark-miscellaneous.md).
+## JavaScript, [Java](bookmark-java.md), [Andorid](bookmark-andorid.md), [CSS](bookmark-css.md), [Python](bookmark-pyton.md), [Nodejs](https://github.com/huguangju/wiki/blob/master/bookmark-nodejs.md), [etc](bookmark-miscellaneous.md).
+
+> Inspired by the [awesome-javascript](https://github.com/sorrycc/awesome-javascript) list thing.
+  See more, jump to :point_right: [awesome](https://github.com/sindresorhus/awesome) :book:
 
 + [JavaScript](#javascript)
   + [包管理器 (Package Managers)](#package-managers)
@@ -80,6 +83,9 @@
 ====
 
 ## ```Javascript```
+### Package Managers
+> [bower](https://github.com/bower/bower)(twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系)
+
 ### Testing Frameworks
 >[jasmine](https://github.com/pivotal/jasmine)(DOM-less simple JavaScript testing framework)
 
