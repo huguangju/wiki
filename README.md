@@ -86,6 +86,9 @@
 ### Package Managers
 > [bower](https://github.com/bower/bower)(twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系)
 
+### Loaders
+>[headjs](https://github.com/headjs/headjs)(The only script in your HEAD. )
+
 ### Testing Frameworks
 >[jasmine](https://github.com/pivotal/jasmine)(DOM-less simple JavaScript testing framework)
 
@@ -220,6 +223,8 @@
 ### API
 >[jscapture](https://github.com/mgechev/jscapture)(Screen recording and capturing with pure client-side JavaScript.)
 
+>[brocco](https://github.com/toolness/brocco)(在浏览器在将源码和注释抽离显示在两侧，方便阅览)
+
 ### Code Highlighting
 >[CodeMirror](https://github.com/codemirror/CodeMirror)(In-browser code editor)
 
@@ -302,6 +307,8 @@
 
 ### Modals and Popups
 >[jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件 :clap:)
+
+>[flippant.js](https://github.com/mintchaos/flippant.js)(一个迷你、依赖少的DOM节点翻转UI库 :+1: )
 
 >[toolbar](https://github.com/paulkinzett/toolbar)(A tooltip style toolbar jQuery plugin :+1:)
 
