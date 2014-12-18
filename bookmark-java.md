@@ -53,6 +53,11 @@
 ### Distributed Applications
 >[elasticsearch](https://github.com/elasticsearch/elasticsearch) (分布式可扩展的实时搜索和分析引擎)
 
+### Document Processing
+>[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
+
+>[jpinyin](https://github.com/stuxuhai/jpinyin)(java 汉字转拼音)
+
 ### High Performance
 >[jna](https://github.com/twall/jna)(Java Native Access)
 
@@ -67,6 +72,8 @@
 ### BPM
 >[Activiti](https://github.com/Activiti/Activiti) (light-weight workflow and Business Process Management (BPM) Platform)
 
+>[snakerflow](https://github.com/snakerflow/snakerflow)(简单、轻巧、灵活的工作流引擎)
+
 ### Security
 >[scribe-java](https://github.com/fernandezpablo85/scribe-java)(Simple OAuth library for Java)
 
@@ -74,8 +81,6 @@
 >[sitemesh3](https://github.com/sitemesh/sitemesh3)(网页布局和修饰的框架，基于Servlet中的Filter，类似于ASP.NET中的'母版页')
 
 ### Utility
->[jsoup](https://github.com/jhy/jsoup) (Java HTML Parser, with best of DOM, CSS, and jquery)
-
 >[generator-jhipster](https://github.com/jhipster/generator-jhipster) (用Yeoman + Maven + Spring + AngularJS搭建java项目的脚手架生成器)
 
 >[wro4j](https://github.com/alexo/wro4j) (A tool for analysis and optimization of web resources for java)
@@ -113,6 +118,8 @@
 >[Java8InAction](https://github.com/java8/Java8InAction)(java8 实战)
 
 >[H2-Research](https://github.com/codefollower/H2-Research)(H2数据库源代码学习研究(包括代码注释、文档、用于代码分析的测试用例))
+
+>[jsoup-learning](https://github.com/code4craft/jsoup-learning)(Jsoup学习笔记,添加了部分学习代码和注释。)
 
 ### Miscellaneous
 >[grunt-maven-plugin](https://github.com/allegro/grunt-maven-plugin)(Grunt + Maven integration done right)
