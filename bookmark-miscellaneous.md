@@ -27,8 +27,6 @@
 
 >[soundjay](http://www.soundjay.com)(用于网站使用的各种声音特效)
 
->[free-programming-books](https://github.com/vhf/free-programming-books)(编程学习资源电子书)
-
 ### 优秀网站
 >[front-end-collect](https://github.com/foru17/front-end-collect)(前端开发相关的优秀网站、博客、以及活跃开发者)
 
