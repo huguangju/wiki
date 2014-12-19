@@ -87,6 +87,10 @@
 
 >[gs-collections](https://github.com/goldmansachs/gs-collections)(A supplement or replacement for the Java Collections Framework.)
 
+>[jodd](https://github.com/oblac/jodd)(Jodd is set of open-source Java tools and micro frameworks; compact, yet powerful. Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.5 Mb)
+
+>[jeecg](https://github.com/zhangdaiscott/jeecg)(JEECG 基于代码生成器的智能开发平台)
+
 ### Search
 >[ansj_seg](https://github.com/ansjsun/ansj_seg) (ansj分词.ict的真正java实现.中文分词,人名识别,词性标注,用户自定义词典)
 
