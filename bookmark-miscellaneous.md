@@ -27,8 +27,12 @@
 
 >[soundjay](http://www.soundjay.com)(用于网站使用的各种声音特效)
 
+>[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)(此为《程序员编程艺术：面试和算法心得》的初稿，于14年6月转移到Word上优化，纸质版15年上市)
+
 ### 优秀网站
 >[front-end-collect](https://github.com/foru17/front-end-collect)(前端开发相关的优秀网站、博客、以及活跃开发者)
+
+>[ImportNew](http://www.importnew.com)(专注Java & Android 技术分享)
 
 ### 工具
 >[jsdelivr](https://github.com/jsdelivr/jsdelivr)(免费开源的 CDN 解决方案，用于帮助开发者和站长。包含 JavaScript 库、jQuery 插件、CSS 框架、字体等等 Web 上常用的静态资源)
