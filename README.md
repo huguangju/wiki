@@ -18,6 +18,7 @@
     + [甘特图 (Gantt)](#gantt)
     + [脑图 (Mind Map)](#mind-map)
     + [PPT](#ppt)
+    + [流程图 (Flowchart)](#flowchart )
   + [文件上传 (File Upload)](#file-upload)
   + [编辑器 (Editors)](#editors)
   + 实用工具
@@ -141,10 +142,8 @@
 
 >[impress.js](https://github.com/bartaz/impress.js)(It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.)
 
-### Editors
->[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
-
->[CodeMirror](https://github.com/codemirror/CodeMirror)
+### Flowchart
+>[mermaid](https://github.com/knsv/mermaid)(Generation of diagram and flowchart from text in a similar manner as markdown)
 
 ### File Upload
 >[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)(功能强大的文件上传组件，你值得拥有)
@@ -154,6 +153,11 @@
 >[webuploader](https://github.com/fex-team/webuploader)(It's a new file uploader solution!)
 
 >[angular-file-upload](https://github.com/danialfarid/angular-file-upload)(An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers)
+
+### Editors
+>[brackets](https://github.com/adobe/brackets)(开源的JavaScript、HTML、CSS网页代码编辑器)
+
+>[CodeMirror](https://github.com/codemirror/CodeMirror)
 
 ### Utility
 >[underscore](https://github.com/jashkenas/underscore)(JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象)
@@ -219,6 +223,8 @@
 >[video.js](https://github.com/videojs/video.js)(open source HTML5 & Flash video player)
 
 >[muplayer](https://github.com/Baidu-Music-FE/muplayer)(An open source web audio player from Baidu Music, support HTML5 and Flash engine on different platforms(百度音乐播放内核))
+
+>[clappr](https://github.com/globocom/clappr)(An extensible media player for the web)
 
 ### API
 >[jscapture](https://github.com/mgechev/jscapture)(Screen recording and capturing with pure client-side JavaScript.)
@@ -433,6 +439,8 @@
 >[purplecoat.js](https://github.com/ellekasai/purplecoat.js)(Simple Labeled Overlays)
 
 >[textillate](https://github.com/jschr/textillate)(A simple plugin for CSS3 text animations :+1:)
+
+>[focusable](https://github.com/zzarcon/focusable)(Set a spotlight focus on DOM element adding a overlay layer to the rest of the page)
 
 ### Navigation
 >[intro.js](https://github.com/usablica/intro.js)(A better way for new feature introduction and step-by-step users guide for your website and project.)
