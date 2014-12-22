@@ -43,3 +43,7 @@
 >[dashboards](https://github.com/keen/dashboards)(Responsive dashboard templates for Bootstrap)
 
 >[flipboard-layout](https://github.com/botelho/flipboard-layout)(An experimental page layout that let's you navigate pages by swiping or dragging as in a booklet, inspired by Flipboard.)
+
+>[textillate](https://github.com/jschr/textillate)(A simple plugin for CSS3 text animations)
+
+>[magic](https://github.com/miniMAC/magic)(CSS3 Animations with special effects)
