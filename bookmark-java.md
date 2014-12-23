@@ -74,6 +74,9 @@
 
 >[snakerflow](https://github.com/snakerflow/snakerflow)(简单、轻巧、灵活的工作流引擎)
 
+### REST Frameworks
+>[rest-client](https://github.com/wiztools/rest-client)(Java application to test HTTP/RESTful webservices.)
+
 ### Security
 >[scribe-java](https://github.com/fernandezpablo85/scribe-java)(Simple OAuth library for Java)
 
@@ -90,6 +93,8 @@
 >[jodd](https://github.com/oblac/jodd)(Jodd is set of open-source Java tools and micro frameworks; compact, yet powerful. Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.5 Mb)
 
 >[jeecg](https://github.com/zhangdaiscott/jeecg)(JEECG 基于代码生成器的智能开发平台)
+
+>[jcommon](https://github.com/facebook/jcommon)(concurrency, collections, zookeeper, stats/analytics, config, testing, etc)
 
 ### Search
 >[ansj_seg](https://github.com/ansjsun/ansj_seg) (ansj分词.ict的真正java实现.中文分词,人名识别,词性标注,用户自定义词典)
