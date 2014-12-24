@@ -109,6 +109,9 @@
 ### UI Frameworks
 >[fuelux](https://github.com/ExactTarget/fuelux)(Extends Twitter Bootstrap with additional lightweight JavaScript controls.)
 
+>[ionic](https://github.com/driftyco/ionic)(Advanced HTML5 mobile development framework and SDK. Build great hybrid apps with web technologies you already know and love. Best friends with AngularJS. 
+)
+
 ### Data Binding
 >[way.js](https://github.com/gwendall/way.js)(简单、轻量级、稳定的双向数据绑定库)
 
