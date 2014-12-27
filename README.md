@@ -100,7 +100,7 @@
 ### Non-MVC Frameworks
 >[ember.js](https://github.com/emberjs/ember.js)(A JavaScript framework for creating ambitious web applications)
 
->[ionic](https://github.com/driftyco/ionic)(Advanced HTML5 Mobile App Framework. A beautiful front-end framework for developing hybrid mobile apps in HTML5. Best friends with AngularJS.)
+>[react](https://github.com/facebook/react)(A declarative, efficient, and flexible JavaScript library for building user interfaces.)
 
 >[aralejs](https://github.com/aralejs/aralejs.org)(开放、简单、易用的前端基础类库)
 
@@ -221,6 +221,9 @@
 >[log](https://github.com/adamschwartz/log)(Console.log with style)
 
 >[console.image](https://github.com/adriancooney/console.image)(The one thing Chrome Dev Tools didn't need.)
+
+### RegExp
+>[regexr](https://github.com/gskinner/regexr)(RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.)
 
 ### Media
 >[video.js](https://github.com/videojs/video.js)(open source HTML5 & Flash video player)
