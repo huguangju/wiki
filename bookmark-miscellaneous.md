@@ -3,21 +3,23 @@
 ## 综合
 
 ### 资源链接汇集
->[awesome](https://github.com/sindresorhus/awesome)(各种主流语言的优秀项目集合)
+>[awesome](https://github.com/sindresorhus/awesome)(各种主流语言的优秀项目汇集)
 
 >[github_star.md](https://github.com/Tairy/Social-Networking-Analysis/blob/master/github/github_star.md)(同上)
 
->[lists](https://github.com/jnv/lists) (资源集合的集合)
+>[lists](https://github.com/jnv/lists) (资源集合的汇集)
 
->[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)(Github上最火的前端开源项目列表)
+>[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)(Github上最火的前端开源项目汇集)
 
->[awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) (系统管理员资源集合)
+>[awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) (系统管理员资源汇集)
 
->[codrops](https://github.com/codrops)(前端优秀特效示例集合)
+>[codrops](https://github.com/codrops)(前端优秀特效示例汇集)
 
->[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)(Web性能优化资源集合)
+>[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)(Web性能优化资源汇集)
 
->[awesome-react](https://github.com/enaqx/awesome-react)(Facebook React库相关资源集合)
+>[awesome-react](https://github.com/enaqx/awesome-react)(Facebook React库相关资源汇集)
+
+>[manong](https://github.com/nemoTyrant/manong)(码农周刊整理: 按语言或技术分类的资料汇集)
 
 ### 电子书
 >[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)(本秘籍收录了一些Git和Github非常酷同时又少有人知的功能)
@@ -30,11 +32,15 @@
 ### 优秀网站
 >[伯乐在线](http://blog.jobbole.com/)(小而精的精选博客，优秀的原创/译文)
 
+>[codepen.io](http://codepen.io/)(优秀HTML和CSS展示网站 :+1:)
+
 >[front-end-collect](https://github.com/foru17/front-end-collect)(前端开发相关的优秀网站、博客、以及活跃开发者)
 
 >[ImportNew](http://www.importnew.com)(专注Java & Android 技术分享)
 
 >[Algomation](http://www.algomation.com/)(查看、创建和分享算法的学习平台)
+
+>[SDC设计师网址导航](http://hao.uisdc.com/)
 
 ### 工具
 >[jsdelivr](https://github.com/jsdelivr/jsdelivr)(免费开源的 CDN 解决方案，用于帮助开发者和站长。包含 JavaScript 库、jQuery 插件、CSS 框架、字体等等 Web 上常用的静态资源)
