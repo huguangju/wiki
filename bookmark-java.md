@@ -50,6 +50,9 @@
 
 ## ```Java```
 
+### Build Tool
+>[yuicompressor](https://github.com/yui/yuicompressor)(用来压缩JS 和CSS 文件的工具)
+
 ### Distributed Applications
 >[elasticsearch](https://github.com/elasticsearch/elasticsearch) (分布式可扩展的实时搜索和分析引擎)
 
@@ -83,8 +86,11 @@
 ### Template Engine
 >[sitemesh3](https://github.com/sitemesh/sitemesh3)(网页布局和修饰的框架，基于Servlet中的Filter，类似于ASP.NET中的'母版页')
 
+### Testing
+>[JavaHamcrest](https://github.com/hamcrest/JavaHamcrest)(一个协助编写用Java语言进行软件测试的框架,它支持创建自定义的断言匹配器,允许声明式定义匹配规则)
+
 ### Utility
->[generator-jhipster](https://github.com/jhipster/generator-jhipster) (用Yeoman + Maven + Spring + AngularJS搭建java项目的脚手架生成器)
+>[generator-jhipster](https://github.com/jhipster/generator-jhipster) (用Yeoman + Maven + Spring + AngularJS搭建java项目的脚手架生成器 :+1:)
 
 >[wro4j](https://github.com/alexo/wro4j) (A tool for analysis and optimization of web resources for java)
 
