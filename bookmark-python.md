@@ -24,3 +24,7 @@
 >[pyspider](https://github.com/binux/pyspider) (Web爬虫)
 
 >[nightrain](https://github.com/naetech/nightrain) (桌面应用程序)
+
+>[scrapy](https://github.com/scrapy/scrapy)(a fast high-level screen scraping and web crawling framework for Python)
+
+>[python-patterns](https://github.com/faif/python-patterns)(A collection of design patterns/idioms in Python)
