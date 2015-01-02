@@ -3,13 +3,15 @@
 ## 综合
 
 ### 资源链接汇集
->[awesome](https://github.com/sindresorhus/awesome)(各种主流语言的优秀项目汇集)
+>[awesome](https://github.com/sindresorhus/awesome)(各种主流语言的优秀项目汇集 :+1:)
 
 >[github_star.md](https://github.com/Tairy/Social-Networking-Analysis/blob/master/github/github_star.md)(同上)
 
 >[lists](https://github.com/jnv/lists) (资源集合的汇集)
 
 >[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)(Github上最火的前端开源项目汇集)
+
+>[awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap)(bootstrap 资源汇集)
 
 >[awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) (系统管理员资源汇集)
 
@@ -50,8 +52,10 @@
 >[docker](https://github.com/docker/docker) (开源的应用程序容器引擎)
 
 ### API && 文档 && 规范
->[谷歌 Web 开发最佳实践手册(伯乐在线中文版)](http://blog.jobbole.com/45574/)
->>[Best practices for modern web development](https://github.com/Google/WebFundamentals)
+>[Best practices for modern web development](https://github.com/Google/WebFundamentals)
+>>[谷歌 Web 开发最佳实践手册(伯乐在线中文版)](http://blog.jobbole.com/45574/)
+
+>[AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)(AngularJS指南)
 
 >[gradle 中文文档](https://github.com/waylau/Gradle-2-User-Guide)
 >>[gradle 中文文档](https://github.com/pkaq/gradledoc)
