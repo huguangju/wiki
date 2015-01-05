@@ -56,7 +56,8 @@
     + [滑块 (Sliders)](#sliders)
     + [范围滑块 (Range Sliders)](#range-sliders)
     + [表单组件 (Form Widgets)](#form-widgets)
-    + [Tips](#tips)
+    + [工具提示 (Tooltips)](#tooltips)
+	+ [定位 (Positioning)](#positioning)
     + [模态框和弹出窗 (Modals and Popups)](#modals-and-popups)
     + [滚动 (Scroll)](#scroll)
     + [菜单 (Menu)](#menu)
@@ -79,7 +80,10 @@
     + [手势 (Gesture)](#gesture)
   + [地图 (Maps)](#maps)
   + [动画 (Animations)](#animations)
-+ [Other Awesome Lists](#other-awesome-lists)
+  + [其它资源 (Other Resources)](#other-resources)
+    + [网站 (WebSite)](#website)
+	+ [博客 (Blog)](#blog)
+	+ [文档 (Document)](#document)
 
 ====
 
@@ -193,6 +197,7 @@
 + [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard)(The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.)   
 + [jsdoc](https://github.com/jsdoc3/jsdoc)(An API documentation generator for JavaScript. )
 + [FeHelper](https://github.com/zxlie/FeHelper)(Web前端助手--FeHelper（Chrome扩展）)
++ [minimap](https://github.com/princejwesley/minimap)(A preview of full webpage or its DOM element with flexible positioning and navigation support :+1:)
 
 ### Files
 
@@ -361,6 +366,8 @@
 
 ### Lazy Load
 
+*延迟(异步)加载资源,提高页面访问速度*
+
 + [echo](https://github.com/toddmotto/echo)(Lazy-loading images with data-* attributes)
 + [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)(jQuery plugin for lazy loading images)
 + [lazysizes](https://github.com/aFarkas/lazysizes)(High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.)
@@ -375,6 +382,7 @@
 + [bootstrapvalidator](https://github.com/formvalidation/formvalidation) (基于Twitter Bootstrap的表单验证)
 + [validator.js](https://github.com/chriso/validator.js)(String validation and sanitization)
 + [h5Validate](https://github.com/ericelliott/h5Validate)(An HTML5 form validation plugin for jQuery)
++ [jqBootstrapValidation](https://github.com/ReactiveRaven/jqBootstrapValidation)(A JQuery validation framework for bootstrap forms)
 
 ### Keyboard Wrappers
 
@@ -399,18 +407,22 @@
 
 + [toastr](https://github.com/CodeSeven/toastr)(Simple javascript toast notifications)
 
-
 ### Sliders
 
 + [unslider](https://github.com/idiot/unslider)(最简单的jQuery滑块插件)
 + [slick](https://github.com/kenwheeler/slick)(the last carousel you'll ever need)
 + [Ideal-Image-Slider](https://github.com/gilbitron/Ideal-Image-Slider)(Quite simply the ideal Image Slider in vanilla JS.)
 + [jquery.smoothState.js](https://github.com/weblinc/jquery.smoothState.js)(A jQuery plugin to stop the jank of page loads.)
-+ [jQRangeSlider](https://github.com/ghusse/jQRangeSlider)(A jquery UI range selection slider that supports dates)
++ [bxslider-4](https://github.com/stevenwanderski/bxslider-4)(Responsive jQuery content slider)
++ [slider](https://github.com/jssor/slider)(Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image :+1:)
 
 ### Range Sliders
 
++ [ion.rangeSlider](https://github.com/IonDen/ion.rangeSlider)(jQuery only range slider)
 + [bootstrap-slider](https://github.com/seiyria/bootstrap-slider) (bootstrap范围滑块)
++ [jQRangeSlider](https://github.com/ghusse/jQRangeSlider)(A jquery UI range selection slider that supports dates)
++ [rangeslider.js](https://github.com/andreruffert/rangeslider.js)(HTML5 input range slider element polyfill)
++ [noUiSlider](https://github.com/leongersen/noUiSlider)(轻量级的jQuery范围滑块插件,支持大多数设备的touch事件,包括IOS, Android, Windows 8 和 Windows Phone 8)
 
 ### Form Widgets
 
@@ -421,6 +433,7 @@
 + [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect)
 + [visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
 + [jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)(表单字段和页面元素掩码jQuery插件) 
++ [formatter.js](https://github.com/firstopinion/formatter.js)(Format html inputs to match a specified pattern)
 + [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask)(jQuery Input Mask plugin)
 + [typeahead.js](https://github.com/twitter/typeahead.js)(is a fast and fully-featured autocomplete library)
 + [floatlabels.js](https://github.com/clubdesign/floatlabels.js)(Follows the famous Float Label Pattern. Built on jQuery.)
@@ -429,17 +442,27 @@
 + [bootstrap-tagsinput](https://github.com/TimSchlechter/bootstrap-tagsinput) (基于Twitter Bootstrap的可编辑标签jQuery插件)
 + [tagmanager](https://github.com/max-favilli/tagmanager)(A jQuery plugin (working nicely with twitter bootstrap))
 
-### Tips
+### Tooltips
 
 + [qTip2](https://github.com/qTip2/qTip2)(Pretty powerful tooltips)
 + [tipsy](https://github.com/jaz303/tipsy)(Facebook-style tooltips plugin for jQuery)
++ [tooltipster](https://github.com/iamceege/tooltipster)(A jQuery tooltip plugin)
++ [toolbar](https://github.com/paulkinzett/toolbar)(A tooltip style toolbar jQuery plugin :+1:)
++ [jquery-powertip](https://github.com/stevenbenner/jquery-powertip)(A jQuery plugin that creates hover tooltips)
++ [cssarrowplease](https://github.com/hojberg/cssarrowplease)(生成工具提示箭头CSS类)
++ [jquery-validation-bootstrap-tooltip](https://github.com/Thrilleratplay/jquery-validation-bootstrap-tooltip)(A drop in extension replacing error labels from jQuery Validation plugin with Twitter Bootstrap tooltips)
+
+### Positioning 
+
++ [tether](https://github.com/HubSpot/tether)(A positioning engine to make overlays, tooltips and dropdowns better)
++ [fixto](https://github.com/bbarakaci/fixto)(A jQuery plugin for sticky positioning)
++ [position](https://github.com/aralejs/position)(Position Utility)
++ [fixed-sticky](https://github.com/filamentgroup/fixed-sticky)(A position: sticky polyfill that works with filamentgroup/fixed-fixed for a safer position:fixed fallback)
 
 ### Modals and Popups
 
 + [jBox](https://github.com/StephanWagner/jBox) (强大灵活的弹窗、消息提示、通知...jQuery插件 :clap:)
 + [flippant.js](https://github.com/mintchaos/flippant.js)(一个迷你、依赖少的DOM节点翻转UI库 :+1: )
-+ [toolbar](https://github.com/paulkinzett/toolbar)(A tooltip style toolbar jQuery plugin :+1:)
-+ [tooltipster](https://github.com/iamceege/tooltipster)(A jQuery tooltip plugin)
 + [sweetalert](https://github.com/t4t5/sweetalert)(A beautiful replacement for JavaScript's "alert")
   + [bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert)(Bootstrap implementation)
 + [noty](https://github.com/needim/noty)(noty is a jQuery plugin that makes it easy to create alert - success - error - warning - information - b messages as an alternative the standard alert dialog. Each notification is added to a queue.)
@@ -552,9 +575,10 @@
 
 + [dropzone](https://github.com/enyo/dropzone)(简单地拖放库，支持图片预览，有好看的进度条。)
 + [jquery.pep.js](https://github.com/briangonzalez/jquery.pep.js)(Pep, a lightweight plugin for kinetic drag on mobile/desktop)
-+ [jquery-filedrop](https://github.com/weixiyen/jquery-filedrop)(drag and drop desktop files and POST to a URL to handle files.)
-+ [Bootstrap-Form-Builder](https://github.com/minikomi/Bootstrap-Form-Builder)(Web app for drag drop building bootstrap forms.)
-+ [dragdealer](https://github.com/skidding/dragdealer)(Drag-based JavaScript component, embracing endless UI solutions.)
++ [jquery-filedrop](https://github.com/weixiyen/jquery-filedrop)(drag and drop desktop files and POST to a URL to handle files)
++ [Bootstrap-Form-Builder](https://github.com/minikomi/Bootstrap-Form-Builder)(Web app for drag drop building bootstrap forms)
++ [formbuilder](https://github.com/dobtco/formbuilder)(Formbuilder is a small graphical interface for letting users build their own webforms)
++ [dragdealer](https://github.com/skidding/dragdealer)(Drag-based JavaScript component, embracing endless UI solutions)
 + [Nestable](https://github.com/dbushell/Nestable)(可拖拽的层级列表，兼容移动端touch的jQuery插件)
 
 ### Gallery
@@ -576,7 +600,7 @@ Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, res
 + [jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)(Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.)
 + [sprite.js](https://github.com/batiste/sprite.js)(An efficient javascript sprite animation framework)
 
-### Other Awesome Lists
+### Other Resources
 
 + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) (书写具备一致风格、通俗易懂 JavaScript 的原则)
 + [javascript-patterns](https://github.com/shichuan/javascript-patterns)
