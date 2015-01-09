@@ -8,6 +8,7 @@
   + [加载器 (Loaders)](#loaders)
   + [测试框架 (Testing Frameworks)](#testing-frameworks)
   + [QA工具 (QA Tools)](#qa-tools)
+  + [构建工具 (Building Tools)](building-tools)
   + [MVC框架 (MVC Frameworks and Libraries)](#mvc-frameworks-and-libraries)
   + [非MVC框架 (Non-MVC Frameworks)](#non-mvc-frameworks)
   + [UI 框架 (UI Frameworks)](#ui-frameworks)
@@ -106,11 +107,16 @@
 ### Testing Frameworks
 
 + [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
-+ [jasmine](https://github.com/pivotal/jasmine)(DOM-less simple JavaScript testing framework)>[jquery-mockjax](https://github.com/jakerella/jquery-mockjax)(The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses)
++ [jasmine](https://github.com/pivotal/jasmine)(DOM-less simple JavaScript testing framework)
++ [jquery-mockjax](https://github.com/jakerella/jquery-mockjax)(The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses)
 + [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) (模拟ajax请求和响应)
 
 ### QA Tools
 + [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+
+### Building Tools
++ [generator](https://github.com/yeoman/generator) (为你提供项目脚手架的生成系统, 完成新建文件、安装模块、类库等重复性操作)
+
 
 ### MVC Frameworks and Libraries
 
@@ -222,6 +228,7 @@
 
 + [immutable-js](https://github.com/facebook/immutable-js)(Immutable Persistent Data Collections for Javascript)
 + [seamless-immutable](https://github.com/rtfeldman/seamless-immutable)(Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.)
++ [sift.js](https://github.com/crcn/sift.js) (受MongoDB启发的数组过滤库)
 
 ### Date
 
@@ -524,6 +531,7 @@
 + [d3](https://github.com/mbostock/d3)(A JavaScript visualization library for HTML and SVG.)
 + [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter)(A JQUERY PLUGIN FOR SVG PATH ANIMATION)
 + [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus)(实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果 :+1:)
++ [obelisk.js](https://github.com/nosir/obelisk.js) (Obelisk.js是个非常酷的JS库，它本质上是一个创建等距对象的JavaScript引擎)
 
 ### Menu
 
