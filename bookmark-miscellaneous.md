@@ -31,6 +31,10 @@
 
 >[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)(此为《程序员编程艺术：面试和算法心得》的初稿，于14年6月转移到Word上优化，纸质版15年上市)
 
+>[learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) (借助开源项目，学习软件开发)
+
+>[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) (前端工作面试问题)
+
 ### 优秀网站
 >[伯乐在线](http://blog.jobbole.com/)(小而精的精选博客，优秀的原创/译文)
 
@@ -46,6 +50,8 @@
 
 ### 工具
 >[jsdelivr](https://github.com/jsdelivr/jsdelivr)(免费开源的 CDN 解决方案，用于帮助开发者和站长。包含 JavaScript 库、jQuery 插件、CSS 框架、字体等等 Web 上常用的静态资源)
+
+>[freecdn](http://www.freecdn.cn/) (前端公共库cdn)
 
 >[soundjay](http://www.soundjay.com)(用于网站使用的各种声音特效)
 
