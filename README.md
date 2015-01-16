@@ -58,7 +58,7 @@
     + [范围滑块 (Range Sliders)](#range-sliders)
     + [表单组件 (Form Widgets)](#form-widgets)
     + [工具提示 (Tooltips)](#tooltips)
-	+ [定位 (Positioning)](#positioning)
+    + [定位 (Positioning)](#positioning)
     + [模态框和弹出窗 (Modals and Popups)](#modals-and-popups)
     + [滚动 (Scroll)](#scroll)
     + [菜单 (Menu)](#menu)
@@ -69,6 +69,7 @@
     + [图表 (Chart)](#chart)
     + [WebGL](#wbebgl)
     + [图形库 (Graphics Library)](#graphics-library)
+    + [图片相关 (Images)](#images)
     + [背景 (Background)](#background)
     + [特效组件 (Effects Widgets)](#effects-widgets)
     + [导航 (Navigation)](#navigation)
@@ -433,21 +434,37 @@
 
 ### Form Widgets
 
-+ [select2](https://github.com/ivaynberg/select2) (支持搜索、远程数据访问、无限下拉滚动 :ok_hand:)
-+ [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js)(兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!)
-+ [multi-select](https://github.com/lou/multi-select)(一个替换标准选择框的、用户友好的多属性添加与移除选择框）
-+ [bootstrap-select](https://github.com/silviomoreto/bootstrap-select) (基于Twitter Bootstrap的下拉选择框)
-+ [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect)
-+ [visualsearch](https://github.com/documentcloud/visualsearch) (增强的、可自动完成的搜索框jQuery插件)
-+ [jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)(表单字段和页面元素掩码jQuery插件) 
-+ [formatter.js](https://github.com/firstopinion/formatter.js)(Format html inputs to match a specified pattern)
-+ [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask)(jQuery Input Mask plugin)
-+ [typeahead.js](https://github.com/twitter/typeahead.js)(is a fast and fully-featured autocomplete library)
-+ [floatlabels.js](https://github.com/clubdesign/floatlabels.js)(Follows the famous Float Label Pattern. Built on jQuery.)
-+ [Ladda](https://github.com/hakimel/Ladda)(Buttons with built-in loading indicators.)
-+ [intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input)(A jQuery plugin for entering and validating international telephone numbers)
-+ [bootstrap-tagsinput](https://github.com/TimSchlechter/bootstrap-tagsinput) (基于Twitter Bootstrap的可编辑标签jQuery插件)
-+ [tagmanager](https://github.com/max-favilli/tagmanager)(A jQuery plugin (working nicely with twitter bootstrap))
+*<select> 下拉选择框架*
+
++ [select2](https://github.com/ivaynberg/select2) - 支持搜索、远程数据访问、无限下拉滚动 :ok_hand:
++ [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) - 兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!
++ [multi-select](https://github.com/lou/multi-select) - 一个替换标准选择框的、用户友好的多属性添加与移除选择框
++ [bootstrap-select](https://github.com/silviomoreto/bootstrap-select) - 基于Twitter Bootstrap的下拉选择框
++ [selectize.js](https://github.com/brianreavis/selectize.js) - 个基于jQuery的自定义<select> UI 控件,具有自动完成、类似原生选择框的键盘导航及较好的用户体验
++ [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - 基于Bootstrap的```多选下拉框```jQuery插件
+
+
+*<input> 文本输入框自动完成*
+
++ [visualsearch](https://github.com/documentcloud/visualsearch) - 增强的、可自动完成的搜索框jQuery插件
++ [typeahead.js](https://github.com/twitter/typeahead.js) - is a fast and fully-featured autocomplete library
++ [floatlabels.js](https://github.com/clubdesign/floatlabels.js) - Follows the famous Float Label Pattern. Built on jQuery.
+
+*输入框掩码*
+
++ [jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin) - 表单字段和页面元素掩码jQuery插件
++ [formatter.js](https://github.com/firstopinion/formatter.js) - Format html inputs to match a specified pattern
++ [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask) - jQuery Input Mask plugin
++ [intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input) - 输入和验证国际电话号码的jQuery插件 
+
+*标签管理*
+
++ [bootstrap-tagsinput](https://github.com/TimSchlechter/bootstrap-tagsinput) - 基于Twitter Bootstrap的可编辑标签jQuery插件)
++ [tagmanager](https://github.com/max-favilli/tagmanager) - A jQuery plugin (working nicely with twitter bootstrap)
+
+*按钮*
+
++ [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 
 ### Tooltips
 
@@ -532,6 +549,10 @@
 + [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter)(A JQUERY PLUGIN FOR SVG PATH ANIMATION)
 + [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus)(实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果 :+1:)
 + [obelisk.js](https://github.com/nosir/obelisk.js) (Obelisk.js是个非常酷的JS库，它本质上是一个创建等距对象的JavaScript引擎)
+
+### Images
+
++ [holder](https://github.com/imsky/holder) - 客户端图片占位器
 
 ### Menu
 
