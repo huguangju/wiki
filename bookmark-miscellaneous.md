@@ -20,6 +20,9 @@
 + [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)(此为《程序员编程艺术：面试和算法心得》的初稿，于14年6月转移到Word上优化，纸质版15年上市)
 + [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) (借助开源项目，学习软件开发)
 + [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) (前端工作面试问题)
++ [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - 深入JavaScript语言核心机制的系列图书
++ [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
++ [fks](https://github.com/JacksonTian/fks) - 前端技能汇总
 
 ### 优秀网站
 + 综合
@@ -62,5 +65,5 @@
   + [gradledoc](https://github.com/pkaq/gradledoc)(Gradle 用户手册) - 翻译中
 + [Material Design 中文协同翻译](https://github.com/1sters/material_design_zh)
 + [Google JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-
++ [angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS风格指南
 
