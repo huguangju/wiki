@@ -23,6 +23,7 @@
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - 深入JavaScript语言核心机制的系列图书
 + [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
 + [fks](https://github.com/JacksonTian/fks) - 前端技能汇总
++ [book](https://github.com/qyuhen/book) - 雨痕C/Go/Python学习笔记
 
 ### 优秀网站
 + 综合
@@ -66,4 +67,5 @@
 + [Material Design 中文协同翻译](https://github.com/1sters/material_design_zh)
 + [Google JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 + [angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS风格指南
-
++ [websocket-protocol](https://github.com/zhangkaitao/websocket-protocol) - websocket协议翻译
++ [TLCL](https://github.com/billie66/TLCL) - The Linux Command Line（中文版）
