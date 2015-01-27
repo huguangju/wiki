@@ -27,6 +27,7 @@
 
 ### 优秀网站
 + 综合
+  + [stackexchange.com](http://stackexchange.com/) - 包含[Stack Overflow](http://stackexchange.com/)在内的43个不同领域站点的问答社区的总和
   + [codeproject](http://www.codeproject.com/) - 开源的程序设计网站,主要的使用者是Windows平台上的程序员,每一篇文章几乎都附有来源码和例子
   
 + 新闻类
