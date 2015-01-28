@@ -1,4 +1,4 @@
-## JavaScript, [Java](bookmark-java.md), [Andorid](bookmark-andorid.md), [CSS](bookmark-css.md), [Python](bookmark-pyton.md), [Nodejs](https://github.com/huguangju/wiki/blob/master/bookmark-nodejs.md), [etc](bookmark-miscellaneous.md).
+## JavaScript, [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](pyton.md), [Nodejs](nodejs.md), [etc](miscellaneous.md).
 
 > Inspired by the [awesome-javascript](https://github.com/sorrycc/awesome-javascript) list thing.
   See more, jump to :point_right: [awesome](https://github.com/sindresorhus/awesome) :book:
