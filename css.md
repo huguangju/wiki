@@ -27,4 +27,6 @@
   + [magic](https://github.com/miniMAC/magic)(CSS3 Animations with special effects)
   + [grid](https://github.com/aekaplan/grid) - 响应式设计简易指南
   + [textillate](https://github.com/jschr/textillate) - 简单的CSS3文字动画插件
+  + [magic](https://github.com/miniMAC/magic) - CSS3 动画特效
+  + [t3](https://github.com/t3framework/t3) - T3 Framework - (核心插件和空白模板)
     
