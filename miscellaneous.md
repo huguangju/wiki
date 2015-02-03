@@ -59,6 +59,7 @@
 + [freecdn](http://www.freecdn.cn/) - 前端公共库cdn
 + [soundjay](http://www.soundjay.com) - 用于网站使用的各种声音特效
 + [docker](https://github.com/docker/docker) - 开源的应用程序容器引擎
++ [gitbook](https://www.gitbook.com/) - Gitbook是一个命令行工具，可以把你的Markdown文件汇集成电子书，并提供PDF等多种格式输出
 
 ### API && 文档 && 规范
 + [Best practices for modern web development](https://github.com/Google/WebFundamentals)
