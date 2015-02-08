@@ -1,7 +1,7 @@
 ## JavaScript, [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](python.md), [Nodejs](nodejs.md), [etc](miscellaneous.md).
 
 > Inspired by the [awesome-javascript](https://github.com/sorrycc/awesome-javascript) list thing.
-  See more, jump to :point_right: [awesome](https://github.com/sindresorhus/awesome) :book:
+  See more -> [awesome](https://github.com/sindresorhus/awesome) 
 
 + [JavaScript](#javascript)
   + [包管理器 (Package Managers)](#package-managers)
@@ -24,7 +24,7 @@
   + [编辑器 (Editors)](#editors)
   + 实用工具
     + [工具 (Utility)](#utility)
-    + [文件 (Files)](#files)
+    + [事件 (Event)](#event)
     + [格式化 (Code Formatting)](#code-formattiing)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
@@ -109,8 +109,7 @@
 
 + [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
 + [jasmine](https://github.com/pivotal/jasmine) - DOM-less simple JavaScript testing framework.
-+ [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) - The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses
-+ [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) - 模拟ajax请求和响应
++ [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) - jQuery的Mockjax插件提供了一个简单的和极其灵活的接口，模拟Ajax请求和响应
 
 ### QA Tools
 + [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
@@ -197,16 +196,19 @@
 
 + [underscore](https://github.com/jashkenas/underscore) - JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象
 + [is.js](https://github.com/arasatasaygin/is.js) - 小型、通用的检查库,涵盖类型、正则、数学、时间、环境等等
-+ [jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel) - A jQuery plugin that adds cross-browser mouse wheel support.
++ [lodash](https://github.com/lodash/lodash) - JavaScript实用工具库：提供一致性、模块化、性能优化和附加功能（相当于[underscore](https://github.com/jashkenas/underscore)的增强版）
 + [101](https://github.com/tjmehta/101) - A modern JS utility library
+
 + [jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
 + [ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - Chrome探测器，可以探测正在使用的开源软件或者js类库
 + [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 + [jsdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript.
 + [FeHelper](https://github.com/zxlie/FeHelper) - Web前端助手--FeHelper(Chrome扩展)
-+ [minimap](https://github.com/princejwesley/minimap) - A preview of full webpage or its DOM element with flexible positioning and navigation support :+1:
++ [minimap](https://github.com/princejwesley/minimap) - A preview of full webpage or its DOM element with flexible positioning and navigation support 
 
-### Files
+### Event
+
++ [jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel) - 跨浏览器鼠标滚轮支持的jQuery插件
 
 ### Code Formattring 
 
@@ -251,7 +253,8 @@
 
 ### Promise
 
-+ [q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
++ [q](https://github.com/kriskowal/q) - 一个创建和组织异步javascript Promises的工具
++ [when](https://github.com/cujojs/when) - 稳定、快速地 Promises/A+ 和 when() 实现，还有其它异步特性
 + [promise](https://github.com/then/promise) - Bare bones Promises/A+ implementation
 + [promisejs](https://github.com/stackp/promisejs) - Lightweight javascript implementation of promises.
 
@@ -266,7 +269,7 @@
 ### Color
 
 + [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A jQuery plugin for extracting the dominant color from images and applying the color to their parent
-+ [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - jQuery MiniColors Plugin :+1:
++ [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - jQuery MiniColors Plugin 
 + [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 + [jquery-simplecolorpicker](https://github.com/tkrotoff/jquery-simplecolorpicker) - Very simple jQuery color picker
 + [color-thief](https://github.com/lokesh/color-thief) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas
@@ -349,7 +352,7 @@
 
 ### Vision Detection
 
-+ [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web :+1:
++ [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web 
 + [jsfeat](https://github.com/inspirit/jsfeat) - JavaScript Computer Vision library
 
 ### Code Highlighting
@@ -360,17 +363,19 @@
 
 *加载状态指示器库,一般用于Ajax请求时*
 
+*进度条*
 + [nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 + [spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 + [progress.js](https://github.com/usablica/progress.js) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
 + [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars
-+ [bootstrap-progressbar](https://github.com/minddust/bootstrap-progressbar) - progressbar interactions for twitter bootstrap 2 & 3 :+1:
-+ [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators
-+ [is-loading](https://github.com/hekigan/is-loading) - Simple jQuery plugin to show visual feedback when loading data or any action that would take time
-+ [GridLoadingEffects](https://github.com/codrops/GridLoadingEffects) - Some inspiration for loading effects of grid items using CSS animations.
-+ [flipload](https://github.com/pazguille/flipload) - Flipping elements and show a loading indicator easily.
-+ [jquery-loading-overlay](https://github.com/jgerigmeyer/jquery-loading-overlay) - jQuery Loading Overlay Plugin
++ [bootstrap-progressbar](https://github.com/minddust/bootstrap-progressbar) - progressbar interactions for twitter bootstrap 2 & 3 
++ [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Material风格的加载进度条
 
+*内置加载指示器*
++ [Ladda](https://github.com/hakimel/Ladda) - 内置于按钮上的加载指示器
++ [is-loading](https://github.com/hekigan/is-loading) - 返馈加载状态的简单的jQuery插件
++ [flipload](https://github.com/pazguille/flipload) - 翻转元素并展现加载的状态
++ [jquery-loading-overlay](https://github.com/jgerigmeyer/jquery-loading-overlay) - 在指定元素上添加/移除加载状态浮层的建议jQuery插件
 
 ### Lazy Load
 
@@ -382,6 +387,7 @@
 + [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
 + [text](https://github.com/requirejs/text) - An AMD loader plugin for loading text resources
 + [eCSSential](https://github.com/scottjehl/eCSSential) - An experiment in optimized loading of mobile-first responsive CSS
++ [GridLoadingEffects](https://github.com/codrops/GridLoadingEffects) - 使用CSS动画效果加载网格项
 
 ### Validation
 
@@ -422,7 +428,7 @@
 + [Ideal-Image-Slider](https://github.com/gilbitron/Ideal-Image-Slider) - Quite simply the ideal Image Slider in vanilla JS.
 + [jquery.smoothState.js](https://github.com/weblinc/jquery.smoothState.js) - A jQuery plugin to stop the jank of page loads.)
 + [bxslider-4](https://github.com/stevenwanderski/bxslider-4) - Responsive jQuery content slider
-+ [slider](https://github.com/jssor/slider) - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image :+1:
++ [slider](https://github.com/jssor/slider) - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image 
 
 ### Range Sliders
 
@@ -471,7 +477,7 @@
 + [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips
 + [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery
 + [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin
-+ [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin :+1:
++ [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin 
 + [jquery-powertip](https://github.com/stevenbenner/jquery-powertip) - A jQuery plugin that creates hover tooltips
 + [cssarrowplease](https://github.com/hojberg/cssarrowplease) - 生成工具提示箭头CSS类
 + [jquery-validation-bootstrap-tooltip](https://github.com/Thrilleratplay/jquery-validation-bootstrap-tooltip) - A drop in extension replacing error labels from jQuery Validation plugin with Twitter Bootstrap tooltips
@@ -486,7 +492,7 @@
 ### Modals and Popups
 
 + [jBox](https://github.com/StephanWagner/jBox) - 强大灵活的弹窗、消息提示、通知...jQuery插件 :clap:
-+ [flippant.js](https://github.com/mintchaos/flippant.js) - 一个迷你、依赖少的DOM节点翻转UI库 :+1: 
++ [flippant.js](https://github.com/mintchaos/flippant.js) - 一个迷你、依赖少的DOM节点翻转UI库 
 + [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
   + [bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert) - Bootstrap implementation
 + [noty](https://github.com/needim/noty) - noty is a jQuery plugin that makes it easy to create alert - success - error - warning - information - b messages as an alternative the standard alert dialog. Each notification is added to a queue.
@@ -547,7 +553,7 @@
 + [AlloyImage](https://github.com/AlloyTeam/AlloyImage) - 基于HTML5的专业级图像处理开源引擎
 + [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
 + [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) - A JQUERY PLUGIN FOR SVG PATH ANIMATION
-+ [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) - 实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果 :+1:
++ [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) - 实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果 
 + [obelisk.js](https://github.com/nosir/obelisk.js) - Obelisk.js是个非常酷的JS库，它本质上是一个创建等距对象的JavaScript引擎
 + [matter-js](https://github.com/liabru/matter-js) - 基于 Web 的 2D 图形引擎
 
@@ -584,7 +590,7 @@
 + [Blur.js](https://github.com/jakiestfu/Blur.js) - blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
 + [tip_cards](https://github.com/peachananr/tip_cards) - Create a card layout that let your user flip through it like you see on Google Tips
 + [purplecoat.js](https://github.com/ellekasai/purplecoat.js) - Simple Labeled Overlays
-+ [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations :+1:
++ [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations 
 + [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page
 
 ### Navigation
