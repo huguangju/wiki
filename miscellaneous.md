@@ -6,6 +6,7 @@
 + [awesome](https://github.com/sindresorhus/awesome) - 各种主流语言的优秀项目汇集 :+1:
 + [github_star.md](https://github.com/Tairy/Social-Networking-Analysis/blob/master/github/github_star.md) - 同上
 + [lists](https://github.com/jnv/lists) - 资源集合的汇集
++ [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - 开发资源总结
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Github上最火的前端开源项目汇集
 + [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - bootstrap 资源汇集 
 + [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - 系统管理员资源汇集
@@ -17,6 +18,7 @@
 + [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能
 + [free-programming-books](https://github.com/vhf/free-programming-books) - 编程学习资源电子书
   + [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 编程学习资源电子书中文版
++ [gitbook](https://www.gitbook.com/) - 一个现代化的、用于出版的工具链，简单地把你的理念变为成品，发布成书 
 + [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 此为《程序员编程艺术：面试和算法心得》的初稿，于14年6月转移到Word上优化，纸质版15年上市
 + [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 借助开源项目，学习软件开发
 + [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - 前端工作面试问题
@@ -24,6 +26,7 @@
 + [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
 + [fks](https://github.com/JacksonTian/fks) - 前端技能汇总
 + [book](https://github.com/qyuhen/book) - 雨痕C/Go/Python学习笔记
++ [ITArticles](https://github.com/qiwsir/ITArticles) - 老齐的技术资料
 
 ### 优秀网站
 + 综合
@@ -59,7 +62,6 @@
 + [freecdn](http://www.freecdn.cn/) - 前端公共库cdn
 + [soundjay](http://www.soundjay.com) - 用于网站使用的各种声音特效
 + [docker](https://github.com/docker/docker) - 开源的应用程序容器引擎
-+ [gitbook](https://www.gitbook.com/) - Gitbook是一个命令行工具，可以把你的Markdown文件汇集成电子书，并提供PDF等多种格式输出
 
 ### API && 文档 && 规范
 + [Best practices for modern web development](https://github.com/Google/WebFundamentals)
