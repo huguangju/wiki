@@ -131,6 +131,7 @@
 + [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 + [aralejs](https://github.com/aralejs/aralejs.org) - 开放、简单、易用的前端基础类库
 + [todomvc](https://github.com/tastejs/todomvc) - Backbone.js, Ember.js, AngularJS及更多框架版本的TODO应用
++ [famous](https://github.com/Famous/famous) - Famo.us提供HTML5的JavaScript开发框架，可以让开发者利用 HTML5创造2D和3D的手势操作界面，并且可适配在各种移动或者桌面设备
 
 ### UI Frameworks
 
@@ -349,6 +350,7 @@
 
 + [jscapture](https://github.com/mgechev/jscapture) - Screen recording and capturing with pure client-side JavaScript.
 + [brocco](https://github.com/toolness/brocco) - 在浏览器在将源码和注释抽离显示在两侧，方便阅览
++ [slate](https://github.com/tripit/slate) - 帮助创建漂亮的的API文档,可以把它作为智能的,响应式的API文档模板
 
 ### Vision Detection
 
@@ -500,6 +502,7 @@
 
 ### Scroll
 
++ [iscroll](https://github.com/cubiq/iscroll) - 高性能，小体积，无依赖性，多平台的JavaScript滚动器，解决手机 Webkit 浏览器（iPhone、iPod、Android 和 Pre）本身没有为固定宽度和高度的元素提供滚动内容的方法的问题
 + [scrollup](https://github.com/markgoodyear/scrollup) - 创建自定义“回到顶部”的jQuery插件
 + [jquery.scrollTo](https://github.com/flesler/jquery.scrollTo) - 轻量的、高度可定制的jQuery插件，在目标元素或窗口内部以各种效果将内容区滚动到指定位置
 + [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll) - 类似iphone/ipad的滚动条
@@ -556,6 +559,7 @@
 + [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) - 实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果 
 + [obelisk.js](https://github.com/nosir/obelisk.js) - Obelisk.js是个非常酷的JS库，它本质上是一个创建等距对象的JavaScript引擎
 + [matter-js](https://github.com/liabru/matter-js) - 基于 Web 的 2D 图形引擎
++ [zrender](https://github.com/ecomfe/zrender) - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同
 
 ### Images
 
