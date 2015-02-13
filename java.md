@@ -87,6 +87,9 @@
 
 ====
 
+### Networking
++ [httpclient](https://github.com/apache/httpclient) - 提供高效的、最新的、功能丰富的支持 HTTP 协议的客户端编程工具包
+
 ### BPM
 + [Activiti](https://github.com/Activiti/Activiti) - light-weight workflow and Business Process Management (BPM) Platform
 + [snakerflow](https://github.com/snakerflow/snakerflow) - 简单、轻巧、灵活的工作流引擎
@@ -110,6 +113,7 @@
 ### Testing
 + [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) - 一个协助编写用Java语言进行软件测试的框架,它支持创建自定义的断言匹配器,允许声明式定义匹配规则
 + [arquillian-core](https://github.com/arquillian/arquillian-core) - Arquillian是一个集成测试、功能测试平台,可用于Java中间件的测试,它的主要目的是简化集成测试和功能测试的编写,让它们能像单元测试一样简单
++ [moco](https://github.com/dreamhead/moco/) - Easy Setup Stub Server
 
 ====
 
