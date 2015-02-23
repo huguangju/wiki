@@ -8,6 +8,7 @@
 + [lists](https://github.com/jnv/lists) - 资源集合的汇集
 + [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - 开发资源总结
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Github上最火的前端开源项目汇集
++ [frontend-stuff](https://github.com/moklick/frontend-stuff) - 前端相关库
 + [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - bootstrap 资源汇集 
 + [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - 系统管理员资源汇集
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - Web性能优化资源汇集
