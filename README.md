@@ -104,6 +104,7 @@
 + [headjs](https://github.com/headjs/headjs) - The only script in your HEAD.
 + [RequireJS](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
 + [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
++ [node-browserify](https://github.com/substack/node-browserify) - Browserify 可以让你使用类似于 node 的 require() 的方式来组织浏览器端的 Javascript 代码，通过预编译让前端 Javascript 可以直接使用 Node NPM 安装的一些库
 
 ### Testing Frameworks
 
@@ -185,6 +186,7 @@
 + [plupload](https://github.com/moxiecode/plupload) - 处理文件上传一个JavaScript API，它支持多文件选择上传，文件类型过滤，请求分块，客户端的图像缩放等功能，在不同的运行环境分别用HTML5，Silverlight和Flash等来实现
 + [webuploader](https://github.com/fex-team/webuploader) - 一个新的文件上传解决方案!
 + [angular-file-upload](https://github.com/danialfarid/angular-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
++ [jquery.fileapi](https://github.com/RubaXa/jquery.fileapi/) - FileAPI jQuery插件 (多文件上传、图片上传、裁剪、 调整尺寸等等)
 
 ### Editors
 
@@ -457,6 +459,7 @@
 + [visualsearch](https://github.com/documentcloud/visualsearch) - 增强的、可自动完成的搜索框jQuery插件
 + [typeahead.js](https://github.com/twitter/typeahead.js) - is a fast and fully-featured autocomplete library
 + [floatlabels.js](https://github.com/clubdesign/floatlabels.js) - Follows the famous Float Label Pattern. Built on jQuery.
++ [awesomplete](https://github.com/LeaVerou/awesomplete) - 绝对轻量级、好用、无依赖的自动完成输入框
 
 *输入框掩码*
 
