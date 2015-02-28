@@ -235,6 +235,7 @@
 + [immutable-js](https://github.com/facebook/immutable-js) - Immutable Persistent Data Collections for Javascript
 + [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
 + [sift.js](https://github.com/crcn/sift.js) - 受MongoDB启发的数组过滤库
++ [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - Javascript数据结构与算法
 
 ### Date
 
@@ -634,8 +635,9 @@
 
 ### Hand-drawing Animation
 
-+ [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
-+ [walkway](https://github.com/ConnorAtherton/walkway) - An easy way to animate simple SVG elements.
++ [vivus](https://github.com/maxwellito/vivus) - 轻量级的JavaScript类(完全无依赖) 来允许你创建 SVG 动画，让它们显示被画出来的轨迹
++ [walkway](https://github.com/ConnorAtherton/walkway) - 实现了一个简单的方式用来对包含线和路径元素的 SVG 图像进行动画展示
++ [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - 显示现代 SVG 图像的 Javascript 库,是一款能完美地创建显示在各种尺寸的屏幕上的交互式,各种分辨率的向量图像
 
 ### Animations
 
