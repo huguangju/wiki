@@ -78,3 +78,6 @@
 + [material_design_zh](https://github.com/1sters/material_design_zh) - Material Design 中文协同翻译
 + [websocket-protocol](https://github.com/zhangkaitao/websocket-protocol) - websocket协议翻译
 + [TLCL](https://github.com/billie66/TLCL) - The Linux Command Line（中文版）
++ [CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools) - Chrome开发者工具中文手册     
++ [spring-framework-4-reference](http://waylau.gitbooks.io/spring-framework-4-reference) - Spring4.x中文文档
++ [angular-phonecat-book-zhcn](http://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/) - angular-phonecat教程中文版
