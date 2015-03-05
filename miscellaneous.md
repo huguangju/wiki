@@ -14,6 +14,7 @@
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - Web性能优化资源汇集
 + [awesome-react](https://github.com/enaqx/awesome-react) - Facebook React库相关资源汇集
 + [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理: 按语言或技术分类的资料汇集
++ [front-end-frameworks](https://github.com/usablica/front-end-frameworks/) - 帮助更快、更容易地进行Web开发的最好的前端框架汇集
 
 ### 电子书
 + [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能
@@ -28,6 +29,7 @@
 + [fks](https://github.com/JacksonTian/fks) - 前端技能汇总
 + [book](https://github.com/qyuhen/book) - 雨痕C/Go/Python学习笔记
 + [ITArticles](https://github.com/qiwsir/ITArticles) - 老齐的技术资料
++ [A Better Front-End Guideline](http://willhamlam.gitbooks.io/a_better_front-end_guideline/) - 更好的前端解决方案
 
 ### 优秀网站
 + 综合
