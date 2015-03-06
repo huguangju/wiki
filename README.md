@@ -540,7 +540,8 @@
 
 ### Sortable
 
-+ [html5sortable](https://github.com/farhadi/html5sortable) - Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.
++ [html5sortable](https://github.com/farhadi/html5sortable) - 使用原生HTML5创建拖放排序列表和网格拖放API的轻量级jQuery插件。
++ [Sortable](https://github.com/RubaXa/Sortable) - 一个支持现代浏览器和触摸设备的可拖拽排序的小型JavaScript库。不依赖jQuery。支持Meteor,AngularJS和任何CSS库，如Bootstrap
 
 ### Chart
 
