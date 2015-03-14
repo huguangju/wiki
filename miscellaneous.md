@@ -74,6 +74,9 @@
   + [angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - AngularJS风格指南
   + [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide/blob/master/i18n/zh-CN.md) - AngularJS风格指南(中文版) 
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md) - AngularJS指南
++ [jQuery JavaScript风格指南](http://contribute.jquery.org/style-guide/js/)
++ [Douglas Crockford的JavaScript风格指南](http://javascript.crockford.com/code.html) - Douglas Crockford是Web开发领域最知名的技术权威之一，ECMA JavaScript 2.0标准化委员会委员 
++ [Felix的Node.js风格指南](http://nodeguide.com/style.html)
 + gradle 中文文档
   + [Gradle-2-User-Guide](https://github.com/waylau/Gradle-2-User-Guide)(Gradle 2 User Guide 中文翻译)
   + [gradledoc](https://github.com/pkaq/gradledoc)(Gradle 用户手册) - 翻译中
