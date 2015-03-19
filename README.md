@@ -580,6 +580,8 @@
 + [metisMenu](https://github.com/onokumus/metisMenu) - Easy menu jQuery plugin for Twitter Bootstrap 3
 + [toc](https://github.com/jgallen23/toc) - 根据页面内容生成目录的jQuery插件
 + [jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js) - Bootstrap风格的目录jQuery插件
++ [slideout](https://github.com/Mango/slideout) - 移动web apps触摸滑动式菜单
++ [stickUp](https://github.com/LiranCohen/stickUp) - 轻松实现元素固定效果的 jQuery 插件
 
 ### Background
 
