@@ -527,6 +527,7 @@
 
 ### Table/Grid
 
++ [DataTables](https://github.com/DataTables/DataTables) - jquery表格插件,它是一个高度灵活的工具，可以将任何HTML表格添加高级的交互功能。
 + [jquery-dynatable](https://github.com/alfajango/jquery-dynatable) - A more-fun, semantic, alternative to datatables:thumbsup:
 + [grid](https://github.com/uberVU/grid) - Drag and drop library for two-dimensional, resizable and responsive lists
 
