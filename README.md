@@ -20,6 +20,7 @@
     + [脑图 (Mind Map)](#mind-map)
     + [PPT](#ppt)
     + [流程图 (Flowchart)](#flowchart )
+  + [脚手架 (Scaffolding)](#scaffolding) 
   + [文件上传 (File Upload)](#file-upload)
   + [编辑器 (Editors)](#editors)
   + 实用工具
@@ -179,6 +180,10 @@
 ### Flowchart
 
 + [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+
+### Scaffolding
+
++ [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) - AngularJS + GulpJS 的Yeoman脚手架生成器
 
 ### File Upload
 
@@ -343,6 +348,8 @@
 + [clappr](https://github.com/globocom/clappr) - An extensible media player for the web
 + [mediaelement](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
 + [matchMedia.js](https://github.com/paulirish/matchMedia.js) - matchMedia polyfill for testing media queries in JS
+
++ [gifshot](https://github.com/yahoo/gifshot) - 能够从媒体流，视频或图片创建GIF动画。该库的客户端特性使其非常便携，易于集成到几乎任何网站
 
 ### Voice Command
 
