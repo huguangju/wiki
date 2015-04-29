@@ -84,6 +84,7 @@
   + [地图 (Maps)](#maps)
   + [动画 (Animations)](#animations)
   + [其它资源 (Other Resources)](#other-resources)
+    + [AngularJs](#angularjs) 
     + [网站 (WebSite)](#website)
 	+ [博客 (Blog)](#blog)
 	+ [文档 (Document)](#document)
@@ -452,17 +453,16 @@
 
 ### Form Widgets
 
-*<select> 下拉选择框架*
+*&lt;select&gt; 下拉选择框架*
 
-+ [select2](https://github.com/ivaynberg/select2) - 支持搜索、远程数据访问、无限下拉滚动 :ok_hand:
-+ [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) - 兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!
-+ [multi-select](https://github.com/lou/multi-select) - 一个替换标准选择框的、用户友好的多属性添加与移除选择框
-+ [bootstrap-select](https://github.com/silviomoreto/bootstrap-select) - 基于Twitter Bootstrap的下拉选择框
-+ [selectize.js](https://github.com/brianreavis/selectize.js) - 个基于jQuery的自定义<select> UI 控件,具有自动完成、类似原生选择框的键盘导航及较好的用户体验
-+ [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - 基于Bootstrap的```多选下拉框```jQuery插件
++ [select2](https://github.com/ivaynberg/select2) - 支持搜索、远程数据访问、无限下拉滚动 :ok_hand:  
++ [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) - 兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!  
++ [multi-select](https://github.com/lou/multi-select) - 一个替换标准选择框的、用户友好的多属性添加与移除选择框  
++ [bootstrap-select](https://github.com/silviomoreto/bootstrap-select) - 基于Twitter Bootstrap的下拉选择框  
++ [selectize.js](https://github.com/brianreavis/selectize.js) - 个基于jQuery的自定义&lt;select&gt; UI 控件,具有自动完成、类似原生选择框的键盘导航及较好的用户体验  
++ [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - 基于Bootstrap的多选下拉框jQuery插件  
 
-
-*<input> 文本输入框自动完成*
+*&lt;input&gt; 文本输入框自动完成*
 
 + [visualsearch](https://github.com/documentcloud/visualsearch) - 增强的、可自动完成的搜索框jQuery插件
 + [typeahead.js](https://github.com/twitter/typeahead.js) - is a fast and fully-featured autocomplete library
@@ -660,7 +660,47 @@
 
 ### Other Resources
 
-+ [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂 JavaScript 的原则
-+ [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
-+ [html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站
-+ [angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
++ AngularJs
+  + Base  
+    [AngularJs1.x Github](https://github.com/angular/angular.js)  
+    [AngularJs2.x Github](https://github.com/angular/angular)  
+    [AngularJS中文社区](http://angularjs.cn/)  
+    [官方文档](https://docs.angularjs.org/api)  
+    [官方指南](https://docs.angularjs.org/guide)    
+        -- [中文版](http://docs.ngnice.com/guide)    
+    [angular-phonecat](https://github.com/angular/angular-phonecat) - 官方示例项目  
+    [AngularJs资源大全](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)  
+    [frontend-resources#angular](https://github.com/JonathanZWhite/frontend-resources#angular)
+    [破狼博客园 AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)  
+  + 教程  
+    [AngularJS学习笔记](http://www.zouyesheng.com/angular.html)  
+    [AngularJS体验式编程系列文章](http://blog.fens.me/series-angular/)  
+    [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)  
+    [使用AngularJS构建大型Web应用](http://www.infoq.com/cn/news/2013/02/angular-web-app)  
+    [Angular土豆视屏教程](http://www.tudou.com/plcover/AURJrOM6ntc/)  
+  + 基础项目(seed)  
+    [angular-seed](https://github.com/angular/angular-seed) - angular种子文件（基础结构）  
+    [generator-angular](https://github.com/yeoman/generator-angular)  
+    [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular)  
+    [angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed)  
+    [angular-express-seed](https://github.com/btford/angular-express-seed)  
+    [ng-boilerplate](https://github.com/ngbp/ngbp) - 成熟的web apps构建管理系统  
+    [angular-kickstart](https://github.com/vesparny/angular-kickstart) - 基于 AngularJS，GulpJS 和 Bower 的完整可伸缩构建系统，能加快 AngularJS 应用的开发
+  + 编码风格/设计模式/最佳实践  
+    [AngularJS风格指南](https://github.com/johnpapa/angularjs-styleguide/blob/master/i18n/zh-CN.md)  
+    [AngularJS应用的最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)  
+    [Angular风格指南](https://github.com/gocardless/angularjs-style-guide)  
+    [AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide)  
+    [angular-app](Reference application for AngularJS, CURD application demo)  
+   + 组件库 
+    [Angular UI](https://github.com/angular-ui/)  
+        —— [angularjs-ui-bootstrap](https://github.com/angular-ui/bootstrap)
+    [angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
++ WebSite
+  + Blog
+  + Document
++ Other
+  + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂 JavaScript 的原则
+  + [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
+  + [html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站
+  
