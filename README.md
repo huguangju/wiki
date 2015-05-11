@@ -582,7 +582,8 @@
 
 + [holder](https://github.com/imsky/holder) - 客户端图片占位器
 + [cloud-zoom](https://github.com/smurfy/cloud-zoom) - 图片放大镜
-+ [Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - 同上
++ [Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - 同上  
++ [cropper](https://github.com/fengyuanchen/cropper) - 简单的图片裁剪插件  
 
 ### Menu
 
