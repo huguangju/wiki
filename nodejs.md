@@ -1,4 +1,6 @@
-## [JavaScript](README.md), [Java](bookmark-java.md), [Andorid](bookmark-andorid.md), [CSS](bookmark-css), [Python](bookmark-python.md), NodeJs, [etc](bookmark-miscellaneous.md).
+## [JavaScript](README.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](python.md), NodeJs, [etc](miscellaneous.md).
+
+> more resoures : [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)  
 
 + NodeJs
   + [express](https://github.com/strongloop/express) - 一个简洁而灵活的 node.js Web应用框架, 提供一系列强大特性帮助你创建各种Web应用
@@ -12,4 +14,5 @@
   + [pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots
   + [jsgen](https://github.com/zensh/jsgen) - 用纯JavaScript编写的新一代开源社区网站系统，主要用于搭建SNS类型的专业社区，对客户端AngularJS应用稍作修改也可变成多用户博客系统、论坛或者CMS内容管理系统
   + [commander.js](https://github.com/tj/commander.js) - 一个轻巧的nodejs模块，提供了用户命令行输入和参数解析强大功能
-  + [r.js](https://github.com/jrburke/r.js) - Runs RequireJS in Node and Rhino, and used to run the RequireJS optimizer
+  + [r.js](https://github.com/jrburke/r.js) - Runs RequireJS in Node and Rhino, and used to run the RequireJS optimizer  
+  + [waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js with support for mysql, mongo, postgres, redis, and more  
