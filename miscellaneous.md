@@ -52,7 +52,8 @@
   + [front-end-collect](https://github.com/foru17/front-end-collect) - 前端开发相关的优秀网站、博客、以及活跃开发者
   + [codrops](http://tympanus.net/codrops/) - 包含大量的优秀的前端交互案例，有大量炫酷的HTML5特效、CSS3特效、Js特效，有大量的前端设计教程
   + [SDC设计师网址导航](http://hao.uisdc.com/)
-   
+  + [browserhacks.com](http://browserhacks.com/) - 浏览器Hacks ([中文](http://www.css88.com/tool/hack/))
+
 + Java相关  
   + [programcreek](http://www.programcreek.com/) - Java 代码大全 :+1:
   + [ImportNew](http://www.importnew.com) - 专注Java & Android 技术分享
