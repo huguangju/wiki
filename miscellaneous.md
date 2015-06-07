@@ -29,7 +29,8 @@
 + [fks](https://github.com/JacksonTian/fks) - 前端技能汇总
 + [book](https://github.com/qyuhen/book) - 雨痕C/Go/Python学习笔记
 + [ITArticles](https://github.com/qiwsir/ITArticles) - 老齐的技术资料
-+ [A Better Front-End Guideline](http://willhamlam.gitbooks.io/a_better_front-end_guideline/) - 更好的前端解决方案
++ [A Better Front-End Guideline](http://willhamlam.gitbooks.io/a_better_front-end_guideline/) - 更好的前端解决方案 
++ [promises-book](http://liubin.github.io/promises-book) - JavaScript Promise迷你书（中文版）
 
 ### 优秀网站
 + 综合
@@ -44,6 +45,7 @@
   
   *个人博客*
 
+  + [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
   + [粉丝日志](http://blog.fens.me/) - 跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, KVM, NoSQL, IT金融
   + [梦想天空(山边小溪)的博客园](http://www.cnblogs.com/lhb25/) - 前端开发技术/网页设计资源/HTML5 & CSS3技术分享
 

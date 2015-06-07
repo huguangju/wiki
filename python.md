@@ -15,7 +15,11 @@
   + [pyspider](https://github.com/binux/pyspider) - Web爬虫
   + [nightrain](https://github.com/naetech/nightrain) - 桌面应用程序
   + [scrapy](https://github.com/scrapy/scrapy) - Scrapy是一个用于爬行网站以及在数据挖掘、信息处理和历史档案等大量应用范围内抽取结构化数据的应用程序框架，广泛用于工业
-  + [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
   + [ipython](https://github.com/ipython/ipython) - iPython 是一个Python 的交互式Shell。支持语法高亮、自动完成、代码调试、对象自省，支持 Bash Shell 命令，内置了许多 
-很有用的功能和函式等，比默认的Python Shell好用得多、功能也更强大
+很有用的功能和函式等，比默认的Python Shell好用得多、功能也更强大 
+  + [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python 
+  + [zhihu-python](https://github.com/egrcc/zhihu-python) - 获取知乎内容信息，包括问题，答案，用户，收藏夹信息  
+  + [pyauto](https://github.com/yorkoliu/pyauto) - python自动化运维：技术与最佳实践》书中示例及案例源码 
+  + [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition 翻译 
+  
   

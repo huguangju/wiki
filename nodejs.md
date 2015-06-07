@@ -21,7 +21,7 @@
 + [commander.js](https://github.com/tj/commander.js) - 一个轻巧的nodejs模块，提供了用户命令行输入和参数解析强大功能
 
 ### Command-line utilities
-[Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 常见的交互式命令行用户界面的集合
++ [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 常见的交互式命令行用户界面的集合
 
 ### Functional Programming
 + [lodash](https://github.com/lodash/lodash) - JavaScript 实用工具库
@@ -50,11 +50,14 @@
     
 ### Miscellaneous
 + [node123](https://github.com/youyudehexie/node123) - node.js中文资料导航
-+ [Faker.js(https://github.com/Marak/faker.js)] - Generate massive amounts of fake data.
++ [Faker.js](https://github.com/Marak/faker.js)] - Generate massive amounts of fake data.
 + [r.js](https://github.com/jrburke/r.js) - Runs RequireJS in Node and Rhino, and used to run the RequireJS optimizer
 + [pomelo](https://github.com/NetEase/pomelo)  - pomelo是基于node.js的高性能,分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包）
-+ [node-lessons](https://github.com/alsotang/node-lessons) - 《Node.js 包教不包会》
-+ [learnyounode](https://github.com/rvagg/learnyounode) - 一步一步学Nodejs
-+ [weixin-robot](https://github.com/node-webot/weixin-robot) - 微信公共帐号自动回复机器人
-+ [douban.fm](https://github.com/turingou/douban.fm) - 简洁优雅的豆瓣电台命令行版，基于 Node.js+ [rssSpider](https://github.com/shanelau/rssSpider) - Rss spider by nodejs , rss 爬虫，正文抓取
-+ [node-readability](https://github.com/Tjatse/node-readability) - 自动爬取任意站点的页面
++ [node-lessons](https://github.com/alsotang/node-lessons) - 《Node.js 包教不包会》 
++ [learnyounode](https://github.com/rvagg/learnyounode) - 一步一步学Nodejs 
++ [weixin-robot](https://github.com/node-webot/weixin-robot) - 微信公共帐号自动回复机器人 
++ [douban.fm](https://github.com/turingou/douban.fm) - 简洁优雅的豆瓣电台命令行版，基于 Node.js 
++ [rssSpider](https://github.com/shanelau/rssSpider) - Rss spider by nodejs , rss 爬虫，正文抓取 
++ [node-readability](https://github.com/Tjatse/node-readability) - 自动爬取任意站点的页面 
++ [nodeclub](https://github.com/cnodejs/nodeclub) - 使用 Node.js 和 MongoDB 开发的社区系统 
++ [jsgen](https://github.com/zensh/jsgen) - AngularJS中文社区 
