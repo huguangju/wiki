@@ -666,45 +666,12 @@
 ### Other Resources
 
 + AngularJs
-  + Base  
-    [AngularJs1.x Github](https://github.com/angular/angular.js)  
-    [AngularJs2.x Github](https://github.com/angular/angular)  
-    [AngularJS中文社区](http://angularjs.cn/)  
-    [官方文档](https://docs.angularjs.org/api)  
-    [官方指南](https://docs.angularjs.org/guide)    
-        -- [中文版](http://docs.ngnice.com/guide)    
-    [angular-phonecat](https://github.com/angular/angular-phonecat) - 官方示例项目  
-    [AngularJs资源大全](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)  
-    [frontend-resources#angular](https://github.com/JonathanZWhite/frontend-resources#angular)
-    [破狼博客园 AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)  
-  + 教程  
-    [AngularJS学习笔记](http://www.zouyesheng.com/angular.html)  
-    [AngularJS体验式编程系列文章](http://blog.fens.me/series-angular/)  
-    [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)  
-    [使用AngularJS构建大型Web应用](http://www.infoq.com/cn/news/2013/02/angular-web-app)  
-    [Angular土豆视屏教程](http://www.tudou.com/plcover/AURJrOM6ntc/)  
-  + 基础项目(seed)  
-    [angular-seed](https://github.com/angular/angular-seed) - angular种子文件（基础结构）  
-    [generator-angular](https://github.com/yeoman/generator-angular)  
-    [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular)  
-    [angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed)  
-    [angular-express-seed](https://github.com/btford/angular-express-seed)  
-    [ng-boilerplate](https://github.com/ngbp/ngbp) - 成熟的web apps构建管理系统  
-    [angular-kickstart](https://github.com/vesparny/angular-kickstart) - 基于 AngularJS，GulpJS 和 Bower 的完整可伸缩构建系统，能加快 AngularJS 应用的开发
-  + 编码风格/设计模式/最佳实践  
-    [AngularJS风格指南](https://github.com/johnpapa/angularjs-styleguide/blob/master/i18n/zh-CN.md)  
-    [AngularJS应用的最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)  
-    [Angular风格指南](https://github.com/gocardless/angularjs-style-guide)  
-    [AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide)  
-    [angular-app](Reference application for AngularJS, CURD application demo)  
-   + 组件库 
-    [Angular UI](https://github.com/angular-ui/)  
-        —— [angularjs-ui-bootstrap](https://github.com/angular-ui/bootstrap)
-    [angular-strap](https://github.com/mgcrea/angular-strap) - AngularJS 1.2+ native directives for Bootstrap 3.
+  + [angular-learning](https://github.com/huguangju/angular-learning) - AngularJs 资源 
 + WebSite
   + Blog
   + Document
 + Other
+  + [microjs](http://microjs.com/#) - 迷你前端开发框架和类库资源收集 
   + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂 JavaScript 的原则
   + [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
   + [html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站
