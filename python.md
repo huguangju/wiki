@@ -1,4 +1,4 @@
-##java、javascript、css、python等资源列表 
+## [JavaScript](javascript.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), Python, [Nodejs](nodejs.md).
 
 + Python
   + [awesome-python](https://github.com/vinta/awesome-python) - Python资源集合

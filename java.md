@@ -1,4 +1,4 @@
-## [JavaScript](README.md), Java, [Andorid](andorid.md), [CSS](css.md), [Python](python.md), [Nodejs](nodejs.md), [综合](miscellaneous.md).
+## [JavaScript](javascript.md), Java, [Andorid](andorid.md), [CSS](css.md), [Python](pyton.md), [Nodejs](nodejs.md).
 
 + [Java](#java)
     + [构建工具 (Build Tool)](#build-tool)

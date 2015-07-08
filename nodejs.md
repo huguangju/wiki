@@ -1,4 +1,4 @@
-## [JavaScript](README.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](python.md), NodeJs, [etc](miscellaneous.md).
+## [JavaScript](javascript.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](pyton.md), Nodejs.
 
 > more resoures : [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)  
 
