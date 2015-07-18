@@ -1,4 +1,4 @@
-## JavaScript, [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](python.md), [Nodejs](nodejs.md), [etc](miscellaneous.md).
+## JavaScript, [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](python.md), [Nodejs](nodejs.md).
 
 > Inspired by the [awesome-javascript](https://github.com/sorrycc/awesome-javascript) list thing.
   See more -> [awesome](https://github.com/sindresorhus/awesome) 

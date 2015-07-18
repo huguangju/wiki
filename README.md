@@ -16,6 +16,7 @@
 + [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理: 按语言或技术分类的资料汇集
 + [front-end-frameworks](https://github.com/usablica/front-end-frameworks/) - 帮助更快、更容易地进行Web开发的最好的前端框架汇集  
 + [web-starter-kit](https://github.com/google/web-starter-kit/) - Google Web Starter Kit   
++ [前端网址导航](http://www.whycss.com/)  
 
 ### 电子书
 + [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能
@@ -92,4 +93,7 @@
 + [spring-framework-4-reference](http://waylau.gitbooks.io/spring-framework-4-reference) - Spring4.x中文文档
 + [angular-phonecat-book-zhcn](http://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/) - angular-phonecat教程中文版  
 + [Gulp中文网](http://www.gulpjs.com.cn)  
-+ [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide  
++ [JavaScript Style Guide](https://github.com/airbnb/javascript)    
++ [Git 风格指南](https://github.com/agis-/git-style-guide)  
+
+

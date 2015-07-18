@@ -33,7 +33,8 @@
     + [animate.css](https://github.com/daneden/animate.css) (简单的、跨浏览器的CSS动画库) 
     + [textillate](https://github.com/jschr/textillate) - 简单的CSS3文字动画插件
     + [magic](https://github.com/miniMAC/magic) - CSS3 动画特效
-    + [animatable](https://github.com/leaverou/animatable) - css3动画示例大全
+    + [animatable](https://github.com/leaverou/animatable) - css3动画示例大全  
+    + [WOW](https://github.com/matthieua/WOW) - 基于 animate.css 的页面滚动动画效果库    
   + 图标
     + [ionicons](https://github.com/driftyco/ionicons)(The premium icon font for Ionic Framework) 
     + [magic](https://github.com/miniMAC/magic)(CSS3 Animations with special effects)
