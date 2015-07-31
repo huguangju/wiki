@@ -672,6 +672,7 @@
   + Blog
   + Document
 + Other
+  + [MDN JavaScript文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)     
   + [microjs](http://microjs.com/#) - 迷你前端开发框架和类库资源收集 
   + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂 JavaScript 的原则
   + [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
