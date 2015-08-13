@@ -25,7 +25,8 @@
 + [gitbook](https://www.gitbook.com/) - 一个现代化的、用于出版的工具链，简单地把你的理念变为成品，发布成书 
 + [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 此为《程序员编程艺术：面试和算法心得》的初稿，于14年6月转移到Word上优化，纸质版15年上市
 + [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 借助开源项目，学习软件开发
-+ [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - 前端工作面试问题
++ [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - 前端工作面试问题  
++ [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端工作面试题解答    
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - 深入JavaScript语言核心机制的系列图书
 + [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
 + [fks](https://github.com/JacksonTian/fks) - 前端技能汇总
@@ -98,5 +99,6 @@
 + [Gulp中文网](http://www.gulpjs.com.cn)  
 + [JavaScript Style Guide](https://github.com/airbnb/javascript)    
 + [Git 风格指南](https://github.com/agis-/git-style-guide)  
++ [mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - JS函数式编程指南中文版  
 
 
