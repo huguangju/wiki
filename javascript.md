@@ -204,9 +204,7 @@
 
 *JavaScript实用工具库*
 
-+ [underscore](https://github.com/jashkenas/underscore) - JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象
 + [is.js](https://github.com/arasatasaygin/is.js) - 小型、通用的检查库,涵盖类型、正则、数学、时间、环境等等
-+ [lodash](https://github.com/lodash/lodash) - JavaScript实用工具库：提供一致性、模块化、性能优化和附加功能（相当于[underscore](https://github.com/jashkenas/underscore)的增强版） 
 + [101](https://github.com/tjmehta/101) - A modern JS utility library  
 + [jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
 + [ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - Chrome探测器，可以探测正在使用的开源软件或者js类库
@@ -227,7 +225,9 @@
 
 *把运算过程尽量写成一系列嵌套的函数调用的"结构化编程"的JavaScript库*
 
-+ [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt. 
++ [underscore](https://github.com/jashkenas/underscore) - JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象
++ [lodash](https://github.com/lodash/lodash) - JavaScript实用工具库：提供一致性、模块化、性能优化和附加功能（相当于[underscore](https://github.com/jashkenas/underscore)的增强版） 
++ [ramda](https://github.com/ramda/ramda) - Javascript函数式编程实践  
 
 ### Reactive Programming
 
