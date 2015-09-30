@@ -12,7 +12,7 @@
 + [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - bootstrap 资源汇集 
 + [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - 系统管理员资源汇集
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - Web性能优化资源汇集
-+ [awesome-react](https://github.com/enaqx/awesome-react) - Facebook React库相关资源汇集
++ [awesome-react](https://github.com/enaqx/awesome-react) - Facebook React库相关资源汇集 
 + [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理: 按语言或技术分类的资料汇集
 + [front-end-frameworks](https://github.com/usablica/front-end-frameworks/) - 帮助更快、更容易地进行Web开发的最好的前端框架汇集  
 + [web-starter-kit](https://github.com/google/web-starter-kit/) - Google Web Starter Kit   
@@ -71,10 +71,10 @@
   + [Algomation](http://www.algomation.com/) - 查看、创建和分享算法的学习平台
 
 ### 工具
++ [vimium](https://github.com/philc/vimium) - 为Chrome浏览器增加了使用类似Vim编辑器快捷键功能，通过键盘完成在浏览器中的全部操作 :+1:  
 + [jsdelivr](https://github.com/jsdelivr/jsdelivr) - 免费开源的 CDN 解决方案，用于帮助开发者和站长。包含 JavaScript 库、jQuery 插件、CSS 框架、字体等等 Web 上常用的静态资源)
 + [freecdn](http://www.freecdn.cn/) - 前端公共库cdn
 + [soundjay](http://www.soundjay.com) - 用于网站使用的各种声音特效
-+ [docker](https://github.com/docker/docker) - 开源的应用程序容器引擎
 
 ### API && 文档 && 规范
 + [Best practices for modern web development](https://github.com/Google/WebFundamentals)
@@ -100,5 +100,6 @@
 + [JavaScript Style Guide](https://github.com/airbnb/javascript)    
 + [Git 风格指南](https://github.com/agis-/git-style-guide)  
 + [mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - JS函数式编程指南中文版  
++ [TypeScript手册](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)   
 
 
