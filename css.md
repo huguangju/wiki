@@ -6,6 +6,7 @@
     + [uikit](https://github.com/uikit/uikit) (轻量级和模块化的前端框架,快速开发web程序)
     + [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)(语义化设计的前端框架，为攻城师而制作的可复用的开源前端框架)
     + [amazeui](https://github.com/allmobilize/amazeui) (中国首个开源 HTML5 跨屏前端框架) 
+    + [design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System  
   + 组件
     + Hover
       + [Hover](https://github.com/IanLunn/Hover) - 一套基于 CSS3 的鼠标悬停效果和动画，这些可以非常轻松的被应用到按钮、LOGO 以及图片等元素。所有这些效果都是只需要单一的标签，必要的时候使用 before 和 after 伪元素。
@@ -16,7 +17,8 @@
     + [960-Grid-System](https://github.com/nathansmith/960-Grid-System)(The 960 Grid System is an effort to streamline web development workflow.)
     + [messenger](https://github.com/HubSpot/messenger)(Growl-style alerts and messages for your app. #hubspot-open-source)
     + [t3](https://github.com/t3framework/t3) - T3 Framework - (核心插件和空白模板)
-    + [css](https://github.com/hakimel/css) - 各种各样的CSS和UI示例
+    + [css](https://github.com/hakimel/css) - 各种各样的CSS和UI示例  
+    + [rucksack](https://github.com/simplaio/rucksack) - A little bag of CSS superpowers, built on PostCSS    
   + 特效
     + [HoverEffectIdeas](https://github.com/codrops/HoverEffectIdeas)(Some inspiration and modern ideas for subtle hover effects.)  
     + [flipboard-layout](https://github.com/botelho/flipboard-layout)(An experimental page layout that let's you navigate pages by swiping or dragging as in a booklet, inspired by Flipboard.)
