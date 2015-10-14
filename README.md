@@ -17,6 +17,7 @@
 + [front-end-frameworks](https://github.com/usablica/front-end-frameworks/) - 帮助更快、更容易地进行Web开发的最好的前端框架汇集  
 + [web-starter-kit](https://github.com/google/web-starter-kit/) - Google Web Starter Kit   
 + [前端网址导航](http://www.whycss.com/)  
++ [大前端的瑞士军刀，只记录有用的](https://github.com/nieweidong/fetool)  
 
 ### 电子书
 + [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能
@@ -42,18 +43,23 @@
   + [codeproject](http://www.codeproject.com/) - 开源的程序设计网站,主要的使用者是Windows平台上的程序员,每一篇文章几乎都附有来源码和例子
 
 + 资源类
-  [FED社区](http://frontenddev.org/)  
+  + [Div.IO](http://div.io/) - 最新的前端库和前沿技术  
+  + [FED社区](http://frontenddev.org/)  
 
 + 新闻类
   + [Hacker News](https://news.ycombinator.com/) - 关于电脑黑客和创业公司的社会化新闻网站
   
 + 博客类  
   + [伯乐在线](http://blog.jobbole.com/) - 小而精的精选博客，优秀的原创/译文
+  + [W3Cplus](http://www.w3cplus.com/) - 前端技术博客  
+  + [百度Web前端研发部](http://fex.baidu.com/)  
+  + [腾讯全端AlloyTeam](http://www.alloyteam.com/)  
   
   *个人博客*
 
   + [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
   + [粉丝日志](http://blog.fens.me/) - 跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, KVM, NoSQL, IT金融
+  + [张鑫旭的博客](http://www.zhangxinxu.com/wordpress/) - 前端技术类  
   + [梦想天空(山边小溪)的博客园](http://www.cnblogs.com/lhb25/) - 前端开发技术/网页设计资源/HTML5 & CSS3技术分享
 
 + 前端相关
@@ -72,7 +78,8 @@
 
 ### 工具
 + [vimium](https://github.com/philc/vimium) - 为Chrome浏览器增加了使用类似Vim编辑器快捷键功能，通过键盘完成在浏览器中的全部操作 :+1:  
-+ [jsdelivr](https://github.com/jsdelivr/jsdelivr) - 免费开源的 CDN 解决方案，用于帮助开发者和站长。包含 JavaScript 库、jQuery 插件、CSS 框架、字体等等 Web 上常用的静态资源)
++ [sixarm_git_gitconfig](https://github.com/SixArm/sixarm_git_gitconfig) - Git: gitconfig files, aliases, colors, branches, etc (另参见[oh-my-zsh的git别名](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git))  
++ [如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac)  
 + [freecdn](http://www.freecdn.cn/) - 前端公共库cdn
 + [soundjay](http://www.soundjay.com) - 用于网站使用的各种声音特效
 
