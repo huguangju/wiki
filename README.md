@@ -36,6 +36,7 @@
 + [A Better Front-End Guideline](http://willhamlam.gitbooks.io/a_better_front-end_guideline/) - 更好的前端解决方案 
 + [promises-book](http://liubin.github.io/promises-book) - JavaScript Promise迷你书（中文版） 
 + [Free Download IT eBooks](https://it-ebooks.info)  
++ [Dive into HTML5](http://diveintohtml5.info/index.html) - 深入HTML5  
 
 ### 优秀网站
 + 综合
@@ -63,6 +64,7 @@
   + [梦想天空(山边小溪)的博客园](http://www.cnblogs.com/lhb25/) - 前端开发技术/网页设计资源/HTML5 & CSS3技术分享
 
 + 前端相关
+  + [html5rocks.com](http://www.html5rocks.com/en/) - 为开放网络 HTML5 开发人员提供的资源  
   + [codepen.io](http://codepen.io/) - 优秀HTML和CSS展示网站 :+1:
   + [front-end-collect](https://github.com/foru17/front-end-collect) - 前端开发相关的优秀网站、博客、以及活跃开发者
   + [codrops](http://tympanus.net/codrops/) - 包含大量的优秀的前端交互案例，有大量炫酷的HTML5特效、CSS3特效、Js特效，有大量的前端设计教程
@@ -78,6 +80,7 @@
 
 ### 工具
 + [vimium](https://github.com/philc/vimium) - 为Chrome浏览器增加了使用类似Vim编辑器快捷键功能，通过键盘完成在浏览器中的全部操作 :+1:  
++ [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - 善用OS X终端  
 + [sixarm_git_gitconfig](https://github.com/SixArm/sixarm_git_gitconfig) - Git: gitconfig files, aliases, colors, branches, etc (另参见[oh-my-zsh的git别名](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git))  
 + [如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac)  
 + [freecdn](http://www.freecdn.cn/) - 前端公共库cdn

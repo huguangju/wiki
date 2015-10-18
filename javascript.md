@@ -661,7 +661,7 @@
 
 + [jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced) - Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.
 + [sprite.js](https://github.com/batiste/sprite.js) - An efficient javascript sprite animation framework
-+ [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - 用javascrip + CSS transforms 创建的动画库
++ [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - 用javascrip + CSS transforms 创建的动画库    
 
 ### Other Resources
 
