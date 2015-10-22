@@ -665,6 +665,8 @@
 
 ### Other Resources
 
++ jQuery
+  + [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - 你也许不知道的jquery小贴士
 + AngularJs
   + [angular-learning](https://github.com/huguangju/angular-learning) - AngularJs 资源 
 + WebSite
@@ -675,7 +677,7 @@
   + [microjs](http://microjs.com/#) - 迷你前端开发框架和类库资源收集 
   + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂 JavaScript 的原则
   + [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
-  + [html5-boilerplate] (https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站  
+  + [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站  
   + [javascript不为人知的特性](http://stackoverflow.com/questions/61088/hidden-features-of-javascript)    
   + [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - 一张图学习javascript  
   

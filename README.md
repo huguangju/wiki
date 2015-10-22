@@ -79,7 +79,8 @@
   + [Algomation](http://www.algomation.com/) - 查看、创建和分享算法的学习平台
 
 ### 工具
-+ [vimium](https://github.com/philc/vimium) - 为Chrome浏览器增加了使用类似Vim编辑器快捷键功能，通过键盘完成在浏览器中的全部操作 :+1:  
++ [百度 API Store - 为开发者提供最全面的API服务](http://apistore.baidu.com/)  
++ [vimium](https://github.com/philc/vimium) - 为Chrome浏览器增加了使用类似Vim编辑器快捷键功能，通过键盘完成在浏览器中的全部操作  
 + [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - 善用OS X终端  
 + [sixarm_git_gitconfig](https://github.com/SixArm/sixarm_git_gitconfig) - Git: gitconfig files, aliases, colors, branches, etc (另参见[oh-my-zsh的git别名](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git))  
 + [如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac)  
