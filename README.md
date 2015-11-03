@@ -4,7 +4,6 @@
 
 ### 资源链接汇集
 + [awesome](https://github.com/sindresorhus/awesome) - 各种主流语言的优秀项目汇集 :+1:
-+ [github_star.md](https://github.com/Tairy/Social-Networking-Analysis/blob/master/github/github_star.md) - 同上
 + [lists](https://github.com/jnv/lists) - 资源集合的汇集
 + [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - 开发资源总结
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Github上最火的前端开源项目汇集
