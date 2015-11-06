@@ -39,6 +39,11 @@
     + [magic](https://github.com/miniMAC/magic) - CSS3 动画特效
     + [animatable](https://github.com/leaverou/animatable) - css3动画示例大全  
     + [WOW](https://github.com/matthieua/WOW) - 基于 animate.css 的页面滚动动画效果库    
+    
+    + Loading / Spinner
+      + [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS  
+      + [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS  
+      + [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.   
   + 图标
     + [ionicons](https://github.com/driftyco/ionicons)(The premium icon font for Ionic Framework) 
     + [magic](https://github.com/miniMAC/magic)(CSS3 Animations with special effects)
