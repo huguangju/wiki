@@ -80,5 +80,6 @@
 + [bookshelf](https://github.com/tgriesser/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js  
 + [the-node-way](https://github.com/FredKSchott/the-node-way) - Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications  
 + [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration 
++ [nodejs中文文档](https://github.com/0532/nodejs) 
 
 
