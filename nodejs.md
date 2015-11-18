@@ -9,9 +9,11 @@
   + [HTTP](#http)
   + [日志 (Logging)](#logging)
   + [Web框架 (Web frameworks)](#web-frameworks)
+  + [控制流 (Control flow)](#control-flow)
   + [时实应用 (Real-time)](#real-time)
   + [时间验证 (Data validation)](#data-validation)
   + [数据库 (Database)](#database)
+  + [测试 (Testing)](#testing)
   + [进程管理 (Process management)](#process-management)
   + [内容管理系统](#content-management-systems)
   + [教程](#tutorials)
@@ -23,27 +25,43 @@
 
 ### Command-line utilities
 + [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 常见的交互式命令行用户界面的集合
++ [standard](https://github.com/feross/standard) - JavaScript标准风格（不必再维护.eslintrc, .jshintrc, 或 .jscsrc了）
 
 ### Functional Programming
 + [lodash](https://github.com/lodash/lodash) - JavaScript 实用工具库
+
+### HTTP
++ [superagent](https://github.com/visionmedia/superagent) - 客户端请求代理模块。轻量的、渐进式的ajax api
 
 ### Logging
 + [winston](https://github.com/winstonjs/winston) - a multi-transport async logging library for node.js
 
 ### Web frameworks
 + [express](https://github.com/strongloop/express) - 一个简洁而灵活的 node.js Web应用框架, 提供一系列强大特性帮助你创建各种Web应用
++ [sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
++ [meteor](https://github.com/meteor/meteor/) - the JavaScript App Platform
 + [node-restify](https://github.com/restify/node-restify) - 基于Nodejs的REST,比起express更专注于REST服务，去掉了express中的template, render等功能，同时强化了REST协议使用，版本化支持，HTTP的异常处理。  
 + [mean](https://github.com/meanjs/mean) - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js    
 
+### Control flow
++ Callbacks
+  + [async](https://github.com/caolan/async) - 用于node和浏览器的同步工具集
+
 ### Real-time
 + [Socket.io](https://github.com/Automattic/socket.io/) - 实现了实时双向的基于事件的通讯机制
-
+  
 ### Data validation
 + [joi](https://github.com/hapijs/joi) - Object schema validation
 
 ### Database
++ [node-mysql](https://github.com/felixge/node-mysql)
 + [lowdb](https://github.com/typicode/lowdb) - 基于Node的纯Json文件数据库
 + [waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js with support for mysql, mongo, postgres, redis, and more
+
+### Testing
++ [mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
++ [istanbul](https://github.com/gotwarlost/istanbul) - 测试率覆盖工具
++ [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API
 
 ### Process management
 + [PM2](https://github.com/Unitech/pm2) - 带有负载均衡功能的Node应用的进程管理器
@@ -57,9 +75,13 @@
 + [relax](https://github.com/relax/relax) - New generation CMS on top of React and Node.js 
 
 ### Tutorials
++ [How do I get started with Node.js](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)(stackoverflow)
++ [如何系统地学习Node.js?](http://www.zhihu.com/question/21567720)(知乎)
 + [node-lessons](https://github.com/alsotang/node-lessons) - 《Node.js 包教不包会》 
++ [从零开始nodejs系列文章 by @bsspirit](http://blog.fens.me/series-nodejs/)
 + [learnyounode](https://github.com/rvagg/learnyounode) - 一步一步学Nodejs 
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) - 七天学会NodeJS  
++ [art-of-node](https://github.com/maxogden/art-of-node/blob/master/readme.zh-cn.md) - Node之美
 + [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners  
 + [learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
 + [nodebeginner.org](https://github.com/manuelkiessling/nodebeginner.org) - A comprehensive Node.js tutorial for beginners  
@@ -67,7 +89,7 @@
 
 ### Miscellaneous
 + [node123](https://github.com/youyudehexie/node123) - node.js中文资料导航
-+ [Faker.js](https://github.com/Marak/faker.js)] - Generate massive amounts of fake data.
++ [Faker.js](https://github.com/Marak/faker.js) - Generate massive amounts of fake data.
 + [r.js](https://github.com/jrburke/r.js) - Runs RequireJS in Node and Rhino, and used to run the RequireJS optimizer
 + [pomelo](https://github.com/NetEase/pomelo)  - pomelo是基于node.js的高性能,分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包）
 + [weixin-robot](https://github.com/node-webot/weixin-robot) - 微信公共帐号自动回复机器人 
@@ -80,6 +102,9 @@
 + [bookshelf](https://github.com/tgriesser/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js  
 + [the-node-way](https://github.com/FredKSchott/the-node-way) - Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications  
 + [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration 
++ [cheerio](https://github.com/cheeriojs/cheerio) - 为node server特别定制的，快速、灵活、高效地jQuery核心实现
++ [utility](https://github.com/node-modules/utility) - 实用工具集
++ [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
 + [nodejs中文文档](https://github.com/0532/nodejs) 
 
 
