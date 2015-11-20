@@ -1,6 +1,6 @@
 ## [JavaScript](javascript.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), Python, [Nodejs](nodejs.md).
 
-more [awesome-python](https://github.com/vinta/awesome-python).
+> more resources : [awesome-python](https://github.com/vinta/awesome-python).
 
 + Python
   + 最佳实践
@@ -37,9 +37,14 @@ more [awesome-python](https://github.com/vinta/awesome-python).
     + [廖雪峰的python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
     + [Python3 in one pic](https://github.com/coodict/python3-in-one-pic) - 一张图了解Python  
     + [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译   
+    + [Python 练习示例 by @geekcomputers](https://github.com/geekcomputers/Python)
+
 
   + 命令行
-    + [ipython](https://github.com/ipython/ipython) - iPython 是一个Python 
+    + [ipython](https://github.com/ipython/ipython) - Python的交互式解释器  
+    + [nightrain](https://github.com/naetech/nightrain) - 桌面应用程序
+  的交互式Shell。支持语法高亮、自动完成、代码调试、对象自省，支持 Bash Shell 命令，内置了许多 
+    + [pyenv](https://github.com/yyuu/pyenv) - python版本管理工具  
 
   + 综合  
     + [python-scripts](https://github.com/realpython/python-scripts) - Python实用脚本工具集  
@@ -48,9 +53,9 @@ more [awesome-python](https://github.com/vinta/awesome-python).
     + [docopt](https://github.com/docopt/docopt) - 如其名，用doc来指明你的 python脚本的cli用法。简洁明了，令人耳目一新
     + [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
     + [python-future](https://github.com/PythonCharmers/python-future) - Easy, clean, reliable Python 2/3 compatibility  
-  
+    + [关于Python的面试题](https://github.com/taizilongxu/interview_python)
+    + [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - python反面教材  
     + [tengine-website](https://github.com/alibaba/tengine-website) - 在Nginx的基础上的Web服务器项目，针对大访问量网站的需求，添加了很多高级功能和特性  
-    + [nightrain](https://github.com/naetech/nightrain) - 桌面应用程序
-  的交互式Shell。支持语法高亮、自动完成、代码调试、对象自省，支持 Bash Shell 命令，内置了许多 
+    
 很有用的功能和函式等，比默认的Python Shell好用得多、功能也更强大 
   
