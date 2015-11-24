@@ -17,6 +17,8 @@
   + [进程管理 (Process management)](#process-management)
   + [内容管理系统](#content-management-systems)
   + [教程](#tutorials)
+  + [文档](#documents)
+  + [站点](#website)
   + [综合 (Miscellaneous)](#miscellaneous)
 
 ### Command-line apps
@@ -81,11 +83,23 @@
 + [从零开始nodejs系列文章 by @bsspirit](http://blog.fens.me/series-nodejs/)
 + [learnyounode](https://github.com/rvagg/learnyounode) - 一步一步学Nodejs 
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) - 七天学会NodeJS  
-+ [art-of-node](https://github.com/maxogden/art-of-node/blob/master/readme.zh-cn.md) - Node之美
 + [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners  
 + [learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
 + [nodebeginner.org](https://github.com/manuelkiessling/nodebeginner.org) - A comprehensive Node.js tutorial for beginners  
 + [node-tutorial-2-restful-app](https://github.com/cwbuecheler/node-tutorial-2-restful-app) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
++ [how_to_build_your_own_team_chat_in_five_days](https://github.com/fdietz/how_to_build_your_own_team_chat_in_five_days) - 如何5天搭建自已的团队聊天工具
+
+### Documents
++ [art-of-node](https://github.com/maxogden/art-of-node/blob/master/readme.zh-cn.md) - Node之美
++ [stream-handbook](https://github.com/jabez128/stream-handbook) - node stream 手册
++ [nodejs中文文档](https://github.com/0532/nodejs) 
++ [the-node-way](https://github.com/FredKSchott/the-node-way) - Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications  
++ [node-style-guide by @felixge](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.  
++ [node-style-guide by @RisingStack](https://github.com/RisingStack/node-style-guide)
++ [Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices) 
+
+### WebSite
++ [Joyent's developer site for node](https://www.joyent.com/developers/node)
 
 ### Miscellaneous
 + [node123](https://github.com/youyudehexie/node123) - node.js中文资料导航
@@ -96,15 +110,12 @@
 + [douban.fm](https://github.com/turingou/douban.fm) - 简洁优雅的豆瓣电台命令行版，基于 Node.js 
 + [rssSpider](https://github.com/shanelau/rssSpider) - Rss spider by nodejs , rss 爬虫，正文抓取 
 + [node-readability](https://github.com/Tjatse/node-readability) - 自动爬取任意站点的页面 
-+ [node-style-guide by @felixge](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.  
-+ [node-style-guide by @RisingStack](https://github.com/RisingStack/node-style-guide)
-+ [Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices) 
 + [bookshelf](https://github.com/tgriesser/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js  
-+ [the-node-way](https://github.com/FredKSchott/the-node-way) - Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications  
 + [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration 
 + [cheerio](https://github.com/cheeriojs/cheerio) - 为node server特别定制的，快速、灵活、高效地jQuery核心实现
 + [utility](https://github.com/node-modules/utility) - 实用工具集
 + [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
-+ [nodejs中文文档](https://github.com/0532/nodejs) 
++ [wp-calypso](https://github.com/Automattic/wp-calypso) - Node.js 版的新 WordPress
+
 
 
