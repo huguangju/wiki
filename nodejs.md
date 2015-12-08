@@ -1,6 +1,6 @@
 ## [JavaScript](javascript.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](pyton.md), Nodejs.
 
-> more resoures : [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)  
+> more resoures : [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) && [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)  
 
 + NodeJs
   + [命令行应用 (Command-line apps)](#command-line-apps)
@@ -14,6 +14,7 @@
   + [时间验证 (Data validation)](#data-validation)
   + [数据库 (Database)](#database)
   + [测试 (Testing)](#testing)
+  + [鉴权 Authentication](#authentication)
   + [进程管理 (Process management)](#process-management)
   + [内容管理系统](#content-management-systems)
   + [教程](#tutorials)
@@ -28,6 +29,8 @@
 ### Command-line utilities
 + [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 常见的交互式命令行用户界面的集合
 + [standard](https://github.com/feross/standard) - JavaScript标准风格（不必再维护.eslintrc, .jshintrc, 或 .jscsrc了）
++ [conventional-changelog](https://github.com/ajoslin/conventional-changelog) - 从git metadata信息生成changelog
++ [cz-cli](https://github.com/commitizen/cz-cli) - 用于生成规范地git commit信息的命令行工具
 
 ### Functional Programming
 + [lodash](https://github.com/lodash/lodash) - JavaScript 实用工具库
@@ -65,6 +68,9 @@
 + [istanbul](https://github.com/gotwarlost/istanbul) - 测试率覆盖工具
 + [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API
 
+### Authentication
++ [passport](https://github.com/jaredhanson/passport)
+
 ### Process management
 + [PM2](https://github.com/Unitech/pm2) - 带有负载均衡功能的Node应用的进程管理器
 + [nodemon](https://github.com/remy/nodemon) - 用来监控 NodeJS 源代码的任何变化和自动重启你的服务器
@@ -85,13 +91,15 @@
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) - 七天学会NodeJS  
 + [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners  
 + [learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
-+ [nodebeginner.org](https://github.com/manuelkiessling/nodebeginner.org) - A comprehensive Node.js tutorial for beginners  
++ [nodebeginner.org](http://www.nodebeginner.org/index-zh-cn.html) - A comprehensive Node.js tutorial for beginners  
 + [node-tutorial-2-restful-app](https://github.com/cwbuecheler/node-tutorial-2-restful-app) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
 + [how_to_build_your_own_team_chat_in_five_days](https://github.com/fdietz/how_to_build_your_own_team_chat_in_five_days) - 如何5天搭建自已的团队聊天工具
++ [Express 4.8.x 中文基础文档](https://cnodejs.org/topic/562465bd63c674720a855b49)
 
 ### Documents
 + [art-of-node](https://github.com/maxogden/art-of-node/blob/master/readme.zh-cn.md) - Node之美
 + [stream-handbook](https://github.com/jabez128/stream-handbook) - node stream 手册
++ [browserify-handbook](https://github.com/substack/browserify-handbook) - 如何用browserify构建模块化的应用
 + [nodejs中文文档](https://github.com/0532/nodejs) 
 + [the-node-way](https://github.com/FredKSchott/the-node-way) - Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications  
 + [node-style-guide by @felixge](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.  
@@ -99,6 +107,7 @@
 + [Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices) 
 
 ### WebSite
++ [CNode：Node.js专业中文社区](https://cnodejs.org/)
 + [Joyent's developer site for node](https://www.joyent.com/developers/node)
 
 ### Miscellaneous
