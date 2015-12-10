@@ -1,4 +1,6 @@
-## [JavaScript](javascript.md), Java, [Andorid](andorid.md), [CSS](css.md), [Python](pyton.md), [Nodejs](nodejs.md).
+## [JavaScript](javascript.md), Java, [CSS](css.md), [Python](pyton.md), [Nodejs](nodejs.md).
+
+> see more [awesome-java](https://github.com/akullpp/awesome-java) [中文版](https://github.com/jobbole/awesome-java-cn)
 
 + [Java](#java)
     + [构建工具 (Build Tool)](#build-tool)
@@ -49,7 +51,7 @@
 
 ====
 
-## ```Java```
+## `Java`
 
 ### Build Tool
 + [yuicompressor](https://github.com/yui/yuicompressor) - 用来压缩JS 和CSS 文件的工具
@@ -164,7 +166,14 @@
 
 ====
 
-### Andorid
+### Miscellaneous
++ [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java设计模式
++ [grunt-maven-plugin](https://github.com/allegro/grunt-maven-plugin) - Grunt + Maven integration done right
++ [webqq-core](https://github.com/im-qq/webqq-core) - 一个基于WebQQ协议开发的库，您可以基于这个库让您的程序集成QQ相关的功能
+
+====
+
+## `Andorid`
 + [afinal](https://github.com/yangfuhai/afinal) (android的ioc，orm框架)  
 + [android-demos](https://github.com/novoda/android-demos) (Examples of Android applications)  
 + [KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)(KJLibrary，是一个帮助快速开发的框架。使用KJFrameForAndroid，你可以只用一行代码就完成http请求、网络图片加载、数据库数据保存或读取)  
@@ -182,6 +191,4 @@
 + [UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)(UltimateAndroid is a framework to help developing Android apps in a fast way) 
 + [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)(Library project to display DialogFragment with a blur effect.) 
 
-### Miscellaneous
-+ [grunt-maven-plugin](https://github.com/allegro/grunt-maven-plugin) - Grunt + Maven integration done right
-+ [webqq-core](https://github.com/im-qq/webqq-core) - 一个基于WebQQ协议开发的库，您可以基于这个库让您的程序集成QQ相关的功能
+
