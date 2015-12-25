@@ -21,12 +21,14 @@
   + [文档](#documents)
   + [站点](#website)
   + [综合 (Miscellaneous)](#miscellaneous)
+  + [示例](#demo)
 
 ### Command-line apps
 + [pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots
 + [commander.js](https://github.com/tj/commander.js) - 一个轻巧的nodejs模块，提供了用户命令行输入和参数解析强大功能
 
 ### Command-line utilities
++ [shelljs](https://github.com/shelljs/shelljs) - Node.js 扩展，用于实现 Unix shell 命令执行，支持 Windows
 + [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 常见的交互式命令行用户界面的集合
 + [standard](https://github.com/feross/standard) - JavaScript标准风格（不必再维护.eslintrc, .jshintrc, 或 .jscsrc了）
 + [conventional-changelog](https://github.com/ajoslin/conventional-changelog) - 从git metadata信息生成changelog
@@ -89,10 +91,8 @@
 + [从零开始nodejs系列文章 by @bsspirit](http://blog.fens.me/series-nodejs/)
 + [learnyounode](https://github.com/rvagg/learnyounode) - 一步一步学Nodejs 
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) - 七天学会NodeJS  
-+ [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners  
 + [learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
-+ [nodebeginner.org](http://www.nodebeginner.org/index-zh-cn.html) - A comprehensive Node.js tutorial for beginners  
-+ [node-tutorial-2-restful-app](https://github.com/cwbuecheler/node-tutorial-2-restful-app) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
++ [nodebeginner.org](http://www.nodebeginner.org/index-zh-cn.html) - Node入门
 + [how_to_build_your_own_team_chat_in_five_days](https://github.com/fdietz/how_to_build_your_own_team_chat_in_five_days) - 如何5天搭建自已的团队聊天工具
 + [Express 4.8.x 中文基础文档](https://cnodejs.org/topic/562465bd63c674720a855b49)
 
@@ -126,5 +126,11 @@
 + [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
 + [wp-calypso](https://github.com/Automattic/wp-calypso) - Node.js 版的新 WordPress
 
+### Demo
++ 基础示例
+  - [node-tutorial-2-restful-app](https://github.com/cwbuecheler/node-tutorial-2-restful-app) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
+  - [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners  
++ 综合示例
+  - [greatrms](https://github.com/xuyuan923/greatrms) - 资源管理系统 GreatRMS（Nodejs + Express + Mongodb + Mongoose）
 
 

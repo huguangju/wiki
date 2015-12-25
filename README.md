@@ -17,11 +17,14 @@
 + [web-starter-kit](https://github.com/google/web-starter-kit/) - Google Web Starter Kit
 + [前端网址导航](http://www.whycss.com/)  
 + [大前端的瑞士军刀，只记录有用的](https://github.com/nieweidong/fetool)  
++ [前端收藏夹](http://collect.w3ctrain.com/)
 
-### 电子书
+### 电子书/笔记
+
+*see more: [free-programming-books](https://github.com/vhf/free-programming-books) - 编程学习资源电子书([中文](https://github.com/justjavac/free-programming-books-zh_CN))*  
+
 + [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - 分分钟学会一门编程语言 :sparkles:
 + [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能
-+ [free-programming-books](https://github.com/vhf/free-programming-books) - 编程学习资源电子书([中文](https://github.com/justjavac/free-programming-books-zh_CN))
 + [gitbook](https://www.gitbook.com/) - 一个现代化的、用于出版的工具链，简单地把你的理念变为成品，发布成书 
 + [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 此为《程序员编程艺术：面试和算法心得》的初稿，于14年6月转移到Word上优化，纸质版15年上市
 + [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 借助开源项目，学习软件开发
@@ -34,6 +37,9 @@
 + [A Better Front-End Guideline](http://willhamlam.gitbooks.io/a_better_front-end_guideline/) - 更好的前端解决方案 
 + [Free Download IT eBooks](https://it-ebooks.info)  
 + [Dive into HTML5](http://diveintohtml5.info/index.html) - 深入HTML5  
++ [FE-learning](https://github.com/qiu-deqing/) - 前端入门方法总结
+- [repractise](https://github.com/phodal/repractise) - Coding是不断的RePractise——总结和diff change，再Practise
+
 
 ### 优秀网站
 + 综合
@@ -61,6 +67,8 @@
   + [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
   + [粉丝日志](http://blog.fens.me/) - 跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, KVM, NoSQL, IT金融
   + [张鑫旭的博客](http://www.zhangxinxu.com/wordpress/) - 前端技术类  
+  + [justjavac(迷渡)](http://justjavac.com/)
+  + [颜海镜](http://yanhaijing.com/)
   + [梦想天空(山边小溪)的博客园](http://www.cnblogs.com/lhb25/) - 前端开发技术/网页设计资源/HTML5 & CSS3技术分享
 
 + 前端相关
@@ -68,8 +76,11 @@
   + [codepen.io](http://codepen.io/) - 优秀HTML和CSS展示网站 :+1:
   + [front-end-collect](https://github.com/foru17/front-end-collect) - 前端开发相关的优秀网站、博客、以及活跃开发者
   + [codrops](http://tympanus.net/codrops/) - 包含大量的优秀的前端交互案例，有大量炫酷的HTML5特效、CSS3特效、Js特效，有大量的前端设计教程
-  + [SDC设计师网址导航](http://hao.uisdc.com/)
   + [browserhacks.com](http://browserhacks.com/) - 浏览器Hacks ([中文](http://www.css88.com/tool/hack/))
+
++ 设计相关
+  + [SDC设计师网址导航](http://hao.uisdc.com/)
+  + [100天UI](http://100daysui.com) - [一天一个UI，这位设计师坚持设计了100天！](http://www.brandvista.com/2015/11/%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AAui%EF%BC%8C%E8%BF%99%E4%BD%8D%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%9D%9A%E6%8C%81%E8%AE%BE%E8%AE%A1%E4%BA%86100%E5%A4%A9%EF%BC%81/)  
 
 + Java相关  
   + [programcreek](http://www.programcreek.com/) - Java 代码大全 :+1:
@@ -93,7 +104,7 @@
   + [MDN Web技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
   + [promises-book](http://liubin.github.io/promises-book) - JavaScript Promise迷你书（中文版） 
   + [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
-  + [mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - JS函数式编程指南中文版  
+  + [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) -  JS函数式编程指南 [中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)  
   + [spring-framework-4-reference](http://waylau.gitbooks.io/spring-framework-4-reference) - Spring4.x中文文档
   + [TypeScript手册](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)   
 
@@ -106,6 +117,9 @@
   + [JavaScript Style Guide](https://github.com/airbnb/javascript)    
   + [Git 风格指南](https://github.com/agis-/git-style-guide)  
 
+- 前端
+  + [react-native-lesson](https://github.com/vczero/react-native-lesson) - react-native-lesson
+
 - 工具
   + [Gulp中文网](http://www.gulpjs.com.cn)  
   + gradle 中文文档
@@ -114,15 +128,19 @@
   + [CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools) - Chrome开发者工具中文手册     
 
 - 综合
-  + [谷歌 Web 开发最佳实践手册](https://github.com/Google/WebFundamentals) - [中文](http://blog.jobbole.com/45574/)
+  + [谷歌 Web 开发最佳实践手册](https://github.com/Google/WebFundamentals) - [中文版](http://blog.jobbole.com/45574/)
   + [TLCL](https://github.com/billie66/TLCL) - The Linux Command Line（中文版）
   + [material_design_zh](https://github.com/1sters/material_design_zh) - Material Design 中文协同翻译
   + [websocket-protocol](https://github.com/zhangkaitao/websocket-protocol) - websocket协议翻译
   + [语义化版本 2.0.0](http://semver.org/lang/zh-CN/)
   + [用 JSON 构建 API 的标准指南](http://jsonapi.org/) - [中文版](http://jsonapi.org.cn/)
+  + [http2讲解](https://github.com/bagder/http2-explained) - [中文版](https://github.com/ye11ow/http2-explained-chinese)
+  + [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程，来自国外社区的优秀文章和个人实践
+  + [my-git](https://github.com/xirong/my-git) - git资料整理
+  + [bad-data-guide](https://github.com/Quartz/bad-data-guide) - 关于真实场景下的数据可能出现的问题, 以及如何解决它们的建议的详细参考
 
 - 其它  
   + [angular-phonecat-book-zhcn](http://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/) - angular-phonecat教程中文版  
 
 ### 综合
-+ [Music for Programming](http://musicforprogramming.net/) - [写代码时你可以听听这些音乐](http://codingpy.com/article/music-for-programming/)
+- [Music for Programming](http://musicforprogramming.net/) - [写代码时你可以听听这些音乐](http://codingpy.com/article/music-for-programming/)

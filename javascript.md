@@ -30,7 +30,7 @@
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
     + [Promise](#promise)
-    + [数据结构 (Data Structure)](#data-structure)
+    + [数据结构和算法 (Data Structure)](#data-structure)
     + [时间 (Date)](#date)
     + [字符串 (String)](#string)
     + [数字 (Number)](#number)
@@ -62,6 +62,7 @@
     + [工具提示 (Tooltips)](#tooltips)
     + [定位 (Positioning)](#positioning)
     + [模态框和弹出窗 (Modals and Popups)](#modals-and-popups)
+    + [日期选择 (DatePicker)](#datepicker)
     + [滚动 (Scroll)](#scroll)
     + [菜单 (Menu)](#menu)
     + [表格/网格 (Table/Grid)](#tablegrid)
@@ -207,7 +208,6 @@
 + [is.js](https://github.com/arasatasaygin/is.js) - 小型、通用的检查库,涵盖类型、正则、数学、时间、环境等等
 + [101](https://github.com/tjmehta/101) - A modern JS utility library  
 + [jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
-+ [ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - Chrome探测器，可以探测正在使用的开源软件或者js类库
 + [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 + [jsdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript.
 + [FeHelper](https://github.com/zxlie/FeHelper) - Web前端助手--FeHelper(Chrome扩展)
@@ -228,6 +228,7 @@
 + [underscore](https://github.com/jashkenas/underscore) - JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象
 + [lodash](https://github.com/lodash/lodash) - JavaScript实用工具库：提供一致性、模块化、性能优化和附加功能（相当于[underscore](https://github.com/jashkenas/underscore)的增强版） 
 + [ramda](https://github.com/ramda/ramda) - Javascript函数式编程实践  
++ [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier 
 
 ### Reactive Programming
 
@@ -241,6 +242,7 @@
 + [immutable-js](https://github.com/facebook/immutable-js) - Immutable Persistent Data Collections for Javascript
 + [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
 + [sift.js](https://github.com/crcn/sift.js) - 受MongoDB启发的数组过滤库
++ [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript实现的不同计算机法算
 + [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - Javascript数据结构与算法
 
 ### Date
@@ -515,6 +517,10 @@
 + [noty](https://github.com/needim/noty) - noty is a jQuery plugin that makes it easy to create alert - success - error - warning - information - b messages as an alternative the standard alert dialog. Each notification is added to a queue.
 + [alertify.js](https://github.com/fabien-d/alertify.js) - JavaScript Alert/Notification System
 
+### DatePicker
+
++ [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap  
+
 ### Scroll
 
 + [iscroll](https://github.com/cubiq/iscroll) - 高性能，小体积，无依赖性，多平台的JavaScript滚动器，解决手机 Webkit 浏览器（iPhone、iPod、Android 和 Pre）本身没有为固定宽度和高度的元素提供滚动内容的方法的问题
@@ -680,5 +686,6 @@
 + Other
   + [microjs](http://microjs.com/#) - 迷你前端开发框架和类库资源收集 
   + [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站  
-  + [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - 一张图学习javascript  
+  + [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - 一张图学习javascript
+  + [js-must-watch](https://github.com/bolshchikov/js-must-watch) - javascript学习视屏资源  
   
