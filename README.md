@@ -18,6 +18,7 @@
 + [前端网址导航](http://www.whycss.com/)  
 + [大前端的瑞士军刀，只记录有用的](https://github.com/nieweidong/fetool)  
 + [前端收藏夹](http://collect.w3ctrain.com/)
+- [cheat-sheets](https://github.com/detailyang/cheat-sheets) - 各种编程相关的速查表汇总
 
 ### 电子书/笔记
 
@@ -39,7 +40,7 @@
 + [Dive into HTML5](http://diveintohtml5.info/index.html) - 深入HTML5  
 + [FE-learning](https://github.com/qiu-deqing/) - 前端入门方法总结
 - [repractise](https://github.com/phodal/repractise) - Coding是不断的RePractise——总结和diff change，再Practise
-
+- [@fouber 的博客](https://github.com/fouber/blog) - 前端工程相关
 
 ### 优秀网站
 + 综合
@@ -138,6 +139,7 @@
   + [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程，来自国外社区的优秀文章和个人实践
   + [my-git](https://github.com/xirong/my-git) - git资料整理
   + [bad-data-guide](https://github.com/Quartz/bad-data-guide) - 关于真实场景下的数据可能出现的问题, 以及如何解决它们的建议的详细参考
+  - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 
 - 其它  
   + [angular-phonecat-book-zhcn](http://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/) - angular-phonecat教程中文版  
