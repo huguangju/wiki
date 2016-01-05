@@ -41,6 +41,7 @@
 + [FE-learning](https://github.com/qiu-deqing/) - 前端入门方法总结
 - [repractise](https://github.com/phodal/repractise) - Coding是不断的RePractise——总结和diff change，再Practise
 - [@fouber 的博客](https://github.com/fouber/blog) - 前端工程相关
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 命令行的艺术
 
 ### 优秀网站
 + 综合
