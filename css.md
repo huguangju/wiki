@@ -63,6 +63,7 @@
     - [ionic](https://github.com/driftyco/ionic) - 专注于用WEB开发技术，基于HTML5创建类似于手机平台原生应用的一个开发框架
 
   + 字体
+    - [typeisbeautiful.com](http://www.typeisbeautiful.com/) - 中文文字排版之美
     - [Entry.css](https://github.com/zmmbreeze/Entry.css) - 一个可配置的、更适合阅读的中文文章样式库  
   
   + 示例
@@ -73,6 +74,8 @@
     - [grid](https://github.com/aekaplan/grid) - 响应式设计简易指南 
     - [sanitize.css](https://github.com/jonathantneal/sanitize.css) - 可持续维护的css最佳实践 
     - [css-protips](https://github.com/AllThingsSmitty/css-protips) - css实用技巧
+    - [learnlayout.com](http://zh.learnlayout.com) - 学习css布局
+    - [easings.net](http://easings.net/zh-cn) - 缓动函数速查表
 
 + 设计
   - 素材

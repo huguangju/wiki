@@ -583,6 +583,7 @@
 + [obelisk.js](https://github.com/nosir/obelisk.js) - Obelisk.js是个非常酷的JS库，它本质上是一个创建等距对象的JavaScript引擎
 + [matter-js](https://github.com/liabru/matter-js) - 基于 Web 的 2D 图形引擎
 + [zrender](https://github.com/ecomfe/zrender) - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同
+- [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 
 ### Images
 
@@ -667,11 +668,12 @@
 
 + [jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced) - Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.
 + [sprite.js](https://github.com/batiste/sprite.js) - An efficient javascript sprite animation framework
-+ [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - 用javascrip + CSS transforms 创建的动画库    
++ [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - 用javascript + CSS transforms 创建的动画库    
 
 ### Other Resources
 
 + Document
+  - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
   + [js-the-right-way](https://github.com/braziljs/js-the-right-way) - Javascript最佳编码实践  
   + [MDN JavaScript文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)   
   + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂  

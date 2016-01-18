@@ -147,3 +147,4 @@
 
 ### 综合
 - [Music for Programming](http://musicforprogramming.net/) - [写代码时你可以听听这些音乐](http://codingpy.com/article/music-for-programming/)
+- [githug](https://github.com/Gazler/githug) - [闯过这 54 关，点亮你的 Git 技能树](http://segmentfault.com/a/1190000004222489)
