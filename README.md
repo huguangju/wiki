@@ -1,5 +1,7 @@
 ## [JavaScript](javascript.md), [Java](java.md), [CSS](css.md), [Python](pyton.md), [Nodejs](nodejs.md).
 
+> 如果你发现自己陷入各种新技术、工具包围中，而纠结于该选择哪些学习，读读这篇文章，[技术的执念](http://icodeit.org/2016/02/pitfall-of-technology/)。
+
 ## 综合资源
 
 ### 资源链接汇集
@@ -8,10 +10,6 @@
 + [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - 开发资源总结
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Github上最火的前端开源项目汇集
 + [frontend-stuff](https://github.com/moklick/frontend-stuff) - 前端相关库
-+ [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - bootstrap 资源汇集 
-+ [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - 系统管理员资源汇集
-+ [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - Web性能优化资源汇集
-+ [awesome-react](https://github.com/enaqx/awesome-react) - Facebook React库相关资源汇集 
 + [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理: 按语言或技术分类的资料汇集
 + [front-end-frameworks](https://github.com/usablica/front-end-frameworks/) - 帮助更快、更容易地进行Web开发的最好的前端框架汇集  
 + [web-starter-kit](https://github.com/google/web-starter-kit/) - Google Web Starter Kit
@@ -19,6 +17,7 @@
 + [大前端的瑞士军刀，只记录有用的](https://github.com/nieweidong/fetool)  
 + [前端收藏夹](http://collect.w3ctrain.com/)
 - [cheat-sheets](https://github.com/detailyang/cheat-sheets) - 各种编程相关的速查表汇总
+- [tuiblogs](https://github.com/edagarli/tuiblogs) - 优秀的计算机编程类博客和文章
 
 ### 电子书/笔记
 
@@ -27,7 +26,8 @@
 + [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - 分分钟学会一门编程语言 :sparkles:
 + [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能
 + [gitbook](https://www.gitbook.com/) - 一个现代化的、用于出版的工具链，简单地把你的理念变为成品，发布成书 
-+ [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 此为《程序员编程艺术：面试和算法心得》的初稿，于14年6月转移到Word上优化，纸质版15年上市
++ [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 《程序员编程艺术：面试和算法心得》
+- [algorithm-exercise](https://github.com/billryan/algorithm-exercise) - 数据结构与算法/leetcode/lintcode题解
 + [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 借助开源项目，学习软件开发
 + [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - 前端工作面试问题  
 + [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端工作面试题解答    
@@ -49,11 +49,15 @@
   + [codeproject](http://www.codeproject.com/) - 开源的程序设计网站,主要的使用者是Windows平台上的程序员,每一篇文章几乎都附有来源码和例子
 
 + 教程类 
+  - [网易公开课](http://open.163.com/)
   + [http://nodeschool.io/](http://nodeschool.io/zh-cn/) - 教你 Web 开发技能的开源课程，自学或者参加一个附近的教学活动
+  + [可汗学院](https://www.khanacademy.org/) - [中文](https://zh-hans.khanacademy.org/)
 
 + 资源类
   + [Div.IO](http://div.io/) - 最新的前端库和前沿技术  
   + [FED社区](http://frontenddev.org/)  
+  - [WEB资源网](http://webres.wang/) - 最新鲜的WEB程序员技术文档及相关资源
+  - [market.envato.com](http://market.envato.com/) - Web模板市场
 
 + 新闻类
   + [Hacker News](https://news.ycombinator.com/) - 关于电脑黑客和创业公司的社会化新闻网站
@@ -74,6 +78,7 @@
   + [梦想天空(山边小溪)的博客园](http://www.cnblogs.com/lhb25/) - 前端开发技术/网页设计资源/HTML5 & CSS3技术分享
 
 + 前端相关
+  - [wix.com](http://www.wix.com/) - 零基础创建一个网站（迄今为此用过的用户体验及UI设计最棒的web应用）
   + [html5rocks.com](http://www.html5rocks.com/en/) - 为开放网络 HTML5 开发人员提供的资源  
   + [codepen.io](http://codepen.io/) - 优秀HTML和CSS展示网站 :+1:
   + [front-end-collect](https://github.com/foru17/front-end-collect) - 前端开发相关的优秀网站、博客、以及活跃开发者
@@ -82,6 +87,7 @@
 
 + 设计相关
   + [SDC设计师网址导航](http://hao.uisdc.com/)
+  - [uplabs.com](http://www.uplabs.com/) - 为开发者与设计师提供创意与工具
   + [100天UI](http://100daysui.com) - [一天一个UI，这位设计师坚持设计了100天！](http://www.brandvista.com/2015/11/%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AAui%EF%BC%8C%E8%BF%99%E4%BD%8D%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%9D%9A%E6%8C%81%E8%AE%BE%E8%AE%A1%E4%BA%86100%E5%A4%A9%EF%BC%81/)  
 
 + Java相关  
@@ -141,6 +147,7 @@
   + [my-git](https://github.com/xirong/my-git) - git资料整理
   + [bad-data-guide](https://github.com/Quartz/bad-data-guide) - 关于真实场景下的数据可能出现的问题, 以及如何解决它们的建议的详细参考
   - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
+  - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计
 
 - 其它  
   + [angular-phonecat-book-zhcn](http://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/) - angular-phonecat教程中文版  
@@ -148,3 +155,4 @@
 ### 综合
 - [Music for Programming](http://musicforprogramming.net/) - [写代码时你可以听听这些音乐](http://codingpy.com/article/music-for-programming/)
 - [githug](https://github.com/Gazler/githug) - [闯过这 54 关，点亮你的 Git 技能树](http://segmentfault.com/a/1190000004222489)
+- [理解RESTFul架构](http://mccxj.github.io/blog/20130530_introduce-to-rest.html)
