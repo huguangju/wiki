@@ -2,16 +2,26 @@
 
 > see more: [awesome-css](https://github.com/sotayamashita/awesome-css)  
 
-+ CSS
-  + 框架
++ CSS 资源
+
+  - 框架
     - [bootstrap](https://github.com/twbs/bootstrap) - 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单:thumbsup:
     - [uikit](https://github.com/uikit/uikit) - 轻量级和模块化的前端框架,快速开发web程序
     - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - 语义化设计的前端框架，为攻城师而制作的可复用的开源前端框架
     - [amazeui](https://github.com/allmobilize/amazeui) - 中国首个开源 HTML5 跨屏前端框架
     - [design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System (包括如何设计出UI系统) 
     - [photon](https://github.com/connors/photon) - 用HTML和CSS快速构建出OX S系统样式  
-    - [landio-html](https://github.com/tatygrassini/landio-html) - UI组件 + 着陆页样式  
+    - [landio-html](https://github.com/tatygrassini/landio-html) - UI组件 + 着陆页样式        
 
+  - 布局
+    - [learnlayout.com](http://zh.learnlayout.com/) - 学习CSS布局
+    - Flex布局  
+      - [flexboxfroggy.com](http://flexboxfroggy.com/#zh-cn) - 用有趣的方法（青蛙 + 荷叶）来研究 flexbox 语法
+      - [flexbox.help](http://flexbox.help/) - 一个简单的交互式网页，帮你了解 flexbox 的每个特性是如何工作的
+      - [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+      - [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+    - [Grid by Example](http://gridbyexample.com/)
+      
   + 组件
     + Hover
       - [Hover](https://github.com/IanLunn/Hover) - 一套基于 CSS3 的鼠标悬停效果和动画，这些可以非常轻松的被应用到按钮、LOGO 以及图片等元素。所有这些效果都是只需要单一的标签，必要的时候使用 before 和 after 伪元素。
@@ -74,7 +84,6 @@
     - [grid](https://github.com/aekaplan/grid) - 响应式设计简易指南 
     - [sanitize.css](https://github.com/jonathantneal/sanitize.css) - 可持续维护的css最佳实践 
     - [css-protips](https://github.com/AllThingsSmitty/css-protips) - css实用技巧
-    - [learnlayout.com](http://zh.learnlayout.com) - 学习css布局
     - [easings.net](http://easings.net/zh-cn) - 缓动函数速查表
 
 + 设计
@@ -84,4 +93,14 @@
   - 工具
     - [Material Design 在线配色工具](https://www.materialpalette.com)
 
+  - UI套件(UI Kits)
+    - [PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - 基于Bootstrap的一组开源的UI套件   
 
++ 综合
+  - 教程
+    - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+    - [w3help.org](http://w3help.org/zh-cn/kb/)
+  - 预处理器
+    - [再谈 CSS 预处理器](http://efe.baidu.com/blog/revisiting-css-preprocessors/)
+  - 其它
+    - [css-protips](https://github.com/AllThingsSmitty/css-protips) - 帮助你提升CSS技巧的小贴士
