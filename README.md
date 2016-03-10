@@ -8,6 +8,7 @@
 + [awesome](https://github.com/sindresorhus/awesome) - 各种主流语言的优秀项目汇集 :+1:
 + [lists](https://github.com/jnv/lists) - 资源集合的汇集
 + [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - 开发资源总结
+- [awesome-github](https://github.com/AntBranch/awesome-github) - 更好地使用GitHub
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Github上最火的前端开源项目汇集
 + [frontend-stuff](https://github.com/moklick/frontend-stuff) - 前端相关库
 + [manong](https://github.com/nemoTyrant/manong) - 码农周刊整理: 按语言或技术分类的资料汇集

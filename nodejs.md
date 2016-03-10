@@ -131,6 +131,7 @@
   - [node-tutorial-2-restful-app](https://github.com/cwbuecheler/node-tutorial-2-restful-app) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
   - [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners  
 + 综合示例
+  - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
   - [greatrms](https://github.com/xuyuan923/greatrms) - 资源管理系统 GreatRMS（Nodejs + Express + Mongodb + Mongoose）
 
 
