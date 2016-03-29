@@ -87,7 +87,10 @@
     - [css-protips](https://github.com/AllThingsSmitty/css-protips) - css实用技巧
     - [easings.net](http://easings.net/zh-cn) - 缓动函数速查表
 
-+ 设计
++ 资源
+  - 设计网
+    - [dribbble.com](https://dribbble.com/) - 面向创作家、艺术工作者、设计师等创意类作品的人群，提供作品在线服务
+    - [uplabs.com](www.uplabs.com/) - 为设计师和开发者准备的UI 资源，包括MD，iOS，Web 等
   - 素材
     - [纹理背景素材](http://www.subtlepatterns.com)
 
