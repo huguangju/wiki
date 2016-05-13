@@ -1,7 +1,7 @@
 ## JavaScript, [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](python.md), [Nodejs](nodejs.md).
 
 > Inspired by the [awesome-javascript](https://github.com/sorrycc/awesome-javascript) list thing.
-  See more -> [awesome](https://github.com/sindresorhus/awesome) 
+  See more -> [awesome](https://github.com/sindresorhus/awesome)
 
 + [JavaScript](#javascript)
   + [包管理器 (Package Managers)](#package-managers)
@@ -20,7 +20,7 @@
     + [脑图 (Mind Map)](#mind-map)
     + [PPT](#ppt)
     + [流程图 (Flowchart)](#flowchart )
-  + [脚手架 (Scaffolding)](#scaffolding) 
+  + [脚手架 (Scaffolding)](#scaffolding)
   + [文件上传 (File Upload)](#file-upload)
   + [编辑器 (Editors)](#editors)
   + 实用工具
@@ -86,7 +86,7 @@
   + [地图 (Maps)](#maps)
   + [动画 (Animations)](#animations)
   + [其它资源 (Other Resources)](#other-resources)
-    + [AngularJs](#angularjs) 
+    + [AngularJs](#angularjs)
     + [网站 (WebSite)](#website)
 	+ [博客 (Blog)](#blog)
 	+ [文档 (Document)](#document)
@@ -96,7 +96,7 @@
 ## ```Javascript```
 ### Package Managers
 
-*在远程主机存放JavaScript库，并提供工具下载到本地或打包上传* 
+*在远程主机存放JavaScript库，并提供工具下载到本地或打包上传*
 
 + [bower](https://github.com/bower/bower) - twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系
 + [spm](https://github.com/spmjs/spm) - Brand new static package manager.
@@ -126,7 +126,7 @@
 ### MVC Frameworks and Libraries
 
 + [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
-+ [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events. 
++ [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 
 ### Non-MVC Frameworks
 
@@ -141,7 +141,7 @@
 ### UI Frameworks
 
 + [fuelux](https://github.com/ExactTarget/fuelux) - Extends Twitter Bootstrap with additional lightweight JavaScript controls.
-+ [ionic](https://github.com/driftyco/ionic) - Advanced HTML5 mobile development framework and SDK. Build great hybrid apps with web technologies you already know and love. Best friends with AngularJS. 
++ [ionic](https://github.com/driftyco/ionic) - Advanced HTML5 mobile development framework and SDK. Build great hybrid apps with web technologies you already know and love. Best friends with AngularJS.
 
 ### Data Binding
 
@@ -149,7 +149,7 @@
 + [bindonce](https://github.com/Pasvaz/bindonce) - Zero watches binding for AngularJs.
 + [swarm](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library.
 
-### Templating Engines 
+### Templating Engines
 
 *使用户界面与业务数据（内容）分离,提高开发效率*
 
@@ -163,7 +163,7 @@
 
 ### Timeline
 
-+ [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript    
++ [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript
 
 ### Gantt
 
@@ -206,18 +206,18 @@
 *JavaScript实用工具库*
 
 + [is.js](https://github.com/arasatasaygin/is.js) - 小型、通用的检查库,涵盖类型、正则、数学、时间、环境等等
-+ [101](https://github.com/tjmehta/101) - A modern JS utility library  
++ [101](https://github.com/tjmehta/101) - A modern JS utility library
 + [jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
 + [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 + [jsdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript.
 + [FeHelper](https://github.com/zxlie/FeHelper) - Web前端助手--FeHelper(Chrome扩展)
-+ [minimap](https://github.com/princejwesley/minimap) - A preview of full webpage or its DOM element with flexible positioning and navigation support 
++ [minimap](https://github.com/princejwesley/minimap) - A preview of full webpage or its DOM element with flexible positioning and navigation support
 
 ### Event
 
 + [jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel) - 跨浏览器鼠标滚轮支持的jQuery插件
 
-### Code Formattring 
+### Code Formattring
 
 + [js-beautify](https://github.com/beautify-web/js-beautify) - javascript 代码格式化
 
@@ -226,9 +226,9 @@
 *把运算过程尽量写成一系列嵌套的函数调用的"结构化编程"的JavaScript库*
 
 + [underscore](https://github.com/jashkenas/underscore) - JavaScript工具库,提供了常用的功能函数,而不继承任何JavaScript内置对象
-+ [lodash](https://github.com/lodash/lodash) - JavaScript实用工具库：提供一致性、模块化、性能优化和附加功能（相当于[underscore](https://github.com/jashkenas/underscore)的增强版） 
-+ [ramda](https://github.com/ramda/ramda) - Javascript函数式编程实践  
-+ [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier 
++ [lodash](https://github.com/lodash/lodash) - JavaScript实用工具库：提供一致性、模块化、性能优化和附加功能（相当于[underscore](https://github.com/jashkenas/underscore)的增强版）
++ [ramda](https://github.com/ramda/ramda) - Javascript函数式编程实践
++ [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier
 
 ### Reactive Programming
 
@@ -281,7 +281,7 @@
 ### Color
 
 + [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A jQuery plugin for extracting the dominant color from images and applying the color to their parent
-+ [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - jQuery MiniColors Plugin 
++ [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - jQuery MiniColors Plugin
 + [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 + [jquery-simplecolorpicker](https://github.com/tkrotoff/jquery-simplecolorpicker) - Very simple jQuery color picker
 + [color-thief](https://github.com/lokesh/color-thief) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas
@@ -366,12 +366,12 @@
 + [slate](https://github.com/tripit/slate) - 帮助创建漂亮的的API文档,可以把它作为智能的,响应式的API文档模板
 
 ### Vision Detection
-+ [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web  
++ [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
 + [jsfeat](https://github.com/inspirit/jsfeat) - JavaScript Computer Vision library
 
 ### Mock
-+ [json-server](https://github.com/typicode/json-server) -  在30秒之内建立全部的模拟REST API  
-+ [lowdb](https://github.com/typicode/lowdb) -  建立在lodash API上的扁平JSON文件数据库  
++ [json-server](https://github.com/typicode/json-server) -  在30秒之内建立全部的模拟REST API
++ [lowdb](https://github.com/typicode/lowdb) -  建立在lodash API上的扁平JSON文件数据库
 
 ### Code Highlighting
 
@@ -446,8 +446,8 @@
 + [Ideal-Image-Slider](https://github.com/gilbitron/Ideal-Image-Slider) - Quite simply the ideal Image Slider in vanilla JS.
 + [jquery.smoothState.js](https://github.com/weblinc/jquery.smoothState.js) - A jQuery plugin to stop the jank of page loads.)
 + [bxslider-4](https://github.com/stevenwanderski/bxslider-4) - Responsive jQuery content slider
-+ [slider](https://github.com/jssor/slider) - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image  
-+ [swiper](https://github.com/nolimits4web/swiper)  
++ [slider](https://github.com/jssor/slider) - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image
++ [swiper](https://github.com/nolimits4web/swiper)
 
 ### Range Sliders
 
@@ -461,12 +461,12 @@
 
 *&lt;select&gt; 下拉选择框架*
 
-+ [select2](https://github.com/ivaynberg/select2) - 支持搜索、远程数据访问、无限下拉滚动 :ok_hand:  
-+ [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) - 兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!  
-+ [multi-select](https://github.com/lou/multi-select) - 一个替换标准选择框的、用户友好的多属性添加与移除选择框  
-+ [bootstrap-select](https://github.com/silviomoreto/bootstrap-select) - 基于Twitter Bootstrap的下拉选择框  
-+ [selectize.js](https://github.com/brianreavis/selectize.js) - 个基于jQuery的自定义&lt;select&gt; UI 控件,具有自动完成、类似原生选择框的键盘导航及较好的用户体验  
-+ [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - 基于Bootstrap的多选下拉框jQuery插件  
++ [select2](https://github.com/ivaynberg/select2) - 支持搜索、远程数据访问、无限下拉滚动 :ok_hand:
++ [jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) - 兼容移动端的、bootstrap风格的jQuery选择框插件,Wonderful!
++ [multi-select](https://github.com/lou/multi-select) - 一个替换标准选择框的、用户友好的多属性添加与移除选择框
++ [bootstrap-select](https://github.com/silviomoreto/bootstrap-select) - 基于Twitter Bootstrap的下拉选择框
++ [selectize.js](https://github.com/brianreavis/selectize.js) - 个基于jQuery的自定义&lt;select&gt; UI 控件,具有自动完成、类似原生选择框的键盘导航及较好的用户体验
++ [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - 基于Bootstrap的多选下拉框jQuery插件
 
 *&lt;input&gt; 文本输入框自动完成*
 
@@ -480,7 +480,7 @@
 + [jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin) - 表单字段和页面元素掩码jQuery插件
 + [formatter.js](https://github.com/firstopinion/formatter.js) - Format html inputs to match a specified pattern
 + [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask) - jQuery Input Mask plugin
-+ [intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input) - 输入和验证国际电话号码的jQuery插件 
++ [intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input) - 输入和验证国际电话号码的jQuery插件
 
 *标签管理*
 
@@ -496,12 +496,12 @@
 + [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips
 + [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery
 + [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin
-+ [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin 
++ [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 + [jquery-powertip](https://github.com/stevenbenner/jquery-powertip) - A jQuery plugin that creates hover tooltips
 + [cssarrowplease](https://github.com/hojberg/cssarrowplease) - 生成工具提示箭头CSS类
 + [jquery-validation-bootstrap-tooltip](https://github.com/Thrilleratplay/jquery-validation-bootstrap-tooltip) - A drop in extension replacing error labels from jQuery Validation plugin with Twitter Bootstrap tooltips
 
-### Positioning 
+### Positioning
 
 + [tether](https://github.com/HubSpot/tether) - A positioning engine to make overlays, tooltips and dropdowns better
 + [fixto](https://github.com/bbarakaci/fixto) - A jQuery plugin for sticky positioning
@@ -511,7 +511,7 @@
 ### Modals and Popups
 
 + [jBox](https://github.com/StephanWagner/jBox) - 强大灵活的弹窗、消息提示、通知...jQuery插件 :clap:
-+ [flippant.js](https://github.com/mintchaos/flippant.js) - 一个迷你、依赖少的DOM节点翻转UI库 
++ [flippant.js](https://github.com/mintchaos/flippant.js) - 一个迷你、依赖少的DOM节点翻转UI库
 + [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
   + [bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert) - Bootstrap implementation
 + [noty](https://github.com/needim/noty) - noty is a jQuery plugin that makes it easy to create alert - success - error - warning - information - b messages as an alternative the standard alert dialog. Each notification is added to a queue.
@@ -519,7 +519,7 @@
 
 ### DatePicker
 
-+ [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap  
++ [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap
 
 ### Scroll
 
@@ -579,7 +579,7 @@
 + [AlloyImage](https://github.com/AlloyTeam/AlloyImage) - 基于HTML5的专业级图像处理开源引擎
 + [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
 + [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) - A JQUERY PLUGIN FOR SVG PATH ANIMATION
-+ [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) - 实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果 
++ [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) - 实现SVG图标变形成另外一个SVG 图标的过渡效果的JavaScript库，借鉴了Material风格的过渡效果
 + [obelisk.js](https://github.com/nosir/obelisk.js) - Obelisk.js是个非常酷的JS库，它本质上是一个创建等距对象的JavaScript引擎
 + [matter-js](https://github.com/liabru/matter-js) - 基于 Web 的 2D 图形引擎
 + [zrender](https://github.com/ecomfe/zrender) - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同
@@ -589,13 +589,13 @@
 
 + [holder](https://github.com/imsky/holder) - 客户端图片占位器
 + [cloud-zoom](https://github.com/smurfy/cloud-zoom) - 图片放大镜
-+ [Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - 同上  
-+ [cropper](https://github.com/fengyuanchen/cropper) - 简单的图片裁剪插件  
++ [Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - 同上
++ [cropper](https://github.com/fengyuanchen/cropper) - 简单的图片裁剪插件
 
 ### Menu
 
 + [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - 用于电商网站的多级商品菜单
-+ [jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp. 
++ [jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 + [jQuery-contextMenu](https://github.com/medialize/jQuery-contextMenu) - contextMenu manager
 + [metisMenu](https://github.com/onokumus/metisMenu) - Easy menu jQuery plugin for Twitter Bootstrap 3
 + [toc](https://github.com/jgallen23/toc) - 根据页面内容生成目录的jQuery插件
@@ -623,13 +623,13 @@
 + [Blur.js](https://github.com/jakiestfu/Blur.js) - blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
 + [tip_cards](https://github.com/peachananr/tip_cards) - Create a card layout that let your user flip through it like you see on Google Tips
 + [purplecoat.js](https://github.com/ellekasai/purplecoat.js) - Simple Labeled Overlays
-+ [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations 
++ [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 + [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page
 
 ### Navigation
 
 + [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
-+ [navgoco](https://github.com/tefra/navgoco) - Multi-level slide navigation with session storage and accordion effect for JQuery 
++ [navgoco](https://github.com/tefra/navgoco) - Multi-level slide navigation with session storage and accordion effect for JQuery
 + [TinyNav.js](https://github.com/viljamis/TinyNav.js) - Responsive navigation plugin that weighs just 443 bytes
 + [flexnav](https://github.com/indyplanets/flexnav) - A jQuery plugin for responsive menus
 + [jquery-steps](https://github.com/rstaib/jquery-steps) - A powerful jQuery wizard plugin that supports accessibility and HTML5.
@@ -668,26 +668,35 @@
 
 + [jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced) - Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE>=10 and Opera and convert animations automatically.
 + [sprite.js](https://github.com/batiste/sprite.js) - An efficient javascript sprite animation framework
-+ [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - 用javascript + CSS transforms 创建的动画库    
++ [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - 用javascript + CSS transforms 创建的动画库
 
 ### Other Resources
 
 + Document
   - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
-  + [js-the-right-way](https://github.com/braziljs/js-the-right-way) - Javascript最佳编码实践  
-  + [MDN JavaScript文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)   
-  + [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂  
-  + [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript PatternsJavaScript 的原则  
-  + [javascript不为人知的特性](http://stackoverflow.com/questions/61088/hidden-features-of-javascript)  
+  - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - Javascript最佳编码实践
+  - [MDN JavaScript文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+  - [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂
+  - [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript PatternsJavaScript 的原则
+  - [javascript不为人知的特性](http://stackoverflow.com/questions/61088/hidden-features-of-javascript)
+  - [每日更新的javascript小贴士](http://www.jstips.co/zh_CN/)
 + jQuery
-  + [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - 你也许不知道的jquery小贴士
+  - [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - 你也许不知道的jquery小贴士
+
 + AngularJs
-  + [angular-learning](https://github.com/huguangju/angular-learning) - AngularJs 资源 
-+ WebSite
-  + Blog
+  - [angular-learning](https://github.com/huguangju/angular-learning) - AngularJs 资源
+
++ Blog
+
++ ES6
+  - [https://github.com/bevacqua/es6](https://github.com/bevacqua/es6) - ES6 Overview in 350 Bullet Points
+  - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet/blob/master/README_zhCn.md) - ES2015(ES6) 的Cheatsheet，包括提示、小技巧、最佳实践和一些代码片段
+  - [angular-es6](https://github.com/michaelbromley/angular-es6) - 在AngularJS 1.x 中使用ES6特性的一些实践
+  - [understanding-es6](https://github.com/sgaurav/understanding-es6) - 理解ES6的小示例
+
 + Other
-  + [microjs](http://microjs.com/#) - 迷你前端开发框架和类库资源收集 
-  + [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站  
-  + [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - 一张图学习javascript
-  + [js-must-watch](https://github.com/bolshchikov/js-must-watch) - javascript学习视屏资源  
-  
+  - [microjs](http://microjs.com/#) - 迷你前端开发框架和类库资源收集
+  - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站
+  - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - 一张图学习javascript
+  - [js-must-watch](https://github.com/bolshchikov/js-must-watch) - javascript学习视屏资源
+  - [js_designpatterns](https://github.com/nnupoor/js_designpatterns) - javascript 设计模式
