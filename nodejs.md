@@ -1,6 +1,6 @@
 ## [JavaScript](javascript.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](pyton.md), Nodejs.
 
-> more resoures : [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) && [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)  
+> more resoures : [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) && [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)
 
 + NodeJs
   + [命令行应用 (Command-line apps)](#command-line-apps)
@@ -56,7 +56,7 @@
 
 ### Real-time
 + [Socket.io](https://github.com/Automattic/socket.io/) - 实现了实时双向的基于事件的通讯机制
-  
+
 ### Data validation
 + [joi](https://github.com/hapijs/joi) - Object schema validation
 
@@ -91,8 +91,9 @@
 + [从零开始nodejs系列文章 by @bsspirit](http://blog.fens.me/series-nodejs/)
 + [learnyounode](https://github.com/rvagg/learnyounode) - 一步一步学Nodejs 
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) - 七天学会NodeJS  
-+ [learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
++ [learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 + [nodebeginner.org](http://www.nodebeginner.org/index-zh-cn.html) - Node入门
++ [the-node-way](https://github.com/FredKSchott/the-node-way) - Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications
 + [how_to_build_your_own_team_chat_in_five_days](https://github.com/fdietz/how_to_build_your_own_team_chat_in_five_days) - 如何5天搭建自已的团队聊天工具
 + [Express 4.8.x 中文基础文档](https://cnodejs.org/topic/562465bd63c674720a855b49)
 
@@ -100,9 +101,8 @@
 + [art-of-node](https://github.com/maxogden/art-of-node/blob/master/readme.zh-cn.md) - Node之美
 + [stream-handbook](https://github.com/jabez128/stream-handbook) - node stream 手册
 + [browserify-handbook](https://github.com/substack/browserify-handbook) - 如何用browserify构建模块化的应用
-+ [nodejs中文文档](https://github.com/0532/nodejs) 
-+ [the-node-way](https://github.com/FredKSchott/the-node-way) - Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications  
-+ [node-style-guide by @felixge](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.  
++ [nodejs中文文档](https://github.com/0532/nodejs)
++ [node-style-guide by @felixge](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.
 + [node-style-guide by @RisingStack](https://github.com/RisingStack/node-style-guide)
 + [Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices) 
 
@@ -115,21 +115,24 @@
 + [Faker.js](https://github.com/Marak/faker.js) - Generate massive amounts of fake data.
 + [r.js](https://github.com/jrburke/r.js) - Runs RequireJS in Node and Rhino, and used to run the RequireJS optimizer
 + [pomelo](https://github.com/NetEase/pomelo)  - pomelo是基于node.js的高性能,分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包）
-+ [weixin-robot](https://github.com/node-webot/weixin-robot) - 微信公共帐号自动回复机器人 
-+ [douban.fm](https://github.com/turingou/douban.fm) - 简洁优雅的豆瓣电台命令行版，基于 Node.js 
-+ [rssSpider](https://github.com/shanelau/rssSpider) - Rss spider by nodejs , rss 爬虫，正文抓取 
-+ [node-readability](https://github.com/Tjatse/node-readability) - 自动爬取任意站点的页面 
-+ [bookshelf](https://github.com/tgriesser/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js  
-+ [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration 
++ [weixin-robot](https://github.com/node-webot/weixin-robot) - 微信公共帐号自动回复机器人
++ [douban.fm](https://github.com/turingou/douban.fm) - 简洁优雅的豆瓣电台命令行版，基于 Node.js
++ [rssSpider](https://github.com/shanelau/rssSpider) - Rss spider by nodejs , rss 爬虫，正文抓取
++ [node-readability](https://github.com/Tjatse/node-readability) - 自动爬取任意站点的页面
++ [bookshelf](https://github.com/tgriesser/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
++ [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
 + [cheerio](https://github.com/cheeriojs/cheerio) - 为node server特别定制的，快速、灵活、高效地jQuery核心实现
 + [utility](https://github.com/node-modules/utility) - 实用工具集
-+ [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
++ [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js
 + [wp-calypso](https://github.com/Automattic/wp-calypso) - Node.js 版的新 WordPress
 
 ### Demo
+
 + 基础示例
-  - [node-tutorial-2-restful-app](https://github.com/cwbuecheler/node-tutorial-2-restful-app) - Learn the basics of REST and use them to build an easy, fast, single-page web app. 
-  - [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners  
+  - [node-tutorial-2-restful-app](https://github.com/cwbuecheler/node-tutorial-2-restful-app) - Learn the basics of REST and use them to build an easy, fast, single-page web app.
+  - [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) - A simple demo app in node.js using express, mongoose, passport.js for beginners
+  - [generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for AngularJS with an Express server
+  - [Node.js实战(1、2季)源码](http://nodejs.ucdok.com/)
 + 综合示例
   - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
   - [greatrms](https://github.com/xuyuan923/greatrms) - 资源管理系统 GreatRMS（Nodejs + Express + Mongodb + Mongoose）

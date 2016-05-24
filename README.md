@@ -25,6 +25,7 @@
 *see more: [free-programming-books](https://github.com/vhf/free-programming-books) - 编程学习资源电子书([中文](https://github.com/justjavac/free-programming-books-zh_CN))*
 
 + [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - 分分钟学会一门编程语言 :sparkles:
++ [growth-ebook](https://github.com/phodal/growth-ebook) - Growth: 全栈增长工程师指南 :sparkles:
 + [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) - 本秘籍收录了一些Git和Github非常酷同时又少有人知的功能
 + [gitbook](https://www.gitbook.com/) - 一个现代化的、用于出版的工具链，简单地把你的理念变为成品，发布成书
 + [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 《程序员编程艺术：面试和算法心得》
@@ -43,6 +44,7 @@
 - [repractise](https://github.com/phodal/repractise) - Coding是不断的RePractise——总结和diff change，再Practise
 - [@fouber 的博客](https://github.com/fouber/blog) - 前端工程相关
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 命令行的艺术
+- [what-happens-when](https://github.com/skyline75489/what-happens-when-zh_CN) - 解释“当你在浏览器中输入 google.com 并且按下回车之后发生了什么？”
 
 ### 优秀网站
 + 综合
@@ -89,7 +91,7 @@
 + 设计相关
   + [SDC设计师网址导航](http://hao.uisdc.com/)
   - [uplabs.com](http://www.uplabs.com/) - 为开发者与设计师提供创意与工具
-  + [100天UI](http://100daysui.com) - [一天一个UI，这位设计师坚持设计了100天！](http://www.brandvista.com/2015/11/%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AAui%EF%BC%8C%E8%BF%99%E4%BD%8D%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%9D%9A%E6%8C%81%E8%AE%BE%E8%AE%A1%E4%BA%86100%E5%A4%A9%EF%BC%81/)  
+  + [100天UI](http://100daysui.com) - [一天一个UI，这位设计师坚持设计了100天！](http://www.brandvista.com/2015/11/%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AAui%EF%BC%8C%E8%BF%99%E4%BD%8D%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%9D%9A%E6%8C%81%E8%AE%BE%E8%AE%A1%E4%BA%86100%E5%A4%A9%EF%BC%81/)
 
 + Java相关
   + [programcreek](http://www.programcreek.com/) - Java 代码大全 :+1:
@@ -121,7 +123,7 @@
   + [google-styleguide](https://github.com/darcyliu/google-styleguide) - Google 风格指南
   + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md) - AngularJS指南
   + [jQuery JavaScript风格指南](http://contribute.jquery.org/style-guide/js/)
-  + [Douglas Crockford的JavaScript风格指南](http://javascript.crockford.com/code.html) - Douglas Crockford是Web开发领域最知名的技术权威之一，ECMA JavaScript 2.0标准化委员会委员 
+  + [Douglas Crockford的JavaScript风格指南](http://javascript.crockford.com/code.html) - Douglas Crockford是Web开发领域最知名的技术权威之一，ECMA JavaScript 2.0标准化委员会委员
   + [Felix的Node.js风格指南](http://nodeguide.com/style.html)
   + [JavaScript Style Guide](https://github.com/airbnb/javascript)
   + [Git 风格指南](https://github.com/agis-/git-style-guide)
@@ -150,10 +152,8 @@
   - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
   - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计
 
-- 其它
-  + [angular-phonecat-book-zhcn](http://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/) - angular-phonecat教程中文版
-
 ### 综合
 - [Music for Programming](http://musicforprogramming.net/) - [写代码时你可以听听这些音乐](http://codingpy.com/article/music-for-programming/)
 - [githug](https://github.com/Gazler/githug) - [闯过这 54 关，点亮你的 Git 技能树](http://segmentfault.com/a/1190000004222489)
 - [理解RESTFul架构](http://mccxj.github.io/blog/20130530_introduce-to-rest.html)
+- [一个成功的Git建立分支模型](https://aleen42.gitbooks.io/personalwiki/content/translation/successful_git_branching/successful_git_branching.html)
