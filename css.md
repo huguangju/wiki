@@ -1,4 +1,4 @@
-## [JavaScript](javascript.md), [Java](java.md), [Andorid](andorid.md), CSS, [Python](pyton.md), [Nodejs](nodejs.md).
+## [JavaScript](javascript.md), [Java](java.md), CSS, [Python](pyton.md), [Nodejs](nodejs.md).
 
 > see more: [awesome-css](https://github.com/sotayamashita/awesome-css)
 
@@ -12,6 +12,7 @@
     - [design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System (包括如何设计出UI系统)
     - [photon](https://github.com/connors/photon) - 用HTML和CSS快速构建出OX S系统样式
     - [landio-html](https://github.com/tatygrassini/landio-html) - UI组件 + 着陆页样式
+    - [ant-design](https://github.com/ant-design/ant-design) - 蚂蚁金服UI框架
 
   - 布局
     - [learnlayout.com](http://zh.learnlayout.com/) - 学习CSS布局
@@ -90,20 +91,26 @@
     - [easings.net](http://easings.net/zh-cn) - 缓动函数速查表
 
 + 模板
+  - [themeforest.net](http://themeforest.net/) - WordPress 主题, web 模板市场
+  - [wrapbootstrap](https://wrapbootstrap.com/) - Bootstrap主题市场
   - 后台/Admin/Dashboard
     - [gentelella](https://github.com/puikinsh/gentelella) - 免费的 Bootstrap 3 后台模板
     - [adminhero](http://thusbox.com/adminhero/) - 简洁的 Bootstrap 4.x 后台模板
+    - [Flatkit](http://themeforest.net/item/flatkit-app-ui-kit/full_screen_preview/13231484)
+    - [metronic](http://www.keenthemes.com/preview/metronic/)
+  - 前台
+    - [Flatkit](http://themeforest.net/item/flatkit-app-ui-kit/full_screen_preview/13231484)
 
 + 资源
   - 设计网
     - [dribbble.com](https://dribbble.com/) - 面向创作家、艺术工作者、设计师等创意类作品的人群，提供作品在线服务
     - [uplabs.com](www.uplabs.com/) - 为设计师和开发者准备的UI 资源，包括MD，iOS，Web 等
-    - [wrapbootstrap](https://wrapbootstrap.com/) - Bootstrap主题市场
   - 素材
     - [纹理背景素材](http://www.subtlepatterns.com)
 
   - 工具
     - [Material Design 在线配色工具](https://www.materialpalette.com)
+    - [graphicsprings.com](https://www.graphicsprings.com/) - 在线Logo生成器
 
   - UI套件(UI Kits)
     - [PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - 基于Bootstrap的一组开源的UI套件
