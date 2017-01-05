@@ -4,15 +4,6 @@
   See more -> [awesome](https://github.com/sindresorhus/awesome)
 
 + [JavaScript](#javascript)
-  + [包管理器 (Package Managers)](#package-managers)
-  + [加载器 (Loaders)](#loaders)
-  + [测试框架 (Testing Frameworks)](#testing-frameworks)
-  + [QA工具 (QA Tools)](#qa-tools)
-  + [构建工具 (Building Tools)](building-tools)
-  + [MVC框架 (MVC Frameworks and Libraries)](#mvc-frameworks-and-libraries)
-  + [非MVC框架 (Non-MVC Frameworks)](#non-mvc-frameworks)
-  + [UI 框架 (UI Frameworks)](#ui-frameworks)
-  + [模板引擎 (Templating Engines)](#templating-engines)
   + [数据绑定 (Data Binding)](#data-binding)
   + [数据可视化 (Data Visualization)](#data-visualization)
     + [时间轴 (Timeline)](#timeline)
@@ -20,13 +11,10 @@
     + [脑图 (Mind Map)](#mind-map)
     + [PPT](#ppt)
     + [流程图 (Flowchart)](#flowchart )
-  + [脚手架 (Scaffolding)](#scaffolding)
   + [文件上传 (File Upload)](#file-upload)
-  + [编辑器 (Editors)](#editors)
   + 实用工具
     + [工具 (Utility)](#utility)
     + [事件 (Event)](#event)
-    + [格式化 (Code Formatting)](#code-formattiing)
     + [函数式编程 (Functional Programming)](#functional-programming)
     + [响应式编程 (Reactive Programming)](#reactive-programming)
     + [Promise](#promise)
@@ -86,76 +74,20 @@
   + [地图 (Maps)](#maps)
   + [动画 (Animations)](#animations)
   + [其它资源 (Other Resources)](#other-resources)
-    + [AngularJs](#angularjs)
-    + [网站 (WebSite)](#website)
-	+ [博客 (Blog)](#blog)
-	+ [文档 (Document)](#document)
+    + [文档 (Document)](#document)
+	  + [博客 (Blog)](#blog)
+    + [ES6](#es6)
+	  + [Other](#other)
 
 ====
 
 ## ```Javascript```
-### Package Managers
-
-*在远程主机存放JavaScript库，并提供工具下载到本地或打包上传*
-
-+ [bower](https://github.com/bower/bower) - twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系
-+ [spm](https://github.com/spmjs/spm) - Brand new static package manager.
-
-### Loaders
-
-*JavaScript模块或加载系统*
-
-+ [headjs](https://github.com/headjs/headjs) - The only script in your HEAD.
-+ [RequireJS](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
-+ [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
-+ [node-browserify](https://github.com/substack/node-browserify) - Browserify 可以让你使用类似于 node 的 require() 的方式来组织浏览器端的 Javascript 代码，通过预编译让前端 Javascript 可以直接使用 Node NPM 安装的一些库
-
-### Testing Frameworks
-
-+ [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
-+ [jasmine](https://github.com/pivotal/jasmine) - DOM-less simple JavaScript testing framework.
-+ [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) - jQuery的Mockjax插件提供了一个简单的和极其灵活的接口，模拟Ajax请求和响应
-
-### QA Tools
-+ [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
-
-### Building Tools
-+ [generator](https://github.com/yeoman/generator) - 为你提供项目脚手架的生成系统, 完成新建文件、安装模块、类库等重复性操作
-
-
-### MVC Frameworks and Libraries
-
-+ [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
-+ [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
-
-### Non-MVC Frameworks
-
-*非MVC结构框架,主要是综合性的工具类库*
-
-+ [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications
-+ [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-+ [aralejs](https://github.com/aralejs/aralejs.org) - 开放、简单、易用的前端基础类库
-+ [todomvc](https://github.com/tastejs/todomvc) - Backbone.js, Ember.js, AngularJS及更多框架版本的TODO应用
-+ [famous](https://github.com/Famous/famous) - Famo.us提供HTML5的JavaScript开发框架，可以让开发者利用 HTML5创造2D和3D的手势操作界面，并且可适配在各种移动或者桌面设备
-
-### UI Frameworks
-
-+ [fuelux](https://github.com/ExactTarget/fuelux) - Extends Twitter Bootstrap with additional lightweight JavaScript controls.
-+ [ionic](https://github.com/driftyco/ionic) - Advanced HTML5 mobile development framework and SDK. Build great hybrid apps with web technologies you already know and love. Best friends with AngularJS.
 
 ### Data Binding
 
-+ [way.js](https://github.com/gwendall/way.js) - 简单、轻量级、稳定的双向数据绑定库
-+ [bindonce](https://github.com/Pasvaz/bindonce) - Zero watches binding for AngularJs.
-+ [swarm](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library.
-
-### Templating Engines
-
-*使用户界面与业务数据（内容）分离,提高开发效率*
-
-+ [artTemplate](https://github.com/aui/artTemplate) - 性能卓越的 js 模板引擎
-+ [handlebars.js](https://github.com/wycats/handlebars.js) - JavaScript语义模板库，通过对view和data的分离来快速构建Web模板
-+ [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
++ [way.js](https://github.com/gwendall/way.js) [![way.js](https://img.shields.io/github/stars/gwendall/way.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gwendall/way.js) - 简单、轻量级、稳定的双向数据绑定库
++ [bindonce](https://github.com/Pasvaz/bindonce) [![https://github.com/Pasvaz/bindonce](https://img.shields.io/github/stars/Pasvaz/bindonce.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Pasvaz/bindonce) - Zero watches binding for AngularJs.
++ [swarm](https://github.com/gritzko/swarm) [![swarm](https://img.shields.io/github/stars/gritzko/swarm.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library.
 
 ### Data Visualization
 
@@ -184,10 +116,6 @@
 
 + [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 
-### Scaffolding
-
-+ [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) - AngularJS + GulpJS 的Yeoman脚手架生成器
-
 ### File Upload
 
 + [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - 功能强大的文件上传组件，你值得拥有
@@ -195,11 +123,6 @@
 + [webuploader](https://github.com/fex-team/webuploader) - 一个新的文件上传解决方案!
 + [angular-file-upload](https://github.com/danialfarid/angular-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
 + [jquery.fileapi](https://github.com/RubaXa/jquery.fileapi/) - FileAPI jQuery插件 (多文件上传、图片上传、裁剪、 调整尺寸等等)
-
-### Editors
-
-+ [brackets](https://github.com/adobe/brackets) - 开源的JavaScript、HTML、CSS网页代码编辑器
-+ [CodeMirror](https://github.com/codemirror/CodeMirror) - 一款"Online Source Editor"，基于Javascript，短小精悍，实时在线代码高亮显示
 
 ### Utility
 
@@ -210,16 +133,11 @@
 + [jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
 + [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 + [jsdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript.
-+ [FeHelper](https://github.com/zxlie/FeHelper) - Web前端助手--FeHelper(Chrome扩展)
 + [minimap](https://github.com/princejwesley/minimap) - A preview of full webpage or its DOM element with flexible positioning and navigation support
 
 ### Event
 
 + [jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel) - 跨浏览器鼠标滚轮支持的jQuery插件
-
-### Code Formattring
-
-+ [js-beautify](https://github.com/beautify-web/js-beautify) - javascript 代码格式化
 
 ### Functional Programming
 
@@ -351,7 +269,6 @@
 + [clappr](https://github.com/globocom/clappr) - An extensible media player for the web
 + [mediaelement](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
 + [matchMedia.js](https://github.com/paulirish/matchMedia.js) - matchMedia polyfill for testing media queries in JS
-
 + [gifshot](https://github.com/yahoo/gifshot) - 能够从媒体流，视频或图片创建GIF动画。该库的客户端特性使其非常便携，易于集成到几乎任何网站
 
 ### Voice Command
@@ -672,31 +589,29 @@
 
 ### Other Resources
 
-+ Document
+### Document
+  - [MDN JavaScript文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
   - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
   - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - Javascript最佳编码实践
-  - [MDN JavaScript文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-  - [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - 书写具备一致风格、通俗易懂
+  - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/tree/master/translations/zh_CN) - 书写具备一致风格、通俗易懂 JavaScript 的原则
   - [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript PatternsJavaScript 的原则
+  - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - JavaScript代码整洁之道
   - [javascript不为人知的特性](http://stackoverflow.com/questions/61088/hidden-features-of-javascript)
   - [每日更新的javascript小贴士](http://www.jstips.co/zh_CN/)
-+ jQuery
   - [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - 你也许不知道的jquery小贴士
 
-+ AngularJs
-  - [angular-learning](https://github.com/huguangju/angular-learning) - AngularJs 资源
+### Blog
+  - [2ality.com](http://www.2ality.com) - JavaScript and more
 
-+ Blog
-
-+ ES6
+### ES6
   - [https://github.com/bevacqua/es6](https://github.com/bevacqua/es6) - ES6 Overview in 350 Bullet Points
   - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet/blob/master/README_zhCn.md) - ES2015(ES6) 的Cheatsheet，包括提示、小技巧、最佳实践和一些代码片段
-  - [angular-es6](https://github.com/michaelbromley/angular-es6) - 在AngularJS 1.x 中使用ES6特性的一些实践
   - [understanding-es6](https://github.com/sgaurav/understanding-es6) - 理解ES6的小示例
 
-+ Other
+### Other
   - [microjs](http://microjs.com/#) - 迷你前端开发框架和类库资源收集
   - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 一套专业的前端模版，用以开发快速、健壮、适应性强的app或网站
   - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - 一张图学习javascript
   - [js-must-watch](https://github.com/bolshchikov/js-must-watch) - javascript学习视屏资源
   - [js_designpatterns](https://github.com/nnupoor/js_designpatterns) - javascript 设计模式
+  - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30天原生js挑战（一系列视屏，用原生js 30天编写30个小项目）
