@@ -162,6 +162,7 @@
 + [sift.js](https://github.com/crcn/sift.js) - 受MongoDB启发的数组过滤库
 + [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript实现的不同计算机法算
 + [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - Javascript数据结构与算法
+- [《学习JavaScript数据结构与算法》源码](https://github.com/loiane/javascript-datastructures-algorithms)
 
 ### Date
 
@@ -614,4 +615,6 @@
   - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - 一张图学习javascript
   - [js-must-watch](https://github.com/bolshchikov/js-must-watch) - javascript学习视屏资源
   - [js_designpatterns](https://github.com/nnupoor/js_designpatterns) - javascript 设计模式
+  - [Design-Patterns-JS](https://github.com/FelipeBB/Design-Patterns-JS) - JavaScript实现的23种（GoF）设计模式
   - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30天原生js挑战（一系列视屏，用原生js 30天编写30个小项目）
+  - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md) - jQuery API替代方法的总结
