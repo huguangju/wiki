@@ -26,7 +26,7 @@
     + [多媒体 (Media)](#media)
     + [语音指令 (Voice Command)](#voice-command)
     + [API](#api)
-    + [浏览器检测](Browser Detection)(#browser-detection)
+    + [浏览器检测](#browser-detection)
     + [Mock](#mock)
   + UI
     + [代码高亮 (Code Highlighting)](#code-highlighting)
