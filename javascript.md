@@ -162,6 +162,7 @@
 + [sift.js](https://github.com/crcn/sift.js) - 受MongoDB启发的数组过滤库
 + [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript实现的不同计算机法算
 + [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - Javascript数据结构与算法
++ [Solve-Data-In-Code](https://github.com/espadrine/Solve-Data-In-Code) - Computer Science Cheatsheets.
 
 ### Date
 
